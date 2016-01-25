@@ -1,0 +1,352 @@
+Status,ILI,WN30,WN31,Synset
+deprecated,ili:i115,00023074-r,none,that_much
+deprecated,ili:i167,00032598-r,none,good_and
+deprecated,ili:i425,00073763-r,none,scantily/barely
+deprecated,ili:i1111,00166512-r,none,in_practice
+deprecated,ili:i1639,00240265-r,none,in_unison
+deprecated,ili:i1640,00240343-r,none,in_unison/in_chorus
+deprecated,ili:i3190,00463080-r,none,sparely
+deprecated,ili:i3232,00468326-r,none,thereunder/under_that/under_it
+deprecated,ili:i3737,00024417-a,none,accustomed
+deprecated,ili:i3741,00025138-s,none,unused
+deprecated,ili:i4048,00080861-s,none,shitless
+deprecated,ili:i4146,00099590-s,none,in_play
+deprecated,ili:i4974,00243039-s,none,negroid
+deprecated,ili:i4977,00243515-s,none,light-skinned
+deprecated,ili:i7775,00750843-s,none,simplified
+deprecated,ili:i8293,00850648-s,none,neat/refined/tasteful
+deprecated,ili:i8783,00942806-s,none,employed
+deprecated,ili:i8934,00970803-s,none,common_or_garden
+deprecated,ili:i9808,01128719-s,none,poor
+deprecated,ili:i9814,01129644-s,none,unfavorable/unfavourable
+deprecated,ili:i10628,01285850-s,none,important-looking
+deprecated,ili:i12529,01628200-s,none,odoriferous
+deprecated,ili:i13656,01827261-s,none,regent
+deprecated,ili:i15073,02089811-s,none,lying_in_wait
+deprecated,ili:i15929,02226661-s,none,arch
+deprecated,ili:i17142,02440996-s,none,inferior
+deprecated,ili:i17590,02518926-s,none,unseeyn
+deprecated,ili:i17863,02566644-s,302532138-s/301342529-s,unintentional/unwilled
+deprecated,ili:i18063,02599509-a,none,Aboriginal
+deprecated,ili:i21065,03045457-a,none,audio-lingual
+deprecated,ili:i21453,03108077-a,none,quadratic
+deprecated,ili:i23440,00341285-v,none,operate
+deprecated,ili:i25994,00874867-v,none,reacquaint
+deprecated,ili:i27411,01157421-v,none,hit
+deprecated,ili:i34658,02594674-v,none,meet/match/cope_with
+deprecated,ili:i40396,00949619-n,100951435-n/100951878-n,technology/engineering
+deprecated,ili:i40620,00996673-n,none,jihad/jehad/international_jihad
+deprecated,ili:i42012,01260731-n,none,sin/hell
+deprecated,ili:i50032,02713769-n,102716628-n/102716929-n,annulet
+deprecated,ili:i50034,02713992-n,102716929-n/102716785-n,annulet/roundel
+deprecated,ili:i51861,03019434-n,none,chino
+deprecated,ili:i51874,03021531-n,none,chlorambucil/Leukeran
+deprecated,ili:i59022,04231905-n,none,Skivvies
+deprecated,ili:i63228,04990781-n,107059027-n/107059160-n,forte/fortissimo
+deprecated,ili:i64203,05181513-n,none,own_right
+deprecated,ili:i67435,05814019-n,none,shades_of
+deprecated,ili:i72746,06896716-n,none,Latino
+deprecated,ili:i72747,06896856-n,none,Latino_sine_flexione
+deprecated,ili:i79190,07968354-n,none,color/colour/people_of_color/people_of_colour
+deprecated,ili:i81723,08500213-n,none,depth
+deprecated,ili:i87263,09636796-n,none,Negress
+deprecated,ili:i87264,09636890-n,none,Black_race/Negroid_race/Negro_race
+deprecated,ili:i87266,09637211-n,none,Black_man
+deprecated,ili:i87267,09637339-n,none,Black_woman
+deprecated,ili:i87269,09637512-n,none,colored_person/colored
+deprecated,ili:i87270,09637684-n,none,darky/darkie/darkey
+deprecated,ili:i87271,09637837-n,none,boy
+deprecated,ili:i87272,09638009-n,none,nigger/nigga/spade/coon/jigaboo/nigra
+deprecated,ili:i87273,09638245-n,none,Tom/Uncle_Tom
+deprecated,ili:i87278,09639237-n,none,White_race/White_people/Caucasoid_race/Caucasian_race
+deprecated,ili:i87281,09639719-n,none,paleface
+deprecated,ili:i87297,09643078-n,none,Oriental/oriental_person
+deprecated,ili:i87298,09643421-n,none,Yellow_race/Mongoloid_race/Mongolian_race
+deprecated,ili:i87299,09643545-n,none,yellow_man
+deprecated,ili:i87300,09643670-n,none,yellow_woman
+deprecated,ili:i87301,09643799-n,none,gook/slant-eye
+deprecated,ili:i87308,09645091-n,none,Indian/American_Indian/Red_Indian
+deprecated,ili:i87319,09648176-n,none,Indian_race/Amerindian_race
+deprecated,ili:i87472,09673341-n,none,Indian_race
+deprecated,ili:i88380,09827363-n,none,baby/babe/sister
+deprecated,ili:i90110,10114550-n,none,fucker
+deprecated,ili:i90167,10122645-n,none,gay_man/shirtlifter
+deprecated,ili:i92070,10440387-n,none,player
+deprecated,ili:i92710,10551751-n,none,sapper
+deprecated,ili:i106758,13330591-n,none,deep_pocket
+deprecated,ili:i116982,15179888-n,none,date/particular_date
+new,,,00188458-v,plug
+new,,,00394655-v,get used to
+new,,,00497220-v,lose
+new,,,00589392-v,fire/light/ignite
+new,,,00589500-v,fire/flame up
+new,,,00609193-v,minor
+new,,,00615215-v,sell out
+new,,,00663151-v,have the distinction
+new,,,00690278-v,trust
+new,,,00897044-v,take sides with/take someone's side
+new,,,00904407-v,justify
+new,,,01063353-v,pin on
+new,,,01074284-v,prescribe
+new,,,01074513-v,prescribe
+new,,,01524927-v,rewind
+new,,,01620096-v,underrun
+new,,,01631504-v,fire
+new,,,01633724-v,call up/summon
+new,,,01660252-v,demolish
+new,,,01661889-v,strike
+new,,,01794202-v,inhibit
+new,,,01965193-v,bathe
+new,,,02078605-v,exfiltrate
+new,,,02078726-v,exfiltrate
+new,,,02110088-v,drown
+new,,,02205670-v,regift
+new,,,02455890-v,restrict
+new,,,02456292-v,restrain
+new,,,02457192-v,repress
+new,,,02483910-v,set aside
+new,,,02562263-v,root
+new,,,02578494-v,gyp/gip
+new,,,02605751-v,book
+new,,,02762433-v,underrun
+new,,,00034873-n,exercise
+new,,,00035244-n,update
+new,,,00410782-n,sting/sting operation
+new,,,00767587-n,offense/offence
+new,,,00781071-n,gyp/gip
+new,,,00913288-n,bricolage
+new,,,00951435-n,technology
+new,,,00951878-n,engineering
+new,,,01114808-n,neuromarketing/neuro-marketing
+new,,,01117127-n,sellout
+new,,,01145712-n,warm up
+new,,,01325752-n,kill
+new,,,02675726-n,piano accordion
+new,,,02675827-n,button accordion
+new,,,02716785-n,roundel
+new,,,02716929-n,annulet
+new,,,02799187-n,hurdy gurdy/hurdy-gurdy/wheel fiddle
+new,,,03023088-n,chinos
+new,,,03025214-n,chlorambucil/Leukeran
+new,,,03033532-n,moulin/glacier mill
+new,,,03090964-n,Chemnitzer concertina
+new,,,03091072-n,English concertina
+new,,,03091170-n,Anglo-German concertina
+new,,,03098803-n,contact microphone/contact mike
+new,,,03268195-n,purple/the purple
+new,,,03403064-n,frock
+new,,,03474619-n,gun microphone/shotgun microphone/gun mike/shotgun mike
+new,,,03691288-n,Loestrin
+new,,,03695166-n,Lo/Ovral
+new,,,03707142-n,technology
+new,,,03783668-n,Modicon
+new,,,03835818-n,Norlestrin
+new,,,03871242-n,monotype
+new,,,03905538-n,patina
+new,,,03905667-n,patina
+new,,,03932172-n,stock photograph/stock image
+new,,,04047719-n,air conditioner/A/C/air-conditioner
+new,,,04047920-n,humidifier
+new,,,04048114-n,dehumidifier
+new,,,04238967-n,skivvies
+new,,,04455013-n,gel/hair gel
+new,,,04814439-n,desert
+new,,,05256763-n,spinal nerve root
+new,,,05598016-n,spinal nerve roots
+new,,,05698967-n,color barrier
+new,,,05822120-n,shades
+new,,,05828731-n,technicality
+new,,,05846299-n,body image
+new,,,05951056-n,kenosis
+new,,,06005013-n,rent seeking/rent-seeking
+new,,,06036690-n,stratum
+new,,,06162890-n,dendrology
+new,,,06226161-n,fundamentalism
+new,,,06234997-n,panenthesism
+new,,,06235186-n,pandeism
+new,,,06265081-n,cool medium/cold medium
+new,,,06265293-n,hot medium
+new,,,06299021-n,paronym
+new,,,06346843-n,geographical indication/GI
+new,,,06347064-n,appellation
+new,,,06379605-n,manga
+new,,,06497868-n,lineup
+new,,,06500907-n,chart
+new,,,06578832-n,plug-in/add-on
+new,,,06600315-n,malware
+new,,,06609408-n,number
+new,,,06629056-n,anime
+new,,,06651972-n,WordNet3.1
+new,,,06719080-n,distinction
+new,,,06836790-n,dieresis/diaeresis
+new,,,07015100-n,slide chart
+new,,,07015315-n,volvelle/wheel chart
+new,,,07038703-n,rhapsody
+new,,,07048857-n,Gregorian chant
+new,,,07059027-n,forte
+new,,,07059160-n,fortissimo
+new,,,07106112-n,initialism
+new,,,07470798-n,sellout
+new,,,07474344-n,criterium/crit
+new,,,07480405-n,rubber
+new,,,07542913-n,rhapsody
+new,,,07562607-n,mysoandry
+new,,,07674441-n,short loin
+new,,,07741018-n,mung bean/mung/green bean/green gram/golden gram/moong/mash bean/munggo/monggo/green soy
+new,,,07961512-n,community
+new,,,08025814-n,International Olympic Committee/IOC/I.O.C.
+new,,,08406649-n,zumbooruk/zumbooruck/zamburek/zamboorak/zamburak/camel cavalry
+new,,,08517241-n,depths
+new,,,08533915-n,pitch/soccer field
+new,,,08678565-n,trouble spot
+new,,,08984793-n,Malaysian state
+new,,,08985168-n,Malacca
+new,,,08985331-n,Penang
+new,,,08985494-n,Perlis
+new,,,08985666-n,Negeri Sembilan
+new,,,08985864-n,Terengganu
+new,,,08986024-n,Selangor
+new,,,08986176-n,Perak
+new,,,08986325-n,Pahang
+new,,,08986475-n,Kelantan
+new,,,08986627-n,Kedah
+new,,,08986776-n,Johor/Johore
+new,,,09054580-n,Helvetia
+new,,,09470589-n,Strait of Malacca
+new,,,09642482-n,gypsy/gipsy
+new,,,09780734-n,concertinist
+new,,,09851585-n,sellout
+new,,,10020122-n,freethinker
+new,,,10021663-n,populist
+new,,,10032289-n,dietician/dietitian
+new,,,10190274-n,Helvetian
+new,,,10230422-n,interior decorator/house decorator/room decorator/decorator
+new,,,10719072-n,hobo/migrant worker
+new,,,10895767-n,Obama/Barack Hussein Obama
+new,,,10955318-n,Dietrich/Paul Heinrich Dietrich/Thiry/Paul-Henri Thiry/d'Holbach/baron d'Holbach
+new,,,11428554-n,fundamentalist
+new,,,11468109-n,languor
+new,,,12599160-n,mung/mung bean/green gram/golden gram/moong/mash bean/munggo/monggo/green soy/green bean
+new,,,13176801-n,betel leaf/betel
+new,,,13351613-n,deep pockets
+new,,,13377602-n,purse strings
+new,,,13668036-n,mrem/millirem
+new,,,13883813-n,complex plane
+new,,,13925772-n,lemniscate
+new,,,13925916-n,figure eight/figure 8/figure of eight
+new,,,13969830-n,echelon
+new,,,14483181-n,couth
+new,,,14604142-n,technicality
+new,,,14606023-n,recycling
+new,,,14801263-n,Brioschi
+new,,,14801347-n,Bromo-seltzer
+new,,,14801600-n,Maalox
+new,,,14801682-n,Mylanta
+new,,,14801927-n,Pepto-bismal
+new,,,14802015-n,Rolaids
+new,,,14990367-n,polynucleotide
+new,,,14993642-n,oligonucleotide/oligo
+new,,,15142101-n,grace/grace period
+new,,,15293376-n,fin de siecle
+new,,,15304617-n,knot
+new,,,00024458-a,accustomed to/used to
+new,,,00024914-a,unaccustomed to
+new,,,00025245-a,unused to(p)
+new,,,00040305-a,supine
+new,,,00042912-a,activated
+new,,,00086117-a,amuck/amok/berserk
+new,,,00129027-a,next
+new,,,00138462-a,on time
+new,,,00193838-a,out of it
+new,,,00347163-a,mutable
+new,,,00415245-a,classical
+new,,,00415419-a,classical
+new,,,00432059-a,amorphous
+new,,,00442050-a,asinine/fatuous/inane
+new,,,00524413-a,dead(a)
+new,,,00585950-a,immutable
+new,,,00587318-a,mutable
+new,,,00613690-a,classical/classic
+new,,,00629437-a,hollow
+new,,,00640609-a,untraveled/untravelled
+new,,,00679196-a,alternate(a)/alternating(a)
+new,,,00695843-a,superficial
+new,,,00770909-a,circuitous/roundabout
+new,,,00784503-a,knifelike
+new,,,00869069-a,star-struck
+new,,,00932684-a,dead
+new,,,00973992-a,garden
+new,,,00994908-a,sylphlike/sylphic
+new,,,01006955-a,out-of-the-way/out of the way
+new,,,01072130-a,undecomposed/incorrupt
+new,,,01227944-a,shady
+new,,,01478913-a,incorrigible
+new,,,01502106-a,unmeaning
+new,,,01516397-a,palpable
+new,,,01517273-a,shitless/witless
+new,,,01554025-a,decadent/fin-de-siecle
+new,,,01597905-a,folksy
+new,,,01640818-a,oldline/old-line
+new,,,01676810-a,amorphous
+new,,,01804729-a,cockamamie/cockamamy
+new,,,01804909-a,farfetched/far-fetched
+new,,,01806604-a,pleasing
+new,,,01810291-a,unpleasing
+new,,,01822663-a,unfashionable/out of fashion
+new,,,01830584-a,effete
+new,,,01832979-a,regent(ip)
+new,,,01845051-a,refined
+new,,,01913613-a,straight up
+new,,,01940473-a,documentary
+new,,,01944611-a,real(a)
+new,,,01955070-a,effete
+new,,,01972355-a,unasked
+new,,,02097241-a,shady
+new,,,02098722-a,skimpy/scanty
+new,,,02130416-a,ludic
+new,,,02142971-a,intimate
+new,,,02225866-a,dual-purpose/dual-use
+new,,,02331344-a,sound
+new,,,02334464-a,wilted/limp
+new,,,02352097-a,classic
+new,,,02352273-a,out of the ordinary/out of this world
+new,,,02406780-a,minty
+new,,,02413520-a,wilted
+new,,,02444906-a,insufferable/unsufferable
+new,,,02445314-a,insufferable
+new,,,02450200-a,inferior
+new,,,02466984-a,embattled
+new,,,02479168-a,classic
+new,,,02490240-a,cleft
+new,,,02510328-a,spurious
+new,,,02528983-a,unseen
+new,,,02539004-a,out of it
+new,,,02539440-a,uninvited
+new,,,02641708-a,antitypic/antitypical
+new,,,02820296-a,technical
+new,,,02867469-a,epicanthic
+new,,,02867590-a,oxalic
+new,,,02964788-a,fundamentalist/fundamentalistic
+new,,,03024573-a,myeloid
+new,,,03119258-a,cubic
+new,,,00002935-r,barely/just
+new,,,00041802-r,off the beaten track/off the beaten path
+new,,,00086390-r,apace
+new,,,00104016-r,at first sight/at first glance
+new,,,00113197-r,globally
+new,,,00170122-r,in fun/for fun
+new,,,00172037-r,on the fly
+new,,,00257824-r,in situ
+new,,,00301750-r,just
+new,,,00454522-r,shockingly
+new,,,00506091-r,in common
+new,,,00506249-r,in common with
+new,,,00508403-r,one after another/one after the other
+new,,,00519229-r,hollowly
+new,,,00519421-r,incorrigibly
+new,,,00519523-r,rabidly
+new,,,00519615-r,rabidly
+new,,,00519720-r,insufferably
+new,,,00519841-r,insufferably/unsufferably
+new,,,00520033-r,voluminously
+
