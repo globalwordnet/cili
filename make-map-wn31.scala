@@ -67,23 +67,24 @@ deprecated.println("Status,ILI,WN30,WN31,Synset")
 for(line <- io.Source.fromFile("ili-map.ttl").getLines.drop(11)) {
   val elems = line.split("\\s+")
   val wn30key = elems(2).drop(6)
+  val iliKey = if(elems(0).startsWith("<")) { "ili:" + elems(0).drop(1).dropRight(1) } else { elems(0) }
   wn30town31.get(wn30key) match {
     case Some("none") =>
       closeMatches.get(wn30key) match {
         case Some(Seq(x, y)) =>
-          println(elems(0) + " skos:closeMatch pwn31:" + x + " " + elems.drop(3).mkString(" "))
-          println(elems(0) + " skos:closeMatch pwn31:" + y + " " + elems.drop(3).mkString(" "))
-          deprecated.println("deprecated,%s,%s,%s/%s,%s" format (elems(0), wn30key, x, y, elems.drop(5).map(_.replaceAll(",","")).mkString("/")))
+          println(iliKey + " skos:closeMatch pwn31:" + x + " " + elems.drop(3).mkString(" "))
+          println(iliKey + " skos:closeMatch pwn31:" + y + " " + elems.drop(3).mkString(" "))
+          deprecated.println("deprecated,%s,%s,%s/%s,%s" format (iliKey, wn30key, x, y, elems.drop(5).map(_.replaceAll(",","")).mkString("/")))
        case None =>
-          deprecated.println("deprecated,%s,%s,none,%s" format (elems(0), wn30key, elems.drop(5).map(_.replaceAll(",","")).mkString("/")))
+          deprecated.println("deprecated,%s,%s,none,%s" format (iliKey, wn30key, elems.drop(5).map(_.replaceAll(",","")).mkString("/")))
       }
     case Some(key) =>
       closeMatches.get(wn30key) match {
         case Some(Seq(x)) =>
-          println(elems(0) + " skos:closeMatch pwn31:" + x + " " + elems.drop(3).mkString(" "))
+          println(iliKey + " skos:closeMatch pwn31:" + x + " " + elems.drop(3).mkString(" "))
         case None =>
       }
-      println((elems(0) +: elems(1) +: ("pwn31:" + key) +: elems.drop(3)).mkString(" "))
+      println((iliKey +: elems(1) +: ("pwn31:" + key) +: elems.drop(3)).mkString(" "))
     case None =>
       System.err.println("Lost: " + line)
   }
