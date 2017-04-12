@@ -12,7 +12,9 @@ http://www.talp.upc.edu/index.php/technology/tools/45-textual-processing-tools/9
 
 These files are tab separated values as follows
 
-ILI  WNX.X CONFIDENCE
+    ILI  WNX.X CONFIDENCE
 
-i1  00002403-a  1
-i4026   00006263-a  0.352
+For example
+
+    i1  00002403-a  1
+    i4026   00006263-a  0.352
