@@ -1,8 +1,20 @@
 # Collaborative Interlingual Index
 
-The collaborative interlingual index maintains the data for a single interlingual
-index of concept for wordnets. This respository contains all the data that is
-available in the Interlingual Index as well as mappings to other resources.
+The Collaborative Interlingual Index (CILI) maintains the data for a
+single interlingual index of concepts for wordnets. This respository
+contains all the data that is available in CILI as well as mappings to
+other resources.
+
+## Development and Maintenance
+
+CILI is maintained by the [Open Multilingual Wordnet][OMW]. Please see
+its [CILI page][CILI] for more information about the project,
+including how to propose new concepts.
+
+[OMW]: https://lr.soh.ntu.edu.sg/omw/
+[CILI]: https://lr.soh.ntu.edu.sg/omw/ili
+
+## Repository Contents
 
 The following files are in this repository:
 
