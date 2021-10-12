@@ -23,14 +23,94 @@ if OUTDIR.exists():
     sys.exit(f'{OUTDIR!s} already exists; remove or rename it, then try again')
 OUTDIR.mkdir()
 
-content = '''\
+css = '''\
+:root {
+  --text-color: #111;
+  --background-color: white;
+}
+
+body {
+    width: 100%;
+    color: var(--text-color);
+    margin: 0;
+    background-color: var(--background-color);
+    font-family: "Roboto", "Fira Sans", sans-serif;
+}
+header {
+    width: 100%;
+    margin: 0;
+    padding: 10px;
+    background-color: black;
+    color: #eee;
+}
+header h1 { margin-top: 0; text-align: center; }
+article {
+    width: 800px;
+    margin: 10px auto;
+    padding: 10px;
+    border-radius: 10px;
+}
+article.ili { background-color: rgba(128,128,128,.1); }
+article footer {
+    margin: 10px;
+    text-align: right;
+}
+
+blockquote {
+    margin: 10px 0;
+    padding: 10px;
+    border-left: 4px solid #888;
+    background-color: rgba(128,128,128,.1)
+}
+
+dl {
+    display: grid;
+    grid-template-columns: max-content auto;
+}
+dt { grid-column-start: 1; }
+dd { grid-column-start: 2; }
+
+.ili-type, dd { font-weight: bold; }
+a { color: rgb(90, 170, 255); text-decoration: none; }
+a:hover { text-decoration: underline; }
+a:active { color: rgb(120, 200, 255); }
+
+
+@media screen and (max-width: 799px) {
+    article {
+        width: 400px;
+    }
+}
+
+@media (prefers-color-scheme: dark) {
+    body {
+        --text-color: #eee;
+        --background-color: black;
+    }
+}
+'''
+
+base = '''\
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>{ili}</title>
+  <link href="_static/style.css" rel="stylesheet">
+  <title>{title}</title>
 </head>
 <body>
+  <header>
+    <h1>Global WordNet Association: Interlingual Index</h1>
+  </header>
+
+{content}
+
+</body>
+</html>
+
+'''
+
+article = '''\
   <article class="ili" itemscope itemtype="{type!s}" itemid="{subject!s}">
     <h1>{ili}</h1>
 
@@ -50,9 +130,8 @@ content = '''\
       </dd>
     </dl>
 
+    <footer>Part of <a href="https://github.com/globalwordnet/cili/">globalwordnet/cili</a></footer>
   </article>
-</body>
-</html>
 '''
 
 ILI = Namespace('http://globalwordnet.org/ili/')
@@ -95,7 +174,16 @@ for subj in g.subjects():
         'source': source,
         'source_info': source_info(source),
     }
+    content = base.format(title=f'ILI: {ili}', content=article.format(**data))
+    (OUTDIR / f'{ili}.html').write_text(content)
 
-    filename = OUTDIR / f'{ili}.html'
-    with filename.open('wt') as htmlfile:
-        print(content.format(**data), file=htmlfile)
+(OUTDIR / '.nojekyll').touch()  # for GitHub pages
+(OUTDIR / '_static').mkdir()
+(OUTDIR / '_static' / 'style.css').write_text(css)
+(OUTDIR / 'index.html').write_text(base.format(
+    title='Interlingual Index',
+    content='''\
+  <article>
+    <a href="https://github.com/globalwordnet/cili">https://github.com/globalwordnet/cili</a>
+  </article>
+'''))
