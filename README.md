@@ -30,3 +30,21 @@ The following files are in this repository:
 * `older-wn-mappings`: Automatically constructed mappings from previous versions
     of WordNet to the ILI
 
+## Building scripts
+
+There are two scripts to create the HTML and the TSV versions of the data. They both require Python 3.6+. The requirements can be installed with
+
+    pip install -r requirements.txt
+
+The TSV script can be run as follows:
+
+    python3 make-tsv.py > cili.tsv
+    
+For the HTML the following will update the site
+
+    git checkout gh-pages
+    rm -fr docs
+    python make-html.py docs
+    git commit -am "A useful commit message"
+    git push
+
