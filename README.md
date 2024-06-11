@@ -11,8 +11,12 @@ CILI is maintained by the [Open Multilingual Wordnet][OMW]. Please see
 its [CILI page][CILI] for more information about the project,
 including how to propose new concepts.
 
-[OMW]: https://lr.soh.ntu.edu.sg/omw/
-[CILI]: https://lr.soh.ntu.edu.sg/omw/ili
+[OMW]: https://omwn.org/
+[CILI]: https://compling.upol.cz/omw/ili
+
+## Citation
+
+Francis Bond, Piek Vossen, John McCrae, and Christiane Fellbaum. 2016. [CILI: the Collaborative Interlingual Index](https://aclanthology.org/2016.gwc-1.9/). In Proceedings of the 8th Global WordNet Conference (GWC), pages 50–57, Bucharest, Romania. Global Wordnet Association.
 
 ## Repository Contents
 
