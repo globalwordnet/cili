@@ -41,6 +41,14 @@ requirements.txt`), and will download a small sentence-embedding model
 (`sentence-transformers/all-MiniLM-L6-v2`, used for the duplicate check
 below) the first time it runs.
 
+**Known issue:** if this fails with `invalid or missing DOCTYPE
+declaration` even though your file looks like valid WN-LMF, check for
+leading whitespace before `<!DOCTYPE` on the file's second line (e.g. a
+pretty-printer indented it). `wn.lmf.load` only trims trailing whitespace
+from that line, not leading, so an indented DOCTYPE fails its exact-match
+check. Strip the indentation from that one line and try again — this was
+hit while testing against a real 3.1 wordnet export.
+
 The script:
 * Extracts every `ili="in"` synset and its proposed definition.
 * Runs a battery of quality checks (see "What gets checked" below).
