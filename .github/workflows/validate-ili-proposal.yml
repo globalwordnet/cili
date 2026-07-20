@@ -1,0 +1,69 @@
+name: Validate ILI Proposal
+
+# Runs validate-ili-proposal.py (issue #9, Phase 2) against any PR that
+# touches ili.ttl, and posts (or updates) a single advisory comment
+# summarizing the result. See PROPOSING_ILIS.md for the full workflow
+# this is part of.
+#
+# This only has access to the diff, not the contributor's original
+# WN-LMF file, so it re-checks a narrower set of things than
+# propose-ili.py itself does locally - see the comment's own text for
+# what's covered and what isn't.
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened]
+    paths:
+      - 'ili.ttl'
+
+permissions:
+  pull-requests: write
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout PR
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Get ili.ttl as it exists on the target branch
+        run: git show "origin/${{ github.base_ref }}:ili.ttl" > /tmp/base-ili.ttl
+
+      - name: Diff ili.ttl against the target branch
+        run: |
+          git diff "origin/${{ github.base_ref }}" HEAD -- ili.ttl > /tmp/ili.diff || true
+
+      - name: Run validation
+        run: |
+          python3 validate-ili-proposal.py \
+            --base-ili /tmp/base-ili.ttl \
+            --head-ili ili.ttl \
+            --diff /tmp/ili.diff \
+            --output /tmp/comment.md
+
+      - name: Post or update comment
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          REPO="${{ github.repository }}"
+          PR_NUMBER="${{ github.event.pull_request.number }}"
+          MARKER='<!-- ili-validation-report -->'
+
+          COMMENT_ID=$(gh api "repos/$REPO/issues/$PR_NUMBER/comments" --paginate \
+            --jq "[.[] | select(.body | startswith(\"$MARKER\"))] | last | .id // empty")
+
+          if [ -n "$COMMENT_ID" ]; then
+            gh api "repos/$REPO/issues/comments/$COMMENT_ID" -X PATCH -f body=@/tmp/comment.md
+          else
+            gh api "repos/$REPO/issues/$PR_NUMBER/comments" -X POST -f body=@/tmp/comment.md
+          fi

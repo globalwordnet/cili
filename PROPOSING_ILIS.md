@@ -7,10 +7,11 @@ previous informal process (a wordnet marks synsets `ili="in"`, and OMW
 maintainers "scoop them up" for offline review) with an ordinary, visible
 GitHub PR: a real diff, a discussion thread, and a review queue.
 
-This currently covers **proposing** and **reviewing** new concepts.
-Automated CI validation of proposal PRs is planned as a follow-up (see the
-open items at the end of this document) but doesn't exist yet — for now,
-review is manual.
+This covers **proposing** and **reviewing** new concepts. Once a PR
+touching `ili.ttl` is opened, a GitHub Actions workflow automatically
+posts a validation comment on it (see "Automated CI validation" under
+"For maintainers" below); a few other items are still manual or deferred
+(see "Not yet built" at the end of this document).
 
 ## For contributors
 
@@ -121,17 +122,47 @@ so this reallocates cleanly.
 Hard failures mean the candidate wasn't included in the fragment at all.
 Warnings mean it *was* included, but flagged for you to look at.
 
+### Automated CI validation
+
+[`.github/workflows/validate-ili-proposal.yml`](.github/workflows/validate-ili-proposal.yml)
+runs on every PR that touches `ili.ttl` and posts (or, on later pushes to
+the same PR, updates in place) a comment summarizing the result, via
+[`validate-ili-proposal.py`](validate-ili-proposal.py).
+
+It necessarily checks *less* than the contributor's local `propose-ili.py`
+run: a CI job only has the git history, not the contributor's original
+WN-LMF file, so it can't re-run the structural WN-LMF checks or the
+English-language heuristic. What it does check, using only `ili.ttl`
+before and after the PR:
+
+* **Shape** of every newly-added concept (correct `a <Concept>`/
+  `<Instance>`, an `@en`-tagged `skos:definition`, `dc:source`,
+  `ili:status ili:provisional`).
+* **ID collisions** — an added id that already exists on the target
+  branch, most likely because another proposal PR merged first.
+* **The same semantic duplicate check** propose-ili.py runs locally,
+  re-run against whatever is currently on the target branch (so it stays
+  accurate even if other proposals merged since the contributor last ran
+  the script).
+* Whether the diff **removes or modifies existing lines**, not just
+  appends new ones — flagged for a closer look, since a proposal PR
+  should normally be a pure append.
+
+It's advisory, not blocking — there's no branch protection requiring it
+to pass. Treat the comment the same way as the PR description's QC
+report: warnings are judgment calls, collisions and shape errors are
+worth resolving before merging.
+
 ### Reviewing a proposal PR
 
-* Read the QC report in the PR description. Warnings are judgment calls,
-  not blockers — use them to decide what to look at more closely.
-* Check the diff is a pure append to `ili.ttl` (nothing else touched,
-  nothing removed).
+* Read the QC report in the PR description, and the CI comment once it
+  posts — together they cover everything checked (see above for which
+  checks run where).
 * Every proposed concept should carry `ili:status ili:provisional` (see
   [VOCABULARY.md](VOCABULARY.md)) — that's expected and correct, not a
   mistake to fix before merging.
-* If you suspect an ID collision with something merged more recently,
-  ask the contributor to rerun the script against current `master`.
+* If CI flags an ID collision, ask the contributor to rerun
+  `propose-ili.py` against current `master` and push again.
 
 ### Promoting provisional concepts
 
@@ -147,11 +178,10 @@ past that window, and delete the `ili:status` triple to promote them
 These were discussed in #9 but are deliberately out of scope for now —
 tracked as follow-up work, not silently dropped:
 
-* **CI validation on proposal PRs.** Right now, everything above is
-  manual. A GitHub Actions workflow that re-validates a proposal PR's
-  diff and posts the results as a PR comment is planned as a follow-up.
 * **Naisc-based taxonomic-neighbor comparison** (comparing a candidate's
   relations/hypernyms against similar existing concepts, not just its
   definition text) — a separate, externally-maintained tool; integrate
   once it has a stable callable interface.
 * **Automated provisional → active promotion.**
+* **Turning CI validation into a required/blocking check** — it's
+  advisory for now; the repo has no branch protection today.
