@@ -11,8 +11,12 @@ CILI is maintained by the [Open Multilingual Wordnet][OMW]. Please see
 its [CILI page][CILI] for more information about the project,
 including how to propose new concepts.
 
-[OMW]: https://lr.soh.ntu.edu.sg/omw/
-[CILI]: https://lr.soh.ntu.edu.sg/omw/ili
+[OMW]: https://omwn.org/
+[CILI]: https://compling.upol.cz/omw/ili
+
+## Citation
+
+Francis Bond, Piek Vossen, John McCrae, and Christiane Fellbaum. 2016. [CILI: the Collaborative Interlingual Index](https://aclanthology.org/2016.gwc-1.9/). In Proceedings of the 8th Global WordNet Conference (GWC), pages 50–57, Bucharest, Romania. Global Wordnet Association.
 
 ## Repository Contents
 
@@ -32,4 +36,22 @@ The following files are in this repository:
 
 Complementary data:
 
-* `sense-mappings/`: Mappings between WordNet synsets and sense IDs for selected WordNets. Provided to facilitate the linking between *sense*-annotated resources (such as the [SemCor corpus](https://web.eecs.umich.edu/~mihalcea/downloads.html#semcor)] or the [Princeton WordNet Gloss Corpus](https://wordnetcode.princeton.edu/glosstag.shtml)) with ILI-based WordNets. 
+* `sense-mappings/`: Mappings between WordNet synsets and sense IDs for selected WordNets. Provided to facilitate the linking between *sense*-annotated resources (such as the [SemCor corpus](https://web.eecs.umich.edu/~mihalcea/downloads.html#semcor) or the [Princeton WordNet Gloss Corpus](https://wordnetcode.princeton.edu/glosstag.shtml)) with ILI-based WordNets.
+
+## Building scripts
+
+There are two scripts to create the HTML and the TSV versions of the data. They both require Python 3.6+. The requirements can be installed with
+
+    pip install -r requirements.txt
+
+The TSV script can be run as follows:
+
+    python3 make-tsv.py > cili.tsv
+    
+For the HTML the following will update the site
+
+    git checkout gh-pages
+    rm -fr docs
+    python make-html.py docs
+    git commit -am "A useful commit message"
+    git push
