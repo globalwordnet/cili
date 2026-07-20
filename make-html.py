@@ -10,6 +10,7 @@ Usage:
 """
 
 from typing import Dict
+import shutil
 import sys
 from pathlib import Path
 
@@ -135,6 +136,7 @@ article = '''\
 '''
 
 ILI = Namespace('http://globalwordnet.org/ili/')
+STATUS = Namespace('https://globalwordnet.github.io/cili/ontology.xml#')
 
 sources = {
     'http://wordnet-rdf.princeton.edu/wn30/': ('Princeton WordNet 3.0',
@@ -152,7 +154,8 @@ def source_info(url: str) -> Dict[str, str]:
 
 
 def short_name(s: str) -> str:
-    return s.rpartition('/')[2]
+    tail = s.rpartition('/')[2]
+    return tail.rpartition('#')[2] or tail
 
 
 g = Graph()
@@ -164,13 +167,14 @@ for subj in g.subjects():
         continue
     ili = short_name(subj)
     source = g.value(subject=subj, predicate=DC.source)
+    status = g.value(subject=subj, predicate=STATUS.status)
     data = {
         'ili': ili,
         'subject': subj,
         'type': type,
         'short_type': short_name(type),
         'definition': g.value(subject=subj, predicate=SKOS.definition),
-        'status': g.value(subject=subj, predicate=ILI.status, default='active'),
+        'status': short_name(status) if status is not None else 'active',
         'source': source,
         'source_info': source_info(source),
     }
@@ -180,6 +184,7 @@ for subj in g.subjects():
 (OUTDIR / '.nojekyll').touch()  # for GitHub pages
 (OUTDIR / '_static').mkdir()
 (OUTDIR / '_static' / 'style.css').write_text(css)
+shutil.copy('ontology.xml', OUTDIR / 'ontology.xml')
 (OUTDIR / 'index.html').write_text(base.format(
     title='Interlingual Index',
     content='''\

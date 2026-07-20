@@ -5,6 +5,11 @@ concept, as discussed in [#8](https://github.com/globalwordnet/cili/issues/8).
 It answers the two questions raised there: what the possible statuses are,
 and how they should be encoded in `ili.ttl`.
 
+The vocabulary terms below (`ili:status`, `ili:supersededBy`, and the status
+values) are formally defined, as OWL classes/properties/individuals, in
+[`ontology.xml`](ontology.xml), which resolves at
+<https://globalwordnet.github.io/cili/ontology.xml>.
+
 This is a specification for the vocabulary only. Applying it to real data
 (marking specific concepts as `provisional` or `deprecated`, and generating
 `cili.tsv`/HTML output that reflects it) is separate follow-up work, not
@@ -59,40 +64,55 @@ in the absence of a better-fitting one.
 
 ## Namespace
 
-`ili.ttl` currently declares:
+Concept IDs and vocabulary terms live in two separate namespaces, resolved
+by two separate `ili.ttl` prefix declarations:
 
 ```turtle
+@prefix ili: <https://globalwordnet.github.io/cili/ontology.xml#> .
 @base <http://globalwordnet.org/ili/> .
 ```
 
-and concept IDs such as `<i123>` resolve against this base, i.e.
-`http://globalwordnet.org/ili/i123`. `ili:status` and `ili:supersededBy`
-would resolve under the same namespace (`http://globalwordnet.org/ili/status`,
-etc.), which is distinct from any individual concept URI, so there is no
-literal collision.
+* Concept IDs (`<i123>`, and the existing `<Concept>`/`<Instance>` classes)
+  stay exactly as they are today, relative to `@base`, i.e.
+  `http://globalwordnet.org/ili/i123`. Nothing about any existing concept's
+  URI changes.
+* The new vocabulary terms — `ili:status`, `ili:supersededBy`, and the
+  status values `ili:provisional`/`ili:active`/`ili:deprecated` — are
+  prefixed with `ili:`, which now points at
+  `https://globalwordnet.github.io/cili/ontology.xml#`, a real,
+  dereferenceable document ([`ontology.xml`](ontology.xml), published via
+  GitHub Pages), rather than `http://globalwordnet.org/ili/`, which does
+  not currently resolve.
 
-@goodmami raised a concern in #8 that reusing the same namespace for both
-concept identifiers and vocabulary terms is unusual practice, and suggested
-as an alternative splitting concept IDs into their own sub-namespace (e.g.
-`http://globalwordnet.org/ili/concept/`) with `ili:` reserved for vocabulary
-terms. That would be a breaking change to every existing concept URI, so
-this document does not adopt it — it keeps the current namespace structure
-and flags the alternative here for future discussion if it becomes a
-practical problem rather than a theoretical one.
+This also settles the namespace-collision concern @goodmami raised in
+[#8](https://github.com/globalwordnet/cili/issues/8#issuecomment-929587590):
+rather than defining vocabulary terms in the same namespace as concept
+identifiers (as `<Concept>`/`<Instance>` currently are), they now live in a
+genuinely distinct, resolving namespace, with no change required to any
+existing concept URI.
+
+`make-html.py`'s existing `ILI.status` lookup (it already rendered a
+"Status" field, defaulting to `active`, in anticipation of this vocabulary)
+has been updated to read `ili:status` from the new namespace instead, and
+copies `ontology.xml` into the generated site so it keeps resolving there
+after every `make-html.py` run.
 
 ## Example
 
 The IDs below are placeholders, not references to real ILI concepts:
 
 ```turtle
-<iXXXXX> a ili:Concept ;
+@prefix ili: <https://globalwordnet.github.io/cili/ontology.xml#> .
+@base <http://globalwordnet.org/ili/> .
+
+<iXXXXX> a <Concept> ;
     skos:definition "..."@en ;
     dc:source pwn30:00020997-r ;
     ili:status ili:deprecated ;
     ili:supersededBy <iYYYYY> ;
     dc:description "merged into a synonymous concept" .
 
-<iZZZZZ> a ili:Concept ;
+<iZZZZZ> a <Concept> ;
     skos:definition "..."@en ;
     dc:source pwn31:02451912-n ;
     ili:status ili:provisional .

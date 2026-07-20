@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:vann="http://purl.org/vocab/vann/"
+    xmlns:ili="https://globalwordnet.github.io/cili/ontology.xml#"
+    xml:base="https://globalwordnet.github.io/cili/ontology.xml">
+
+  <owl:Ontology rdf:about="https://globalwordnet.github.io/cili/ontology.xml">
+    <dc:title xml:lang="en">CILI Status Vocabulary</dc:title>
+    <dc:description xml:lang="en">Vocabulary for annotating the status of an ILI concept (provisional, active, deprecated) and recording supersession, as discussed in https://github.com/globalwordnet/cili/issues/8. Concept identifiers themselves (ili:i1, ili:i2, ...) are not defined here; they remain under http://globalwordnet.org/ili/, as declared in ili.ttl.</dc:description>
+    <vann:preferredNamespacePrefix>ili</vann:preferredNamespacePrefix>
+    <vann:preferredNamespaceUri>https://globalwordnet.github.io/cili/ontology.xml#</vann:preferredNamespaceUri>
+  </owl:Ontology>
+
+  <owl:ObjectProperty rdf:about="#status">
+    <rdfs:label xml:lang="en">status</rdfs:label>
+    <rdfs:comment xml:lang="en">The current status of an ILI concept. Absence of this property on a concept implies "active".</rdfs:comment>
+    <rdfs:range rdf:resource="#Status"/>
+  </owl:ObjectProperty>
+
+  <owl:ObjectProperty rdf:about="#supersededBy">
+    <rdfs:label xml:lang="en">superseded by</rdfs:label>
+    <rdfs:comment xml:lang="en">Links a deprecated ILI concept to the concept(s) that replace it. May be repeated on the same subject to represent a split into multiple concepts.</rdfs:comment>
+    <rdfs:domain rdf:resource="http://globalwordnet.org/ili/Concept"/>
+    <rdfs:range rdf:resource="http://globalwordnet.org/ili/Concept"/>
+  </owl:ObjectProperty>
+
+  <owl:Class rdf:about="#Status">
+    <rdfs:label xml:lang="en">Status</rdfs:label>
+    <rdfs:comment xml:lang="en">The set of possible values of ili:status.</rdfs:comment>
+    <owl:oneOf rdf:parseType="Collection">
+      <rdf:Description rdf:about="#provisional"/>
+      <rdf:Description rdf:about="#active"/>
+      <rdf:Description rdf:about="#deprecated"/>
+    </owl:oneOf>
+  </owl:Class>
+
+  <ili:Status rdf:about="#provisional">
+    <rdfs:label xml:lang="en">provisional</rdfs:label>
+    <rdfs:comment xml:lang="en">Proposed via a wordnet upload (e.g. ili="in" in WN-LMF) but not yet confirmed.</rdfs:comment>
+  </ili:Status>
+
+  <ili:Status rdf:about="#active">
+    <rdfs:label xml:lang="en">active</rdfs:label>
+    <rdfs:comment xml:lang="en">Accepted and in current use. This is the default status when ili:status is absent from a concept.</rdfs:comment>
+  </ili:Status>
+
+  <ili:Status rdf:about="#deprecated">
+    <rdfs:label xml:lang="en">deprecated</rdfs:label>
+    <rdfs:comment xml:lang="en">No longer recommended for use. Normally accompanied by one or more ili:supersededBy links. The concept identifier itself is retained rather than removed, so it is never recycled.</rdfs:comment>
+  </ili:Status>
+
+</rdf:RDF>
