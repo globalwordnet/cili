@@ -10,6 +10,11 @@
 ### Wordnets
 @prefix pwn30: <http://wordnet-rdf.princeton.edu/wn30/> .
 
+### Status vocabulary (ili:status, ili:supersededBy, ili:provisional/active/deprecated);
+### see https://globalwordnet.github.io/cili/ontology.xml and VOCABULARY.md.
+### Concept identifiers (below) are unaffected: they stay relative to @base.
+@prefix ili: <https://globalwordnet.github.io/cili/ontology.xml#> .
+
 @base <http://globalwordnet.org/ili/> .
 
 <https://globalwordnet.github.io/cili/ili.ttl> a voaf:Vocabulary ;
