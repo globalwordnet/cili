@@ -9,7 +9,8 @@ other resources.
 
 CILI is maintained by the [Open Multilingual Wordnet][OMW]. Please see
 its [CILI page][CILI] for more information about the project,
-including how to propose new concepts.
+including how to propose new concepts. See [RELEASING.md](RELEASING.md)
+for the procedure to publish a new CILI release.
 
 [OMW]: https://omwn.org/
 [CILI]: https://compling.upol.cz/omw/ili
