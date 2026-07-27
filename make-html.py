@@ -150,7 +150,15 @@ def source_info(url: str) -> Dict[str, str]:
             local = url.removeprefix(src).lstrip('/#')
             name, project_url = sources[src]
             return {'name': name, 'url': project_url, 'local': local}
-    raise LookupError(f'source info not found for {url!s}')
+    # Unrecognized source (e.g. a newly proposed wordnet not yet added to
+    # `sources` above, per PROPOSING_ILIS.md): fall back to showing the
+    # source's own origin rather than crashing the whole site build.
+    scheme_and_host = '/'.join(url.split('/', 3)[:3]) + '/'
+    return {
+        'name': scheme_and_host,
+        'url': scheme_and_host,
+        'local': url.removeprefix(scheme_and_host),
+    }
 
 
 def short_name(s: str) -> str:
