@@ -472041,3 +472041,4 @@
 	dc:source	<https://wordnet.princeton.edu/ewn-05598016-n> ;
 	ili:status	ili:provisional .
 
+
