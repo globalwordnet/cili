@@ -63,7 +63,7 @@ jobs:
             --jq "[.[] | select(.body | startswith(\"$MARKER\"))] | last | .id // empty")
 
           if [ -n "$COMMENT_ID" ]; then
-            gh api "repos/$REPO/issues/comments/$COMMENT_ID" -X PATCH -f body=@/tmp/comment.md
+            gh api "repos/$REPO/issues/comments/$COMMENT_ID" -X PATCH -F body=@/tmp/comment.md
           else
-            gh api "repos/$REPO/issues/$PR_NUMBER/comments" -X POST -f body=@/tmp/comment.md
+            gh api "repos/$REPO/issues/$PR_NUMBER/comments" -X POST -F body=@/tmp/comment.md
           fi
