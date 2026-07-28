@@ -33,7 +33,7 @@ if __name__ == "__main__":
 
     print("@prefix owl:    <http://www.w3.org/2002/07/owl#> .")
     print(f"@prefix {wn_id}: <{wn_url}> .")
-    print("@prefix ili: <http://globalwordnet.org/ili/> .")
+    print("@prefix ili: <http://globalwordnet.org/cili/> .")
     print("@prefix skos: <http://www.w3.org/2004/02/skos/core#> .")
     print()
 

@@ -135,7 +135,7 @@ article = '''\
   </article>
 '''
 
-ILI = Namespace('http://globalwordnet.org/ili/')
+ILI = Namespace('http://globalwordnet.org/cili/')
 STATUS = Namespace('https://globalwordnet.github.io/cili/ontology.xml#')
 
 sources = {
