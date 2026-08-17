@@ -470671,3 +470671,1374 @@
 	skos:definition	"the day in 2001 when Arab suicide bombers hijacked United States airliners and used them as bombs"@en ;
 	dc:source	pwn30:15300051-n .
 
+<i117660>	a	<Concept> ;
+	skos:definition	"in the habit of or adapted to; \"accustomed to doing her own work\"; \"I've grown accustomed to her face\"; \"we are used to better service in this restaurant\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-00024458-a> ;
+	ili:status	ili:provisional .
+
+<i117661>	a	<Concept> ;
+	skos:definition	"not habituated to; unfamiliar with; \"unaccustomed to wearing suits\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-00024914-a> ;
+	ili:status	ili:provisional .
+
+<i117662>	a	<Concept> ;
+	skos:definition	"infrequently exposed to; \"feet unused to shoes\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-00025245-s> ;
+	ili:status	ili:provisional .
+
+<i117663>	a	<Concept> ;
+	skos:definition	"passive as a result of indolence or indifference; \"No other colony showed such supine, selfish helplessness in allowing her own border citizens to be mercilessly harried\"- Theodore Roosevelt"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-00040305-s> ;
+	ili:status	ili:provisional .
+
+<i117664>	a	<Concept> ;
+	skos:definition	"rendered active; e.g. rendered radioactive or luminescent or photosensitive or conductive"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-00042912-s> ;
+	ili:status	ili:provisional .
+
+<i117665>	a	<Concept> ;
+	skos:definition	"wildly frenzied and out of control; \"the soldier was completely amuck\"; \"berserk with grief\"; \"a berserk worker smashing windows\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-00086117-s> ;
+	ili:status	ili:provisional .
+
+<i117666>	a	<Concept> ;
+	skos:definition	"(of a day of the week) nearest (or nearest but one) after the present moment; \"not this Saturday, next Saturday\"; \"on Tuesday next\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-00129027-s> ;
+	ili:status	ili:provisional .
+
+<i117667>	a	<Concept> ;
+	skos:definition	"payable in installments within a designated period of time; \"we were short of cash, so we purchased our refrigerator on time\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-00138462-s> ;
+	ili:status	ili:provisional .
+
+<i117668>	a	<Concept> ;
+	skos:definition	"unaware as a result of being uninformed"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-00193838-s> ;
+	ili:status	ili:provisional .
+
+<i117669>	a	<Concept> ;
+	skos:definition	"tending to undergo genetic mutuation; \"It is likely, too, that the chromosomes of all eubacteria are as mutable as that of E. coli\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-00347163-s> ;
+	ili:status	ili:provisional .
+
+<i117670>	a	<Concept> ;
+	skos:definition	"of or relating to music in the European tradition, such as symphonies and operas; \"classical music\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-00415245-s> ;
+	ili:status	ili:provisional .
+
+<i117671>	a	<Concept> ;
+	skos:definition	"(physics) relating to or based on concepts that preceded the theories of relativity and quantum mechanics"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-00415419-s> ;
+	ili:status	ili:provisional .
+
+<i117672>	a	<Concept> ;
+	skos:definition	"unclear because vague or badly organized; \"Her vague, amorphous statement of her predicament was part of what made it so hard for her to solve it\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-00432059-s> ;
+	ili:status	ili:provisional .
+
+<i117673>	a	<Concept> ;
+	skos:definition	"extremely silly or stupid"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-00442050-s> ;
+	ili:status	ili:provisional .
+
+<i117674>	a	<Concept> ;
+	skos:definition	"the complete stoppage of an action; \"came to a dead stop\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-00524413-s> ;
+	ili:status	ili:provisional .
+
+<i117675>	a	<Concept> ;
+	skos:definition	"constant and unchanging; \"the immutable laws of nature\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-00585950-s> ;
+	ili:status	ili:provisional .
+
+<i117676>	a	<Concept> ;
+	skos:definition	"prone to frequent change; inconstant; \"the fickle and mutable nature of truth\"; \"the mutable ways of fortune\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-00587318-s> ;
+	ili:status	ili:provisional .
+
+<i117677>	a	<Concept> ;
+	skos:definition	"well-known and long-established in form or style; \"a classical ballet\"; \"classic double-breasted suit\"; \"the classic struggle between good and evil\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-00613690-s> ;
+	ili:status	ili:provisional .
+
+<i117678>	a	<Concept> ;
+	skos:definition	"lacking in substance or character; \"a hollow person\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-00629437-s> ;
+	ili:status	ili:provisional .
+
+<i117679>	a	<Concept> ;
+	skos:definition	"not having traveled much, especially to foreign lands; not having gained experience by travel"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-00640609-s> ;
+	ili:status	ili:provisional .
+
+<i117680>	a	<Concept> ;
+	skos:definition	"occurring by turns; first one and then the other; \"alternating feelings of love and hate\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-00679196-s> ;
+	ili:status	ili:provisional .
+
+<i117681>	a	<Concept> ;
+	skos:definition	"occurring on or near the surface of the skin; \"superficial burns\"; \"superficial facial injuries\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-00695843-s> ;
+	ili:status	ili:provisional .
+
+<i117682>	a	<Concept> ;
+	skos:definition	"marked by obliqueness or indirection in speech or conduct; \"the explanation was circuitous and puzzling\"; \"a roundabout paragraph\"; \"hear in a roundabout way that her ex-husband was marrying her best friend\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-00770909-s> ;
+	ili:status	ili:provisional .
+
+<i117683>	a	<Concept> ;
+	skos:definition	"having a sharp or distinct edge; \"a narrow knifelike profile\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-00784503-s> ;
+	ili:status	ili:provisional .
+
+<i117684>	a	<Concept> ;
+	skos:definition	"fascinated by a famous person"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-00869069-s> ;
+	ili:status	ili:provisional .
+
+<i117685>	a	<Concept> ;
+	skos:definition	"not surviving in active use; \"Latin is a dead language\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-00932684-s> ;
+	ili:status	ili:provisional .
+
+<i117686>	a	<Concept> ;
+	skos:definition	"the usual or familiar type; \"it is a common or garden sparrow\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-00973992-s> ;
+	ili:status	ili:provisional .
+
+<i117687>	a	<Concept> ;
+	skos:definition	"(of a woman or girl) slender and graceful like a sylph"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-00994908-s> ;
+	ili:status	ili:provisional .
+
+<i117688>	a	<Concept> ;
+	skos:definition	"dealt with; disposed of; \"I'm so relieved that my midterm is out of the way\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-01006955-s> ;
+	ili:status	ili:provisional .
+
+<i117689>	a	<Concept> ;
+	skos:definition	"not decayed"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-01072130-s> ;
+	ili:status	ili:provisional .
+
+<i117690>	a	<Concept> ;
+	skos:definition	"of questionable honesty or legality; \"He established a dummy company through which he laundered vast sums of cash from shady middlemen and arms dealers\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-01227944-s> ;
+	ili:status	ili:provisional .
+
+<i117691>	a	<Concept> ;
+	skos:definition	"difficult or impossible to manage or control; \"an incorrigible mess\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-01478913-s> ;
+	ili:status	ili:provisional .
+
+<i117692>	a	<Concept> ;
+	skos:definition	"without meaning; \"Silence is better than unmeaning words\"--Pythagoras; \"an unmeaning smile\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-01502106-s> ;
+	ili:status	ili:provisional .
+
+<i117693>	a	<Concept> ;
+	skos:definition	"so intense as to be almost touched or felt; \"there was a palpable sense of joy in the air\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-01516397-s> ;
+	ili:status	ili:provisional .
+
+<i117694>	a	<Concept> ;
+	skos:definition	"(used as complement) to the utmost degree; \"he was scared witless\"; \"the students were bored shitless\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-01517273-s> ;
+	ili:status	ili:provisional .
+
+<i117695>	a	<Concept> ;
+	skos:definition	"marked by excessive self-indulgence and moral decay; \"a decadent life of excessive money and no sense of responsibility\"; \"a group of effete self-professed intellectuals\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-01554025-s> ;
+	ili:status	ili:provisional .
+
+<i117696>	a	<Concept> ;
+	skos:definition	"belonging to the common people, especially in regard to speech patterns, attitudes, etc.; \"folksy humor\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-01597905-s> ;
+	ili:status	ili:provisional .
+
+<i117697>	a	<Concept> ;
+	skos:definition	"long-established"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-01640818-s> ;
+	ili:status	ili:provisional .
+
+<i117698>	a	<Concept> ;
+	skos:definition	"(of a group of people or an organization) unorganized or unfocused; \"A mob is an amorphous crowd of people without ideals, a sum of individuals in which each lives for himself\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-01676810-s> ;
+	ili:status	ili:provisional .
+
+<i117699>	a	<Concept> ;
+	skos:definition	"informal term for ridiculous and implausible; \"he gave me a cockamamie reason for not going\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-01804729-s> ;
+	ili:status	ili:provisional .
+
+<i117700>	a	<Concept> ;
+	skos:definition	"(of an idea or story) so exaggerated or ludicrous as to be improbable; \"He was always full of far-fetched plans, none of which ever worked\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-01804909-s> ;
+	ili:status	ili:provisional .
+
+<i117701>	a	<Concept> ;
+	skos:definition	"pleasant or agreeable to the senses; \"a pleasing aroma\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-01806604-s> ;
+	ili:status	ili:provisional .
+
+<i117702>	a	<Concept> ;
+	skos:definition	"unpleasant or disagreeable to the senses"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-01810291-s> ;
+	ili:status	ili:provisional .
+
+<i117703>	a	<Concept> ;
+	skos:definition	"unpopular and considered unappealing or unfashionable at the time"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-01822663-s> ;
+	ili:status	ili:provisional .
+
+<i117704>	a	<Concept> ;
+	skos:definition	"deprived of vigor and the ability to be effective; \"fundamentalism has flowered because it has concluded that liberalism is effete, ineffectual and impoverished\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-01830584-s> ;
+	ili:status	ili:provisional .
+
+<i117705>	a	<Concept> ;
+	skos:definition	"acting or functioning as a regent or ruler; \"prince-regent\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-01832979-s> ;
+	ili:status	ili:provisional .
+
+<i117706>	a	<Concept> ;
+	skos:definition	"precise to a fine degree; \"due to the limitations of the available tools, a more refined analysis of the data may be necessary\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-01845051-s> ;
+	ili:status	ili:provisional .
+
+<i117707>	a	<Concept> ;
+	skos:definition	"(of an alcoholic drink) stirred or shaken with ice, but served without it; \"I like my martinis straight up\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-01913613-s> ;
+	ili:status	ili:provisional .
+
+<i117708>	a	<Concept> ;
+	skos:definition	"(of film, television, radio, or photography) depicting a real-life event using images or interviews with people involved in the event"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-01940473-s> ;
+	ili:status	ili:provisional .
+
+<i117709>	a	<Concept> ;
+	skos:definition	"no less than what is stated; worthy of the name; \"the real reason\"; \"real war\"; \"a real friend\"; \"a real woman\"; \"meat and potatoes--I call that a real meal\"; \"it's time he had a real job\"; \"it's no penny-ante job--he's making real money\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-01944611-a> ;
+	ili:status	ili:provisional .
+
+<i117710>	a	<Concept> ;
+	skos:definition	"affected, overrefined, and effeminate; \"the young man spoke in effete, accented English\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-01955070-s> ;
+	ili:status	ili:provisional .
+
+<i117711>	a	<Concept> ;
+	skos:definition	"uninvited; \"A swift picture of the sort of women he would have in his bed sprang unasked into her mind.\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-01972355-s> ;
+	ili:status	ili:provisional .
+
+<i117712>	a	<Concept> ;
+	skos:definition	"quiet, dark, or concealed; \"her shady past intrigued him\"; \"a shady part of town\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-02097241-s> ;
+	ili:status	ili:provisional .
+
+<i117713>	a	<Concept> ;
+	skos:definition	"(of clothing) revealing the body; \"her dress was scanty and revealing\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-02098722-s> ;
+	ili:status	ili:provisional .
+
+<i117714>	a	<Concept> ;
+	skos:definition	"relating to play or playfulness"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-02130416-s> ;
+	ili:status	ili:provisional .
+
+<i117715>	a	<Concept> ;
+	skos:definition	"used euphemistically to refer to the genitals; \"he touched her intimate parts\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-02142971-s> ;
+	ili:status	ili:provisional .
+
+<i117716>	a	<Concept> ;
+	skos:definition	"designed for or serving two purposes; \"a supercomputer can be used for civilian or military purposes\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-02225866-s> ;
+	ili:status	ili:provisional .
+
+<i117717>	a	<Concept> ;
+	skos:definition	"vigorous or severe; \"a sound thrashing\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-02331344-s> ;
+	ili:status	ili:provisional .
+
+<i117718>	a	<Concept> ;
+	skos:definition	"without energy or will; \"gave a limp handshake\"; \"a limp gesture as if waving away all desire to know\" G.K.Chesterton; \"the afternoon heat left her feeling wilted\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-02334464-s> ;
+	ili:status	ili:provisional .
+
+<i117719>	a	<Concept> ;
+	skos:definition	"considered of the highest quality and lasting significance or worth; \"a classic car\"; \"`War and Peace' is a classic novel\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-02352097-s> ;
+	ili:status	ili:provisional .
+
+<i117720>	a	<Concept> ;
+	skos:definition	"exceptionally or unusually good; \"the food here is out of this world\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-02352273-s> ;
+	ili:status	ili:provisional .
+
+<i117721>	a	<Concept> ;
+	skos:definition	"of the flavor of mint, particularly peppermint"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-02406780-s> ;
+	ili:status	ili:provisional .
+
+<i117722>	a	<Concept> ;
+	skos:definition	"(of plants) limp due to heat, loss of water, or disease; \"wilted lettuce\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-02413520-s> ;
+	ili:status	ili:provisional .
+
+<i117723>	a	<Concept> ;
+	skos:definition	"too extreme to bear; \"the insufferable heat of August in a New York apartment with no air conditioning\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-02444906-s> ;
+	ili:status	ili:provisional .
+
+<i117724>	a	<Concept> ;
+	skos:definition	"unbearably arrogant or conceited; \"insufferable insolence\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-02445314-s> ;
+	ili:status	ili:provisional .
+
+<i117725>	a	<Concept> ;
+	skos:definition	"lower than a given reference point; \"inferior alveolar artery\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-02450200-s> ;
+	ili:status	ili:provisional .
+
+<i117726>	a	<Concept> ;
+	skos:definition	"(of a person) beset by difficulties or conflict; \"the state legislature called for the embattled governor's resignation\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-02466984-s> ;
+	ili:status	ili:provisional .
+
+<i117727>	a	<Concept> ;
+	skos:definition	"of a well-known type; remarkably typical; \"the classic struggle between good and evil\"; \"I woke up with all the classic symptoms of the flu\"; \"she made the classic mistake of choosing style over substance\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-02479168-s> ;
+	ili:status	ili:provisional .
+
+<i117728>	a	<Concept> ;
+	skos:definition	"split or divided; \"he had a cleft chin and strong jaw\"; \"the infant was born with a double harelip and cleft palate\"; \"a cleft stick\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-02490240-s> ;
+	ili:status	ili:provisional .
+
+<i117729>	a	<Concept> ;
+	skos:definition	"ostensibly valid, but not actually valid; \"a spurious argument\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-02510328-s> ;
+	ili:status	ili:provisional .
+
+<i117730>	a	<Concept> ;
+	skos:definition	"not seen or perceived; \"unseen natural resources\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-02528983-s> ;
+	ili:status	ili:provisional .
+
+<i117731>	a	<Concept> ;
+	skos:definition	"excluded from an activity or social group"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-02539004-s> ;
+	ili:status	ili:provisional .
+
+<i117732>	a	<Concept> ;
+	skos:definition	"(of a person) not having been invited; \"uninvited guests\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-02539440-s> ;
+	ili:status	ili:provisional .
+
+<i117733>	a	<Concept> ;
+	skos:definition	"generate an electrical impulse; \"the neurons fired fast\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-01631504-v> ;
+	ili:status	ili:provisional .
+
+<i117734>	a	<Concept> ;
+	skos:definition	"cause to become available for use, either literally or figuratively; \"clicking on the icon calls up the program\"; \"the author's description of the banquet called up delicious aromas\"; \"running into an old friend summoned up memories of her childhood\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-01633724-v> ;
+	ili:status	ili:provisional .
+
+<i117735>	a	<Concept> ;
+	skos:definition	"ruin or destroy; \"his book demolishes an old myth\"; \"demolished my reputation\"; \"the professor demolished the student's argument\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-01660252-v> ;
+	ili:status	ili:provisional .
+
+<i117736>	a	<Concept> ;
+	skos:definition	"disassemble a temporary structure, such as a tent or a theatrical set; \"after the show, we'll have to strike the set and pack up\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-01661889-v> ;
+	ili:status	ili:provisional .
+
+<i117737>	a	<Concept> ;
+	skos:definition	"support someone (as in an argument); \"she always takes his side, no matter how sound his argument\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-00897044-v> ;
+	ili:status	ili:provisional .
+
+<i117738>	a	<Concept> ;
+	skos:definition	"(used of God) declare innocent; absolve from the penalty of sin"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-00904407-v> ;
+	ili:status	ili:provisional .
+
+<i117739>	a	<Concept> ;
+	skos:definition	"ascribe blame or guilt for something to (someone); \"pin the blame on the innocent man\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-01063353-v> ;
+	ili:status	ili:provisional .
+
+<i117740>	a	<Concept> ;
+	skos:definition	"(medicine) order the use of (a treatment, medicine, etc.), usually by written prescription; \"the doctor prescribed steroids for my ear trouble\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-01074284-v> ;
+	ili:status	ili:provisional .
+
+<i117741>	a	<Concept> ;
+	skos:definition	"recommend as beneficial; \"my mother prescribes a good night's sleep as the cure for all ills\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-01074513-v> ;
+	ili:status	ili:provisional .
+
+<i117742>	a	<Concept> ;
+	skos:definition	"oppressively still air; \"the afternoon was hot, quiet, and heavy with languor\"; \"Summer shows all the languor of a hot, breezeless day as the dancer lazily brushes her hand over her brow\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-11468109-n> ;
+	ili:status	ili:provisional .
+
+<i117743>	a	<Concept> ;
+	skos:definition	"a period of time past the deadline for fulfilling an obligation during which a penalty that would be imposed for being late is waived, especially an extended period granted as a special favor; \"The payment had originally been due on April 1 but we had a grace period which expired in June.\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-15142101-n> ;
+	ili:status	ili:provisional .
+
+<i117744>	a	<Concept> ;
+	skos:definition	"the end of a century, especially the 19th century"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-15293376-n> ;
+	ili:status	ili:provisional .
+
+<i117745>	a	<Concept> ;
+	skos:definition	"(of ships and wind) a unit of speed equal to one nautical mile per hour or about 1.15 statute miles per hour"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-15304617-n> ;
+	ili:status	ili:provisional .
+
+<i117746>	a	<Concept> ;
+	skos:definition	"(plural) a source of substantial wealth; \"a patron of the arts should have deep pockets\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-13351613-n> ;
+	ili:status	ili:provisional .
+
+<i117747>	a	<Concept> ;
+	skos:definition	"financial resources or support; \"who controls the purse strings in this family?\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-13377602-n> ;
+	ili:status	ili:provisional .
+
+<i117748>	a	<Concept> ;
+	skos:definition	"an accordion with a right-hand keyboard"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-02675726-n> ;
+	ili:status	ili:provisional .
+
+<i117749>	a	<Concept> ;
+	skos:definition	"an accordion with buttons rather than keys"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-02675827-n> ;
+	ili:status	ili:provisional .
+
+<i117750>	a	<Concept> ;
+	skos:definition	"(heraldry) a charge in the shape of a filled circle; \"a hollow roundel\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-02716785-n> ;
+	ili:status	ili:provisional .
+
+<i117751>	a	<Concept> ;
+	skos:definition	"(heraldry) a charge in the shape of a small ring"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-02716929-n> ;
+	ili:status	ili:provisional .
+
+<i117752>	a	<Concept> ;
+	skos:definition	"a stringed instrument that produces sounds by means of a wheel that rubs against the strings"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-02799187-n> ;
+	ili:status	ili:provisional .
+
+<i117753>	a	<Concept> ;
+	skos:definition	"(plural) trousers made with chino cloth"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-03023088-n> ;
+	ili:status	ili:provisional .
+
+<i117754>	a	<Concept> ;
+	skos:definition	"an alkylating agent (trade name Leukeran) used to treat some kinds of cancer"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-03025214-n> ;
+	ili:status	ili:provisional .
+
+<i117755>	a	<Concept> ;
+	skos:definition	"a chute through which supraglacial water enters a glacier, boring either to the bedrock or to the depth of common crevasse formation; \"the icy river plunged, roaring, into the moulin's blue depths\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-03033532-n> ;
+	ili:status	ili:provisional .
+
+<i117756>	a	<Concept> ;
+	skos:definition	"a hand-held and bellows-driven accordion"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-03090964-n> ;
+	ili:status	ili:provisional .
+
+<i117757>	a	<Concept> ;
+	skos:definition	"a concertina developed in England"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-03091072-n> ;
+	ili:status	ili:provisional .
+
+<i117758>	a	<Concept> ;
+	skos:definition	"a concertina with bellows and buttons on both ends"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-03091170-n> ;
+	ili:status	ili:provisional .
+
+<i117759>	a	<Concept> ;
+	skos:definition	"a microphone designed to be used in contact with a source of sound (or with a resonating surface)"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-03098803-n> ;
+	ili:status	ili:provisional .
+
+<i117760>	a	<Concept> ;
+	skos:definition	"(Roman Catholic Church) official dress of a cardinal; so named after the Tyrial purple color of the robes"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-03268195-n> ;
+	ili:status	ili:provisional .
+
+<i117761>	a	<Concept> ;
+	skos:definition	"a long, loose outer garment"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-03403064-n> ;
+	ili:status	ili:provisional .
+
+<i117762>	a	<Concept> ;
+	skos:definition	"a highly directional microphone with a long barrel; can be directed from a distance"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-03474619-n> ;
+	ili:status	ili:provisional .
+
+<i117763>	a	<Concept> ;
+	skos:definition	"trade name for an oral contraceptive containing estradiol and norethindrone"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-03691288-n> ;
+	ili:status	ili:provisional .
+
+<i117764>	a	<Concept> ;
+	skos:definition	"trade name for an oral contraceptive containing estradiol and norgestrel"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-03695166-n> ;
+	ili:status	ili:provisional .
+
+<i117765>	a	<Concept> ;
+	skos:definition	"machinery and equipment developed from engineering or other applied sciences"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-03707142-n> ;
+	ili:status	ili:provisional .
+
+<i117766>	a	<Concept> ;
+	skos:definition	"trade name for an oral contraceptive containing estradiol and norethindrone"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-03783668-n> ;
+	ili:status	ili:provisional .
+
+<i117767>	a	<Concept> ;
+	skos:definition	"trade name for an oral contraceptive containing estradiol and norethindrone"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-03835818-n> ;
+	ili:status	ili:provisional .
+
+<i117768>	a	<Concept> ;
+	skos:definition	"the sole print made by pressing paper against a painted or inked glass or metal plate"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-03871242-n> ;
+	ili:status	ili:provisional .
+
+<i117769>	a	<Concept> ;
+	skos:definition	"a gloss or sheen on wooden furniture produced by age, polishing, or handling"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-03905538-n> ;
+	ili:status	ili:provisional .
+
+<i117770>	a	<Concept> ;
+	skos:definition	"an acquired change in the appearance of something (other than metal or wood); \"a patina of frost\"; \"a patina of good breeding\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-03905667-n> ;
+	ili:status	ili:provisional .
+
+<i117771>	a	<Concept> ;
+	skos:definition	"an exisitng photograph licensed for a specific use"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-03932172-n> ;
+	ili:status	ili:provisional .
+
+<i117772>	a	<Concept> ;
+	skos:definition	"an appliance designed to extract humidity from the air and thereby cool it; \"we rarely turn on the air-conditioner\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-04047719-n> ;
+	ili:status	ili:provisional .
+
+<i117773>	a	<Concept> ;
+	skos:definition	"an appliance designed to add moisture to the air in a building; \"The humidifier assures the appropriate moisture level for our paintings\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-04047920-n> ;
+	ili:status	ili:provisional .
+
+<i117774>	a	<Concept> ;
+	skos:definition	"an applicance to extract moisture from the air and make the environment more comfortable; \"in summer, we need to run the dehumidifier in the basement\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-04048114-n> ;
+	ili:status	ili:provisional .
+
+<i117775>	a	<Concept> ;
+	skos:definition	"(used in the plural) men's underwear consisting of cotton undershirt and underpants"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-04238967-n> ;
+	ili:status	ili:provisional .
+
+<i117776>	a	<Concept> ;
+	skos:definition	"jellylike substance used in hair styling"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-04455013-n> ;
+	ili:status	ili:provisional .
+
+<i117777>	a	<Concept> ;
+	skos:definition	"prevent (information) from being circulated or disclosed"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-02455890-v> ;
+	ili:status	ili:provisional .
+
+<i117778>	a	<Concept> ;
+	skos:definition	"prevent (someone or something) from doing something; \"security guards restrained the reporter from throwing another shoe\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-02456292-v> ;
+	ili:status	ili:provisional .
+
+<i117779>	a	<Concept> ;
+	skos:definition	"impede or hinder the natural development or self-expression of"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-02457192-v> ;
+	ili:status	ili:provisional .
+
+<i117780>	a	<Concept> ;
+	skos:definition	"annul (a legal decision); \"the court set aside the conviction\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-02483910-v> ;
+	ili:status	ili:provisional .
+
+<i117781>	a	<Concept> ;
+	skos:definition	"cheer for; \"She roots for the Broncos\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-02562263-v> ;
+	ili:status	ili:provisional .
+
+<i117782>	a	<Concept> ;
+	skos:definition	"(sometimes offensive) to cheat or swindle; \"the cashier gypped me when he gave me too little change\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-02578494-v> ;
+	ili:status	ili:provisional .
+
+<i117783>	a	<Concept> ;
+	skos:definition	"register in a hotel booker"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-02605751-v> ;
+	ili:status	ili:provisional .
+
+<i117784>	a	<Concept> ;
+	skos:definition	"swim for pleasure or recreation"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-01965193-v> ;
+	ili:status	ili:provisional .
+
+<i117785>	a	<Concept> ;
+	skos:definition	"escape furtively, as from an area under enemy control"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-02078605-v> ;
+	ili:status	ili:provisional .
+
+<i117786>	a	<Concept> ;
+	skos:definition	"transfer secretly out of an area under enemy control; \"the military commander was exfiltrated on a French plane\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-02078726-v> ;
+	ili:status	ili:provisional .
+
+<i117787>	a	<Concept> ;
+	skos:definition	"be in danger of dying from submersion in a liquid and asphyxiation; \"the divers saved the drowning child\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-02110088-v> ;
+	ili:status	ili:provisional .
+
+<i117788>	a	<Concept> ;
+	skos:definition	"an event for which all tickets are sold; \"get your tickets for the concert early, it is sure to be a sellout\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-07470798-n> ;
+	ili:status	ili:provisional .
+
+<i117789>	a	<Concept> ;
+	skos:definition	"a bicycle race held on a short course (usually less than 5 km or 3 miles)"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-07474344-n> ;
+	ili:status	ili:provisional .
+
+<i117790>	a	<Concept> ;
+	skos:definition	"a contest consisting of a series of successive matches between the same sides; \"he won three out of five games to take the rubber\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-07480405-n> ;
+	ili:status	ili:provisional .
+
+<i117791>	a	<Concept> ;
+	skos:definition	"replace the center of a coin with a baser metal; \"plug a nickle\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-00188458-v> ;
+	ili:status	ili:provisional .
+
+<i117792>	a	<Concept> ;
+	skos:definition	"get or become familiar or accustomed with through experience; \"I finally got used to my husband's odd habits\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-00394655-v> ;
+	ili:status	ili:provisional .
+
+<i117793>	a	<Concept> ;
+	skos:definition	"withdraw, as from reality; \"he lost himslef in his music\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-00497220-v> ;
+	ili:status	ili:provisional .
+
+<i117794>	a	<Concept> ;
+	skos:definition	"start or maintain a fire in; \"fire the furnace\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-00589392-v> ;
+	ili:status	ili:provisional .
+
+<i117795>	a	<Concept> ;
+	skos:definition	"become ignited; \"The furnace wouldn't fire\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-00589500-v> ;
+	ili:status	ili:provisional .
+
+<i117796>	a	<Concept> ;
+	skos:definition	"status in a society or organization; \"the upper echelon\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-13969830-n> ;
+	ili:status	ili:provisional .
+
+<i117797>	a	<Concept> ;
+	skos:definition	"(used facetiously) refinement"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-14483181-n> ;
+	ili:status	ili:provisional .
+
+<i117798>	a	<Concept> ;
+	skos:definition	"the state of being technical as in the use of technical terms or methods; \"the judicial system suffered from too much technicality and formality\"; \"It is a tribute to the tribunals that the technicality at the heart of the appellate process in these tribunals can and does coexist with the relative informality in atmosphere and with procedural flexibility.\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-14604142-n> ;
+	ili:status	ili:provisional .
+
+<i117799>	a	<Concept> ;
+	skos:definition	"a geometric representation of the complex numbers established by the real axis and the orthogonal imaginary axis; it can be thought of as a modified Cartesian plane, with the real part of a complex number represented by a displacement along the x-axis, and the imaginary part by a displacement along the y-axis"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-13883813-n> ;
+	ili:status	ili:provisional .
+
+<i117800>	a	<Concept> ;
+	skos:definition	"any of several plane algebraic curves in the shape of a figure eight"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-13925772-n> ;
+	ili:status	ili:provisional .
+
+<i117801>	a	<Concept> ;
+	skos:definition	"a two-dimensionsal figure having the shape of the number eight"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-13925916-n> ;
+	ili:status	ili:provisional .
+
+<i117802>	a	<Concept> ;
+	skos:definition	"by a little; \"I only just caught the bus\"; \"he finished the marathon in just under 3 hours\"; \"it was barely 5 a.m.\"; \"the network has barely 5 percent of viewers\"; \"the batter just missed being hit\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-00002935-r> ;
+	ili:status	ili:provisional .
+
+<i117803>	a	<Concept> ;
+	skos:definition	"not along the usual route; \"in order to experience something different, you need to go off the beaten path\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-00041802-r> ;
+	ili:status	ili:provisional .
+
+<i117804>	a	<Concept> ;
+	skos:definition	"(poetic, literary) quickly"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-00086390-r> ;
+	ili:status	ili:provisional .
+
+<i117805>	a	<Concept> ;
+	skos:definition	"after an initial impression, which later proves incorrect"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-00104016-r> ;
+	ili:status	ili:provisional .
+
+<i117806>	a	<Concept> ;
+	skos:definition	"with respect to the whole earth; \"think globally, not locally\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-00113197-r> ;
+	ili:status	ili:provisional .
+
+<i117807>	a	<Concept> ;
+	skos:definition	"not intended seriously; meant as a joke; \"some of the girls did go to extremes, but it was all in fun\"; \"let's pretend we don't like Mary, just for fun\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-00170122-r> ;
+	ili:status	ili:provisional .
+
+<i117808>	a	<Concept> ;
+	skos:definition	"while in motion; \"he caught the punt on the fly\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-00172037-r> ;
+	ili:status	ili:provisional .
+
+<i117809>	a	<Concept> ;
+	skos:definition	"in position"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-00257824-r> ;
+	ili:status	ili:provisional .
+
+<i117810>	a	<Concept> ;
+	skos:definition	"possibly (indicating a slight chance of something being true); \"it might just happen\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-00301750-r> ;
+	ili:status	ili:provisional .
+
+<i117811>	a	<Concept> ;
+	skos:definition	"very badly; \"they behaved shockingly at the funeral\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-00454522-r> ;
+	ili:status	ili:provisional .
+
+<i117812>	a	<Concept> ;
+	skos:definition	"in joint use or possession; \"mites are arachnids, but they have a lot in common with insects\"; \"property held in common\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-00506091-r> ;
+	ili:status	ili:provisional .
+
+<i117813>	a	<Concept> ;
+	skos:definition	"in the same way as; like; \"in common with families in general, one parent families have been getting smaller\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-00506249-r> ;
+	ili:status	ili:provisional .
+
+<i117814>	a	<Concept> ;
+	skos:definition	"following one another in quick succession"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-00508403-r> ;
+	ili:status	ili:provisional .
+
+<i117815>	a	<Concept> ;
+	skos:definition	"in a hollow manner; \"her footsteps echoed hollowly in the empty hall\"; \"his insincere words hung hollowly between them\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-00519229-r> ;
+	ili:status	ili:provisional .
+
+<i117816>	a	<Concept> ;
+	skos:definition	"in an incorrigible manner"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-00519421-r> ;
+	ili:status	ili:provisional .
+
+<i117817>	a	<Concept> ;
+	skos:definition	"in the manner of an animal with rabies"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-00519523-r> ;
+	ili:status	ili:provisional .
+
+<i117818>	a	<Concept> ;
+	skos:definition	"in an extreme or fanatical manner"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-00519615-r> ;
+	ili:status	ili:provisional .
+
+<i117819>	a	<Concept> ;
+	skos:definition	"in an extremely arrogant or conceited manner"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-00519720-r> ;
+	ili:status	ili:provisional .
+
+<i117820>	a	<Concept> ;
+	skos:definition	"to an insufferable degree; \"it was insufferably hot in the room\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-00519841-r> ;
+	ili:status	ili:provisional .
+
+<i117821>	a	<Concept> ;
+	skos:definition	"in a voluminous manner"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-00520033-r> ;
+	ili:status	ili:provisional .
+
+<i117822>	a	<Concept> ;
+	skos:definition	"have as one's secondary field of study; \"in collee she minored in mathematics\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-00609193-v> ;
+	ili:status	ili:provisional .
+
+<i117823>	a	<Concept> ;
+	skos:definition	"abandon one's principles for expedience or financial gain"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-00615215-v> ;
+	ili:status	ili:provisional .
+
+<i117824>	a	<Concept> ;
+	skos:definition	"be distinguished from others of a similar type by virtue of a notable characteristic; \"it has the distinction of being the cheapest restaurant in town\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-00663151-v> ;
+	ili:status	ili:provisional .
+
+<i117825>	a	<Concept> ;
+	skos:definition	"have confidence or faith in; \"We can trust in our government\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-00690278-v> ;
+	ili:status	ili:provisional .
+
+<i117826>	a	<Concept> ;
+	skos:definition	"seed of the mung bean plant; used for food"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-12599160-n> ;
+	ili:status	ili:provisional .
+
+<i117827>	a	<Concept> ;
+	skos:definition	"a leaf of a vine from the betel pepper"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-13176801-n> ;
+	ili:status	ili:provisional .
+
+<i117828>	a	<Concept> ;
+	skos:definition	"(plural) the deepest and most remote part; \"from the depths of darkest Africa\"; \"signals received from the depths of space\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-08517241-n> ;
+	ili:status	ili:provisional .
+
+<i117829>	a	<Concept> ;
+	skos:definition	"a sports field with predetermined dimensions for playing soccer"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-08533915-n> ;
+	ili:status	ili:provisional .
+
+<i117830>	a	<Concept> ;
+	skos:definition	"a place where trouble exists or occurs regularly"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-08678565-n> ;
+	ili:status	ili:provisional .
+
+<i117831>	a	<Concept> ;
+	skos:definition	"one of the several states constituting Malaysia"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-08984793-n> ;
+	ili:status	ili:provisional .
+
+<i117832>	a	<Instance> ;
+	skos:definition	"the third smallest Malaysian state; located in the southern region of the Malay Peninsula"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-08985168-n> ;
+	ili:status	ili:provisional .
+
+<i117833>	a	<Instance> ;
+	skos:definition	"the second smallest Malaysian state; located on the northwest coast of Peninsular Malaysia"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-08985331-n> ;
+	ili:status	ili:provisional .
+
+<i117834>	a	<Instance> ;
+	skos:definition	"the smallest Malaysian state; located at the northern part of the west coast of Peninsular Malaysia"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-08985494-n> ;
+	ili:status	ili:provisional .
+
+<i117835>	a	<Instance> ;
+	skos:definition	"one of the 13 states that constitute the Federation of Malaysia; located on the western coast of Peninsular Malaysia"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-08985666-n> ;
+	ili:status	ili:provisional .
+
+<i117836>	a	<Instance> ;
+	skos:definition	"sultanate and one of the 13 states of the Federation of Malaysia"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-08985864-n> ;
+	ili:status	ili:provisional .
+
+<i117837>	a	<Instance> ;
+	skos:definition	"sultanate and one of the 13 states that constitute the Federation of Malaysia"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-08986024-n> ;
+	ili:status	ili:provisional .
+
+<i117838>	a	<Instance> ;
+	skos:definition	"sultanate and one of the 13 states that constitute the Federation of Malaysia"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-08986176-n> ;
+	ili:status	ili:provisional .
+
+<i117839>	a	<Instance> ;
+	skos:definition	"sultanate and one of the 13 states that constitute the Federation of Malaysia"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-08986325-n> ;
+	ili:status	ili:provisional .
+
+<i117840>	a	<Instance> ;
+	skos:definition	"sultanate and one of the 13 states that constitute the Federation of Malaysia"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-08986475-n> ;
+	ili:status	ili:provisional .
+
+<i117841>	a	<Instance> ;
+	skos:definition	"sultanate and one of the 13 states that constitute the Federation of Malaysia"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-08986627-n> ;
+	ili:status	ili:provisional .
+
+<i117842>	a	<Instance> ;
+	skos:definition	"sultanate and one of the 13 states that constitute the Federation of Malaysia"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-08986776-n> ;
+	ili:status	ili:provisional .
+
+<i117843>	a	<Instance> ;
+	skos:definition	"the Latin name for Switzerland"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-09054580-n> ;
+	ili:status	ili:provisional .
+
+<i117844>	a	<Concept> ;
+	skos:definition	"a group of people having a religion, ethnic, profession, or other particular characteristic in common; \"he was well known throughout the Catholic community\"; \"the news spread rapidly through the medical community\"; \"they formed a community of scientists\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-07961512-n> ;
+	ili:status	ili:provisional .
+
+<i117845>	a	<Concept> ;
+	skos:definition	"organization responsible for organizing the modern Olympic Games"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-08025814-n> ;
+	ili:status	ili:provisional .
+
+<i117846>	a	<Concept> ;
+	skos:definition	"a camel cavalry used in the early modern era by Arab, Afghan, Persian, and Indian armies"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-08406649-n> ;
+	ili:status	ili:provisional .
+
+<i117847>	a	<Concept> ;
+	skos:definition	"(usually plural) a person's deservingness of or entitlement to reward or punishment"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-04814439-n> ;
+	ili:status	ili:provisional .
+
+<i117848>	a	<Concept> ;
+	skos:definition	"make (someone) self-conscious and as a result unable to act naturally; \"his father's cold and distant demeanor inhibited him emotionally\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-01794202-v> ;
+	ili:status	ili:provisional .
+
+<i117849>	a	<Concept> ;
+	skos:definition	"an action, often used negatively and without consequences; \"an exercise in futility\"; \"an exercise in cheap talk\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-00034873-n> ;
+	ili:status	ili:provisional .
+
+<i117850>	a	<Concept> ;
+	skos:definition	"the act of bringing someone or something up to date; \"the server update ran overnight\"; \"the local news station broadcast a special weather update\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-00035244-n> ;
+	ili:status	ili:provisional .
+
+<i117851>	a	<Concept> ;
+	skos:definition	"operation designed to catch a person committing a criminal act; \"the police conducted a sting operation\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-00410782-n> ;
+	ili:status	ili:provisional .
+
+<i117852>	a	<Concept> ;
+	skos:definition	"a transgression that constitutes a violation of what is judged to be right"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-00767587-n> ;
+	ili:status	ili:provisional .
+
+<i117853>	a	<Concept> ;
+	skos:definition	"(sometimes offensive) an act of swindling or cheating"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-00781071-n> ;
+	ili:status	ili:provisional .
+
+<i117854>	a	<Concept> ;
+	skos:definition	"construction of something by whatver material are available"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-00913288-n> ;
+	ili:status	ili:provisional .
+
+<i117855>	a	<Concept> ;
+	skos:definition	"the application of the knowledge and usage of tools (such as machines or utensils) and techniques to control one's environment; \"the mastery of fire was a huge advance in human technology\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-00951435-n> ;
+	ili:status	ili:provisional .
+
+<i117856>	a	<Concept> ;
+	skos:definition	"the practical application of technical and scientific knowledge to commerce or industry"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-00951878-n> ;
+	ili:status	ili:provisional .
+
+<i117857>	a	<Concept> ;
+	skos:definition	"marketing based on studies of consumers' sensorimotor, cognitive, and affective responses"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-01114808-n> ;
+	ili:status	ili:provisional .
+
+<i117858>	a	<Concept> ;
+	skos:definition	"the selling of an entire stock of something; \"the latest Xbox game is so popular, shops are warning of a probable sellout before Christmas\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-01117127-n> ;
+	ili:status	ili:provisional .
+
+<i117859>	a	<Concept> ;
+	skos:definition	"performing mild exercises to prepare for some more strenuous activity; \"the singers have to warm up\"; \"the marathon runner did not warm up and hurt himself\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-01145712-n> ;
+	ili:status	ili:provisional .
+
+<i117860>	a	<Concept> ;
+	skos:definition	"an enthusiastic expression of emotion; \"rhapsodies of joy\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-07542913-n> ;
+	ili:status	ili:provisional .
+
+<i117861>	a	<Concept> ;
+	skos:definition	"hatred for men or boys"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-07562607-n> ;
+	ili:status	ili:provisional .
+
+<i117862>	a	<Concept> ;
+	skos:definition	"the body of an animal, or bodies of animals, killed by a person or another animal"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-01325752-n> ;
+	ili:status	ili:provisional .
+
+<i117863>	a	<Concept> ;
+	skos:definition	"of or relating to an antitype that represents an opposite"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-02641708-a> ;
+	ili:status	ili:provisional .
+
+<i117864>	a	<Concept> ;
+	skos:definition	"according to strict interpretation of the law or set of rules"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-02820296-a> ;
+	ili:status	ili:provisional .
+
+<i117865>	a	<Concept> ;
+	skos:definition	"relating to the epicanthus; \"epicanthic folds\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-02867469-a> ;
+	ili:status	ili:provisional .
+
+<i117866>	a	<Concept> ;
+	skos:definition	"of or derived from oxalic acid"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-02867590-a> ;
+	ili:status	ili:provisional .
+
+<i117867>	a	<Concept> ;
+	skos:definition	"of or relating to or tending toward ideological fundamentalism"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-02964788-a> ;
+	ili:status	ili:provisional .
+
+<i117868>	a	<Concept> ;
+	skos:definition	"marrowlike"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-03024573-a> ;
+	ili:status	ili:provisional .
+
+<i117869>	a	<Concept> ;
+	skos:definition	"involving the cube and no higher power of a quantity or variable; \"a cubic equation\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-03119258-a> ;
+	ili:status	ili:provisional .
+
+<i117870>	a	<Concept> ;
+	skos:definition	"the barrier preventing Blacks from participating in various activities with whites"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-05698967-n> ;
+	ili:status	ili:provisional .
+
+<i117871>	a	<Concept> ;
+	skos:definition	"(plural) something that reminds you of someone or something; \"aren't there shades of 1948 here?\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-05822120-n> ;
+	ili:status	ili:provisional .
+
+<i117872>	a	<Concept> ;
+	skos:definition	"a specific detail in a set of rules or terms belonging to a particular field; \"the resolution died on a technicality\"; \"the defendant was acquitted on a legal technicality\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-05828731-n> ;
+	ili:status	ili:provisional .
+
+<i117873>	a	<Concept> ;
+	skos:definition	"an individual's idea as assessment of his or her own body; \"some teenagers are obsessed with their body image\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-05846299-n> ;
+	ili:status	ili:provisional .
+
+<i117874>	a	<Concept> ;
+	skos:definition	"the concept of emptying one's own will and receive God's will, in Catholicism"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-05951056-n> ;
+	ili:status	ili:provisional .
+
+<i117875>	a	<Concept> ;
+	skos:definition	"(economics) the theory that a person or firm seeks to make money by manipulating the economic environment rather than by making a profit through production or trade"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-06005013-n> ;
+	ili:status	ili:provisional .
+
+<i117876>	a	<Concept> ;
+	skos:definition	"a subpopulation divided into a stratified sampling"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-06036690-n> ;
+	ili:status	ili:provisional .
+
+<i117877>	a	<Concept> ;
+	skos:definition	"the study of wooden plants"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-06162890-n> ;
+	ili:status	ili:provisional .
+
+<i117878>	a	<Concept> ;
+	skos:definition	"the strict adherence to the basic principles or doctrines of a religion, ideology, etc."@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-06226161-n> ;
+	ili:status	ili:provisional .
+
+<i117879>	a	<Concept> ;
+	skos:definition	"the belief that God is in part of the universe and its phenomena and also transcends the universe and intervenes in its operations"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-06234997-n> ;
+	ili:status	ili:provisional .
+
+<i117880>	a	<Concept> ;
+	skos:definition	"the belief that God created the universe and its phenomena by becoming the universe, thereafter the sole manifestation of God"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-06235186-n> ;
+	ili:status	ili:provisional .
+
+<i117881>	a	<Instance> ;
+	skos:definition	"the strait between the Malay Peninsula and Sumatra; it connects the Pacific Ocean to the east with the Indian Ocean to the west and is an important shipping lane"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-09470589-n> ;
+	ili:status	ili:provisional .
+
+<i117882>	a	<Concept> ;
+	skos:definition	"a medium that usually, but not always, provides little involvement together with substantial stimulus; includes speech, television, cartoons"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-06265081-n> ;
+	ili:status	ili:provisional .
+
+<i117883>	a	<Concept> ;
+	skos:definition	"a medium that usually, but not always, provides complete involvement together without considerable stimulus; includes radio, film, photography"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-06265293-n> ;
+	ili:status	ili:provisional .
+
+<i117884>	a	<Concept> ;
+	skos:definition	"a word that strongly resembles another word in spelling"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-06299021-n> ;
+	ili:status	ili:provisional .
+
+<i117885>	a	<Concept> ;
+	skos:definition	"(law) a name or sign used on certain products which corresponds to a specific geographical location or origin"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-06346843-n> ;
+	ili:status	ili:provisional .
+
+<i117886>	a	<Concept> ;
+	skos:definition	"a geographical indication used to identify where the grapes for a wine are grown"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-06347064-n> ;
+	ili:status	ili:provisional .
+
+<i117887>	a	<Concept> ;
+	skos:definition	"graphic novel that originated in Japan, usually intended for adults and characterized by highly stylized art"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-06379605-n> ;
+	ili:status	ili:provisional .
+
+<i117888>	a	<Concept> ;
+	skos:definition	"the schedule of programs for a particular period; \"the network's fall lineup\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-06497868-n> ;
+	ili:status	ili:provisional .
+
+<i117889>	a	<Concept> ;
+	skos:definition	"(usually plural) a listing of best-selling recorded music; \"number 2 on the charts\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-06500907-n> ;
+	ili:status	ili:provisional .
+
+<i117890>	a	<Concept> ;
+	skos:definition	"a software module that extends or enhances the capabilities of an existing application"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-06578832-n> ;
+	ili:status	ili:provisional .
+
+<i117891>	a	<Concept> ;
+	skos:definition	"malicious software, designed to break into a system"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-06600315-n> ;
+	ili:status	ili:provisional .
+
+<i117892>	a	<Concept> ;
+	skos:definition	"a numbered item in a series; \"take the number 2 to the main square, then change to the number 5\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-06609408-n> ;
+	ili:status	ili:provisional .
+
+<i117893>	a	<Concept> ;
+	skos:definition	"a style of animation developed in Japan, characterized by stylized colorful art and often adult themes"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-06629056-n> ;
+	ili:status	ili:provisional .
+
+<i117894>	a	<Instance> ;
+	skos:definition	"the latest publicly released version of WordNet"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-06651972-n> ;
+	ili:status	ili:provisional .
+
+<i117895>	a	<Concept> ;
+	skos:definition	"an honor awarded to someone in recognition of achievement or superiority; \"she graduated with the highest distinction\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-06719080-n> ;
+	ili:status	ili:provisional .
+
+<i117896>	a	<Concept> ;
+	skos:definition	"a diacritical mark (two dots) placed over a vowel to indicate that it does not form a diphthong with an adjacent vowel"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-06836790-n> ;
+	ili:status	ili:provisional .
+
+<i117897>	a	<Concept> ;
+	skos:definition	"a hand-held device, usually of paper, cardboard, or plastic, for conducting simple calculations or looking up information"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-07015100-n> ;
+	ili:status	ili:provisional .
+
+<i117898>	a	<Concept> ;
+	skos:definition	"a circular slide chart having rotating parts"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-07015315-n> ;
+	ili:status	ili:provisional .
+
+<i117899>	a	<Concept> ;
+	skos:definition	"(music) a free instrumental composition in one extended movement; typically emotional or exuberant in character"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-07038703-n> ;
+	ili:status	ili:provisional .
+
+<i117900>	a	<Concept> ;
+	skos:definition	"a variety of plainsong named after Pope Gregory I"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-07048857-n> ;
+	ili:status	ili:provisional .
+
+<i117901>	a	<Concept> ;
+	skos:definition	"a musical composition or musical passage to be performed loudly"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-07059027-n> ;
+	ili:status	ili:provisional .
+
+<i117902>	a	<Concept> ;
+	skos:definition	"a musical composition or musical passage to be performed very loudly"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-07059160-n> ;
+	ili:status	ili:provisional .
+
+<i117903>	a	<Concept> ;
+	skos:definition	"an abbreviation formed from the initial letters of the several words in the name and pronounced separately; \"HTML is an initialism for HyperText Markup Language\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-07106112-n> ;
+	ili:status	ili:provisional .
+
+<i117904>	a	<Concept> ;
+	skos:definition	"run or pass below"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-02762433-v> ;
+	ili:status	ili:provisional .
+
+<i117905>	a	<Concept> ;
+	skos:definition	"give a present that one has received to someone else; \"she regifted that ugly scarf she received from her aunt\"; \"when I regift I hope the person likes the gift better than I do\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-02205670-v> ;
+	ili:status	ili:provisional .
+
+<i117906>	a	<Concept> ;
+	skos:definition	"a dosage of ionizing radiation equivalent to one thousandth (1/1000) of a rem"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-13668036-n> ;
+	ili:status	ili:provisional .
+
+<i117907>	a	<Concept> ;
+	skos:definition	"wind (up) again; \"the mechanical watch needs rewinding every day\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-01524927-v> ;
+	ili:status	ili:provisional .
+
+<i117908>	a	<Concept> ;
+	skos:definition	"haul onto a boat; \"underrun the cable for repair\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-01620096-v> ;
+	ili:status	ili:provisional .
+
+<i117909>	a	<Concept> ;
+	skos:definition	"used or abandoned materials for use in creating new products; \"Every Monday, we put our recycling out on the curb for pick-up\""@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-14606023-n> ;
+	ili:status	ili:provisional .
+
+<i117910>	a	<Concept> ;
+	skos:definition	"an antacid"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-14801263-n> ;
+	ili:status	ili:provisional .
+
+<i117911>	a	<Concept> ;
+	skos:definition	"an antacid"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-14801347-n> ;
+	ili:status	ili:provisional .
+
+<i117912>	a	<Concept> ;
+	skos:definition	"an antacid"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-14801600-n> ;
+	ili:status	ili:provisional .
+
+<i117913>	a	<Concept> ;
+	skos:definition	"an antacid"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-14801682-n> ;
+	ili:status	ili:provisional .
+
+<i117914>	a	<Concept> ;
+	skos:definition	"an antacid"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-14801927-n> ;
+	ili:status	ili:provisional .
+
+<i117915>	a	<Concept> ;
+	skos:definition	"an antacid"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-14802015-n> ;
+	ili:status	ili:provisional .
+
+<i117916>	a	<Concept> ;
+	skos:definition	"(biochemistry) a linear polymer whose molecule is composed of many nucleotide units constituting a section of a nucleic acid molecule"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-14990367-n> ;
+	ili:status	ili:provisional .
+
+<i117917>	a	<Concept> ;
+	skos:definition	"(biochemistry) a polynucleotide whose molecules contain relatively few nucleotides"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-14993642-n> ;
+	ili:status	ili:provisional .
+
+<i117918>	a	<Concept> ;
+	skos:definition	"a person who resembles a Gypsy in leading an unconventional, nomadic way of life"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-09642482-n> ;
+	ili:status	ili:provisional .
+
+<i117919>	a	<Concept> ;
+	skos:definition	"a person who plays the concertina"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-09780734-n> ;
+	ili:status	ili:provisional .
+
+<i117920>	a	<Concept> ;
+	skos:definition	"someone who has sold out"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-09851585-n> ;
+	ili:status	ili:provisional .
+
+<i117921>	a	<Concept> ;
+	skos:definition	"a person who rejects religion"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-10020122-n> ;
+	ili:status	ili:provisional .
+
+<i117922>	a	<Concept> ;
+	skos:definition	"someone who advocates the rights of the common people over those of the elite"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-10021663-n> ;
+	ili:status	ili:provisional .
+
+<i117923>	a	<Concept> ;
+	skos:definition	"a specialist in the study of diet and nutrition"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-10032289-n> ;
+	ili:status	ili:provisional .
+
+<i117924>	a	<Concept> ;
+	skos:definition	"a native of Switzerland"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-10190274-n> ;
+	ili:status	ili:provisional .
+
+<i117925>	a	<Concept> ;
+	skos:definition	"a person who specializes in interior decoration"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-10230422-n> ;
+	ili:status	ili:provisional .
+
+<i117926>	a	<Concept> ;
+	skos:definition	"a worker who moves around and works temporarily in different places"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-10719072-n> ;
+	ili:status	ili:provisional .
+
+<i117927>	a	<Instance> ;
+	skos:definition	"44th President of the United States; first African-American President"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-10895767-n> ;
+	ili:status	ili:provisional .
+
+<i117928>	a	<Instance> ;
+	skos:definition	"French philosopher (born in Germany) famous as being one of the first self-described atheists in Europe"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-10955318-n> ;
+	ili:status	ili:provisional .
+
+<i117929>	a	<Concept> ;
+	skos:definition	"an adherent of fundamentalist principles"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-11428554-n> ;
+	ili:status	ili:provisional .
+
+<i117930>	a	<Concept> ;
+	skos:definition	"the portion of the loin from which porterhouse steaks are cut"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-07674441-n> ;
+	ili:status	ili:provisional .
+
+<i117931>	a	<Concept> ;
+	skos:definition	"seed of the mung bean plant used for food"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-07741018-n> ;
+	ili:status	ili:provisional .
+
+<i117932>	a	<Concept> ;
+	skos:definition	"one of two roots of the spinal nerves"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-05256763-n> ;
+	ili:status	ili:provisional .
+
+<i117933>	a	<Concept> ;
+	skos:definition	"either of two roots of the spinal nerves"@en ;
+	dc:source	<https://wordnet.princeton.edu/ewn-05598016-n> ;
+	ili:status	ili:provisional .
+
+
