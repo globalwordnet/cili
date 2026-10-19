@@ -15,11 +15,11 @@
 ### Concept identifiers (below) are unaffected: they stay relative to @base.
 @prefix ili: <https://globalwordnet.github.io/cili/ontology.xml#> .
 
-@base <http://globalwordnet.org/ili/> .
+@base <http://globalwordnet.org/cili/> .
 
 <https://globalwordnet.github.io/cili/ili.ttl> a voaf:Vocabulary ;
   vann:preferredNamespacePrefix "ili" ;
-  vann:preferredNamespaceUri "http://globalwordnet.org/ili/" ;
+  vann:preferredNamespaceUri "http://globalwordnet.org/cili/" ;
   dc:title "Global Wordnet ILI"@en ;
   dc:description "The shared Inter-Lingual Index for the global wordnets.  It consists of a list of concepts of instances with defintions, and their links to open wordnets."@en ;
   dc:issued "2016-01-26"^^xsd:date ;

@@ -10,7 +10,7 @@
 
   <owl:Ontology rdf:about="https://globalwordnet.github.io/cili/ontology.xml">
     <dc:title xml:lang="en">CILI Status Vocabulary</dc:title>
-    <dc:description xml:lang="en">Vocabulary for annotating the status of an ILI concept (provisional, active, deprecated) and recording supersession, as discussed in https://github.com/globalwordnet/cili/issues/8. Concept identifiers themselves (ili:i1, ili:i2, ...) are not defined here; they remain under http://globalwordnet.org/ili/, as declared in ili.ttl.</dc:description>
+    <dc:description xml:lang="en">Vocabulary for annotating the status of an ILI concept (provisional, active, deprecated) and recording supersession, as discussed in https://github.com/globalwordnet/cili/issues/8. Concept identifiers themselves (ili:i1, ili:i2, ...) are not defined here; they remain under http://globalwordnet.org/cili/, as declared in ili.ttl.</dc:description>
     <vann:preferredNamespacePrefix>ili</vann:preferredNamespacePrefix>
     <vann:preferredNamespaceUri>https://globalwordnet.github.io/cili/ontology.xml#</vann:preferredNamespaceUri>
   </owl:Ontology>
@@ -24,8 +24,8 @@
   <owl:ObjectProperty rdf:about="#supersededBy">
     <rdfs:label xml:lang="en">superseded by</rdfs:label>
     <rdfs:comment xml:lang="en">Links a deprecated ILI concept to the concept(s) that replace it. May be repeated on the same subject to represent a split into multiple concepts.</rdfs:comment>
-    <rdfs:domain rdf:resource="http://globalwordnet.org/ili/Concept"/>
-    <rdfs:range rdf:resource="http://globalwordnet.org/ili/Concept"/>
+    <rdfs:domain rdf:resource="http://globalwordnet.org/cili/Concept"/>
+    <rdfs:range rdf:resource="http://globalwordnet.org/cili/Concept"/>
   </owl:ObjectProperty>
 
   <owl:Class rdf:about="#Status">

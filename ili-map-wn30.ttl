@@ -6,8 +6,8 @@
 
 ### This file
 
-@prefix ili: <http://globalwordnet.org/ili/> .
-@base <http://globalwordnet.org/ili/ili-map.ttl>.
+@prefix ili: <http://globalwordnet.org/cili/> .
+@base <http://globalwordnet.org/cili/ili-map.ttl>.
 
 <i1>	owl:sameAs	pwn30:00001740-a . # able
 <i2>	owl:sameAs	pwn30:00002098-a . # unable

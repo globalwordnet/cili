@@ -1,6 +1,6 @@
 @prefix owl:    <http://www.w3.org/2002/07/owl#> .
 @prefix pwn31: <http://wordnet-rdf.princeton.edu/wn31/> .
-@prefix ili: <http://globalwordnet.org/ili/> .
+@prefix ili: <http://globalwordnet.org/cili/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 ili:i1 owl:sameAs pwn31:300001740-a . # able

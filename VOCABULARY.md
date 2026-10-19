@@ -69,19 +69,19 @@ by two separate `ili.ttl` prefix declarations:
 
 ```turtle
 @prefix ili: <https://globalwordnet.github.io/cili/ontology.xml#> .
-@base <http://globalwordnet.org/ili/> .
+@base <http://globalwordnet.org/cili/> .
 ```
 
 * Concept IDs (`<i123>`, and the existing `<Concept>`/`<Instance>` classes)
   stay exactly as they are today, relative to `@base`, i.e.
-  `http://globalwordnet.org/ili/i123`. Nothing about any existing concept's
+  `http://globalwordnet.org/cili/i123`. Nothing about any existing concept's
   URI changes.
 * The new vocabulary terms — `ili:status`, `ili:supersededBy`, and the
   status values `ili:provisional`/`ili:active`/`ili:deprecated` — are
   prefixed with `ili:`, which now points at
   `https://globalwordnet.github.io/cili/ontology.xml#`, a real,
   dereferenceable document ([`ontology.xml`](ontology.xml), published via
-  GitHub Pages), rather than `http://globalwordnet.org/ili/`, which does
+  GitHub Pages), rather than `http://globalwordnet.org/cili/`, which does
   not currently resolve.
 
 This also settles the namespace-collision concern @goodmami raised in
@@ -103,7 +103,7 @@ The IDs below are placeholders, not references to real ILI concepts:
 
 ```turtle
 @prefix ili: <https://globalwordnet.github.io/cili/ontology.xml#> .
-@base <http://globalwordnet.org/ili/> .
+@base <http://globalwordnet.org/cili/> .
 
 <iXXXXX> a <Concept> ;
     skos:definition "..."@en ;

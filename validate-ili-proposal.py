@@ -46,7 +46,7 @@ from typing import Dict, List, Optional, Tuple
 from rdflib import Graph, Namespace
 from rdflib.namespace import RDF, SKOS, DC
 
-ILI = Namespace('http://globalwordnet.org/ili/')
+ILI = Namespace('http://globalwordnet.org/cili/')
 STATUS = Namespace('https://globalwordnet.github.io/cili/ontology.xml#')
 MARKER = '<!-- ili-validation-report -->'
 MINILM_MODEL = 'sentence-transformers/all-MiniLM-L6-v2'

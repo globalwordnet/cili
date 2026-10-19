@@ -6,8 +6,8 @@
 
 ### this file
 
-@prefix ili: <http://globalwordnet.org/ili/> .
-@base <http://globalwordnet.org/ili/ili-map.ttl>.
+@prefix ili: <http://globalwordnet.org/cili/> .
+@base <http://globalwordnet.org/cili/ili-map.ttl>.
 
 ili:i69801	owl:sameAs	odwn13:06341431-n . # mevr.
 ili:i115080	owl:sameAs	odwn13:14848149-n . # eluens
