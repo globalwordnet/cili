@@ -2185,7 +2185,10 @@
 
 <i538>	a	<Concept> ;
 	skos:definition	"limited to or caring only about yourself and your own needs"@en ;
-	dc:source	pwn30:00101800-a .
+	dc:source	pwn30:00101800-a ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i11502> ;
+	dc:description	"Duplicate (#750)" .
 
 <i539>	a	<Concept> ;
 	skos:definition	"absorbed in your own interests or thoughts etc"@en ;
@@ -2813,7 +2816,10 @@
 
 <i695>	a	<Concept> ;
 	skos:definition	"before noon"@en ;
-	dc:source	pwn30:00130518-s .
+	dc:source	pwn30:00130518-s ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i19878> ;
+	dc:description	"Incorrect part of speech (#976)" .
 
 <i696>	a	<Concept> ;
 	skos:definition	"after noon"@en ;
@@ -2821,7 +2827,10 @@
 
 <i697>	a	<Concept> ;
 	skos:definition	"after noon"@en ;
-	dc:source	pwn30:00130701-s .
+	dc:source	pwn30:00130701-s ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i19879> ;
+	dc:description	"Incorrect part of speech (#976)" .
 
 <i698>	a	<Concept> ;
 	skos:definition	"of or near the head end or toward the front plane of a body"@en ;
@@ -11393,7 +11402,10 @@
 
 <i2840>	a	<Concept> ;
 	skos:definition	"similar in some respect and so able to be compared in order to show differences and similarities"@en ;
-	dc:source	pwn30:00504172-s .
+	dc:source	pwn30:00504172-s ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i2839> ;
+	dc:description	"Unnecessary 'with' in this synset (#58)" .
 
 <i2841>	a	<Concept> ;
 	skos:definition	"worthy of comparison; as good as"@en ;
@@ -12313,7 +12325,10 @@
 
 <i3070>	a	<Concept> ;
 	skos:definition	"prolix"@en ;
-	dc:source	pwn30:00549675-s .
+	dc:source	pwn30:00549675-s ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i3067> ;
+	dc:description	"merging with other synset (#532)" .
 
 <i3071>	a	<Concept> ;
 	skos:definition	"repetition of same sense in different words"@en ;
@@ -16169,7 +16184,10 @@
 
 <i4034>	a	<Concept> ;
 	skos:definition	"separate and distinct from others of the same kind"@en ;
-	dc:source	pwn30:00729246-s .
+	dc:source	pwn30:00729246-s ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i2774> ;
+	dc:description	"Duplicate (#1006)" .
 
 <i4035>	a	<Concept> ;
 	skos:definition	"able to provide for your own needs without help from others"@en ;
@@ -26409,7 +26427,10 @@
 
 <i6594>	a	<Concept> ;
 	skos:definition	"higher in place or position"@en ;
-	dc:source	pwn30:01206318-s .
+	dc:source	pwn30:01206318-s ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i13518> ;
+	dc:description	"Merged with 02449821-a as indistinct senses (#1321)" .
 
 <i6595>	a	<Concept> ;
 	skos:definition	"literal meanings; being at or having a relatively small elevation or upward extension"@en ;
@@ -33661,7 +33682,10 @@
 
 <i8407>	a	<Concept> ;
 	skos:definition	"changed in constitution or structure or composition by metamorphism"@en ;
-	dc:source	pwn30:01531019-s .
+	dc:source	pwn30:01531019-s ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i1954> ;
+	dc:description	"delete synset (#62)" .
 
 <i8408>	a	<Concept> ;
 	skos:definition	"not metamorphic"@en ;
@@ -34157,7 +34181,10 @@
 
 <i8531>	a	<Concept> ;
 	skos:definition	"relatively much but unspecified in amount or extent"@en ;
-	dc:source	pwn30:01554063-s .
+	dc:source	pwn30:01554063-s ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i8524> ;
+	dc:description	"duplicate (#242)" .
 
 <i8532>	a	<Concept> ;
 	skos:definition	"of so extreme a degree or extent"@en ;
@@ -36781,7 +36808,10 @@
 
 <i9187>	a	<Concept> ;
 	skos:definition	"exceedingly or unbelievably great"@en ;
-	dc:source	pwn30:01676993-s .
+	dc:source	pwn30:01676993-s ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i9186> ;
+	dc:description	"Duplicate (#53)" .
 
 <i9188>	a	<Concept> ;
 	skos:definition	"extreme in degree or extent or amount or impact"@en ;
@@ -37369,7 +37399,10 @@
 
 <i9334>	a	<Concept> ;
 	skos:definition	"having two leaves"@en ;
-	dc:source	pwn30:01703330-s .
+	dc:source	pwn30:01703330-s ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i9314> ;
+	dc:description	"Duplicate (#1134)" .
 
 <i9335>	a	<Concept> ;
 	skos:definition	"having a single leaf"@en ;
@@ -37897,7 +37930,10 @@
 
 <i9466>	a	<Concept> ;
 	skos:definition	"capable of being surmounted"@en ;
-	dc:source	pwn30:01725031-s .
+	dc:source	pwn30:01725031-s ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i11414> ;
+	dc:description	"Duplicate (#987)" .
 
 <i9467>	a	<Concept> ;
 	skos:definition	"capable of being traversed"@en ;
@@ -42149,7 +42185,10 @@
 
 <i10529>	a	<Concept> ;
 	skos:definition	"walking on the tips of ones's toes so as to make no noise"@en ;
-	dc:source	pwn30:01919793-s .
+	dc:source	pwn30:01919793-s ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i31335> ;
+	dc:description	"Duplicate (#27)" .
 
 <i10530>	a	<Concept> ;
 	skos:definition	"full of or characterized by loud and nonmusical sounds"@en ;
@@ -45881,7 +45920,10 @@
 
 <i11462>	a	<Concept> ;
 	skos:definition	"belonging to or characteristic of a sect"@en ;
-	dc:source	pwn30:02091574-a .
+	dc:source	pwn30:02091574-a ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i15816> ;
+	dc:description	"Duplicate (#195)" .
 
 <i11463>	a	<Concept> ;
 	skos:definition	"adhering or confined to a particular sect or denomination"@en ;
@@ -46049,7 +46091,10 @@
 
 <i11504>	a	<Concept> ;
 	skos:definition	"interested only in yourself"@en ;
-	dc:source	pwn30:02098918-s .
+	dc:source	pwn30:02098918-s ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i11502> ;
+	dc:description	"Duplicate (#750)" .
 
 <i11505>	a	<Concept> ;
 	skos:definition	"disregarding your own advantages and welfare over those of others"@en ;
@@ -46161,7 +46206,10 @@
 
 <i11532>	a	<Concept> ;
 	skos:definition	"readily affected by various agents"@en ;
-	dc:source	pwn30:02104396-s .
+	dc:source	pwn30:02104396-s ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i11528> ;
+	dc:description	"Compositional synset (#63)" .
 
 <i11533>	a	<Concept> ;
 	skos:definition	"abnormally sensitive to a stimulus"@en ;
@@ -48593,7 +48641,10 @@
 
 <i12140>	a	<Concept> ;
 	skos:definition	"indicating the beginning unit in a series"@en ;
-	dc:source	pwn30:02202047-s .
+	dc:source	pwn30:02202047-s ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i5535> ;
+	dc:description	"Duplicate (#226)" .
 
 <i12141>	a	<Concept> ;
 	skos:definition	"coming next after the first in position in space or time or degree or magnitude"@en ;
@@ -49285,7 +49336,10 @@
 
 <i12313>	a	<Concept> ;
 	skos:definition	"excellent"@en ;
-	dc:source	pwn30:02227663-s .
+	dc:source	pwn30:02227663-s ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i12976> ;
+	dc:description	"Duplicate (#197)" .
 
 <i12314>	a	<Concept> ;
 	skos:definition	"proficient and confident in performance"@en ;
@@ -51561,7 +51615,10 @@
 
 <i12882>	a	<Concept> ;
 	skos:definition	"weak in willpower, courage or vitality"@en ;
-	dc:source	pwn30:02325816-s .
+	dc:source	pwn30:02325816-s ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i1493> ;
+	dc:description	"Duplicate (#57)" .
 
 <i12883>	a	<Concept> ;
 	skos:definition	"(of light) lacking in intensity or brightness; dim or feeble"@en ;
@@ -51713,11 +51770,17 @@
 
 <i12920>	a	<Concept> ;
 	skos:definition	"unofficial championship title for player who heads the league in batting average and home runs and runs batted in"@en ;
-	dc:source	pwn30:02332956-s .
+	dc:source	pwn30:02332956-s ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i110241> ;
+	dc:description	"Not an adjective (#13)" .
 
 <i12921>	a	<Concept> ;
 	skos:definition	"of a horse that has won the Kentucky Derby and the Belmont Stakes and the Preakness races"@en ;
-	dc:source	pwn30:02333147-s .
+	dc:source	pwn30:02333147-s ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i110242> ;
+	dc:description	"Not an adjective (#13)" .
 
 <i12922>	a	<Concept> ;
 	skos:definition	"having won"@en ;
@@ -54465,7 +54528,10 @@
 
 <i13608>	a	<Concept> ;
 	skos:definition	"not traveled over or through"@en ;
-	dc:source	pwn30:02454619-s .
+	dc:source	pwn30:02454619-s ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i13607> ;
+	dc:description	"Duplicate (#1134)" .
 
 <i13609>	a	<Concept> ;
 	skos:definition	"made neat and tidy by trimming"@en ;
@@ -55001,7 +55067,10 @@
 
 <i13742>	a	<Concept> ;
 	skos:definition	"divided into two lobes"@en ;
-	dc:source	pwn30:02479492-s .
+	dc:source	pwn30:02479492-s ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i11936> ;
+	dc:description	"Duplicate (#1134)" .
 
 <i13743>	a	<Concept> ;
 	skos:definition	"resembling a fork; divided or separated into two branches"@en ;
@@ -63189,7 +63258,10 @@
 
 <i15789>	a	<Concept> ;
 	skos:definition	"of or relating to the countryside as opposed to the city"@en ;
-	dc:source	pwn30:02790726-a .
+	dc:source	pwn30:02790726-a ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i11247> ;
+	dc:description	"duplicate (#238)" .
 
 <i15790>	a	<Concept> ;
 	skos:definition	"of or pertaining to or characteristic of Ruritania (or any other imaginary country)"@en ;
@@ -66849,7 +66921,10 @@
 
 <i16704>	a	<Concept> ;
 	skos:definition	"resembling epithelium"@en ;
-	dc:source	pwn30:02932462-a .
+	dc:source	pwn30:02932462-a ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i16703> ;
+	dc:description	"Duplicate (#48)" .
 
 <i16705>	a	<Concept> ;
 	skos:definition	"of or involving the pancreas"@en ;
@@ -73021,7 +73096,9 @@
 
 <i18247>	a	<Concept> ;
 	skos:definition	"even"@en ;
-	dc:source	pwn30:00018265-r .
+	dc:source	pwn30:00018265-r ;
+	ili:status	ili:deprecated ;
+	dc:description	"Duplicate (#1249)" .
 
 <i18248>	a	<Concept> ;
 	skos:definition	"to some (great or small) extent"@en ;
@@ -73085,7 +73162,10 @@
 
 <i18263>	a	<Concept> ;
 	skos:definition	"not at all; certainly not; not in any circumstances"@en ;
-	dc:source	pwn30:00020997-r .
+	dc:source	pwn30:00020997-r ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i18262> ;
+	dc:description	"merge with another synset (#213)" .
 
 <i18264>	a	<Concept> ;
 	skos:definition	"now and then or here and there"@en ;
@@ -74057,11 +74137,17 @@
 
 <i18506>	a	<Concept> ;
 	skos:definition	"quickly and without warning"@en ;
-	dc:source	pwn30:00061528-r .
+	dc:source	pwn30:00061528-r ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i118021> ;
+	dc:description	"Merging senses of 'suddenly' (#34)" .
 
 <i18507>	a	<Concept> ;
 	skos:definition	"happening unexpectedly"@en ;
-	dc:source	pwn30:00061677-r .
+	dc:source	pwn30:00061677-r ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i118021> ;
+	dc:description	"Merging senses of 'suddenly' (#34)" .
 
 <i18508>	a	<Concept> ;
 	skos:definition	"suddenly"@en ;
@@ -74893,7 +74979,10 @@
 
 <i18715>	a	<Concept> ;
 	skos:definition	"for a short time"@en ;
-	dc:source	pwn30:00092682-r .
+	dc:source	pwn30:00092682-r ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i18337> ;
+	dc:description	"Duplicate (#1134)" .
 
 <i18716>	a	<Concept> ;
 	skos:definition	"for an instant or moment"@en ;
@@ -75429,7 +75518,10 @@
 
 <i18849>	a	<Concept> ;
 	skos:definition	"very"@en ;
-	dc:source	pwn30:00112009-r .
+	dc:source	pwn30:00112009-r ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i18320> ;
+	dc:description	"Duplicate (#1134)" .
 
 <i18850>	a	<Concept> ;
 	skos:definition	"without speaking"@en ;
@@ -77245,7 +77337,10 @@
 
 <i19303>	a	<Concept> ;
 	skos:definition	"on impulse; without premeditation"@en ;
-	dc:source	pwn30:00171135-r .
+	dc:source	pwn30:00171135-r ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i118021> ;
+	dc:description	"Merging senses of 'suddenly' (#34)" .
 
 <i19304>	a	<Concept> ;
 	skos:definition	"on a route to some place"@en ;
@@ -77833,7 +77928,10 @@
 
 <i19450>	a	<Concept> ;
 	skos:definition	"in an irregular manner"@en ;
-	dc:source	pwn30:00190581-r .
+	dc:source	pwn30:00190581-r ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i19485> ;
+	dc:description	"Duplicate (#231)" .
 
 <i19451>	a	<Concept> ;
 	skos:definition	"in coarse pieces"@en ;
@@ -78837,7 +78935,10 @@
 
 <i19701>	a	<Concept> ;
 	skos:definition	"in actual fact"@en ;
-	dc:source	pwn30:00227023-r .
+	dc:source	pwn30:00227023-r ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i19142> ;
+	dc:description	"Duplicate (#1134)" .
 
 <i19702>	a	<Concept> ;
 	skos:definition	"in an abnormal manner"@en ;
@@ -80421,7 +80522,10 @@
 
 <i20097>	a	<Concept> ;
 	skos:definition	"twice a year"@en ;
-	dc:source	pwn30:00279174-r .
+	dc:source	pwn30:00279174-r ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i19911> ;
+	dc:description	"Duplicate (#1134)" .
 
 <i20098>	a	<Concept> ;
 	skos:definition	"without expression; in a blank manner"@en ;
@@ -83181,7 +83285,10 @@
 
 <i20787>	a	<Concept> ;
 	skos:definition	"at a distant time in the past (chiefly Scottish)"@en ;
-	dc:source	pwn30:00385946-r .
+	dc:source	pwn30:00385946-r ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i18268> ;
+	dc:description	"merging with other synset (#475)" .
 
 <i20788>	a	<Concept> ;
 	skos:definition	"in a languid and lethargic manner"@en ;
@@ -84401,7 +84508,10 @@
 
 <i21092>	a	<Concept> ;
 	skos:definition	"extremely"@en ;
-	dc:source	pwn30:00429274-r .
+	dc:source	pwn30:00429274-r ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i18320> ;
+	dc:description	"Duplicate (#1134)" .
 
 <i21093>	a	<Concept> ;
 	skos:definition	"abruptly; in a precipitous manner"@en ;
@@ -86405,7 +86515,10 @@
 
 <i21593>	a	<Concept> ;
 	skos:definition	"extremely"@en ;
-	dc:source	pwn30:00495446-r .
+	dc:source	pwn30:00495446-r ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i18410> ;
+	dc:description	"Duplicate (#1134)" .
 
 <i21594>	a	<Concept> ;
 	skos:definition	"to or over a great extent or range; far"@en ;
@@ -86413,7 +86526,10 @@
 
 <i21595>	a	<Concept> ;
 	skos:definition	"to a great degree"@en ;
-	dc:source	pwn30:00495663-r .
+	dc:source	pwn30:00495663-r ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i21594> ;
+	dc:description	"Duplicate (#1134)" .
 
 <i21596>	a	<Concept> ;
 	skos:definition	"with or by a broad space"@en ;
@@ -86729,7 +86845,10 @@
 
 <i21674>	a	<Concept> ;
 	skos:definition	"never except when"@en ;
-	dc:source	pwn30:00505114-r .
+	dc:source	pwn30:00505114-r ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i18302> ;
+	dc:description	"Not lexical, tag 'only' as an adverb by itself (#977)" .
 
 <i21675>	a	<Concept> ;
 	skos:definition	"in an attentive manner"@en ;
@@ -88449,7 +88568,10 @@
 
 <i22104>	a	<Concept> ;
 	skos:definition	"be healthy; feel good"@en ;
-	dc:source	pwn30:00065495-v .
+	dc:source	pwn30:00065495-v ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i14097> ;
+	dc:description	"Not a verb, use adjective sense instead (#1039)" .
 
 <i22105>	a	<Concept> ;
 	skos:definition	"undergo (as of injuries and illnesses)"@en ;
@@ -88685,7 +88807,10 @@
 
 <i22163>	a	<Concept> ;
 	skos:definition	"feel unwell or uncomfortable"@en ;
-	dc:source	pwn30:00078401-v .
+	dc:source	pwn30:00078401-v ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i22102> ;
+	dc:description	"Duplicate (#1043)" .
 
 <i22164>	a	<Concept> ;
 	skos:definition	"grind together, of teeth"@en ;
@@ -90433,7 +90558,10 @@
 
 <i22600>	a	<Concept> ;
 	skos:definition	"take away or remove"@en ;
-	dc:source	pwn30:00179060-v .
+	dc:source	pwn30:00179060-v ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i22577> ;
+	dc:description	"Duplicate (#1134)" .
 
 <i22601>	a	<Concept> ;
 	skos:definition	"remove a cloak from"@en ;
@@ -93477,7 +93605,10 @@
 
 <i23361>	a	<Concept> ;
 	skos:definition	"fry in deep fat"@en ;
-	dc:source	pwn30:00325777-v .
+	dc:source	pwn30:00325777-v ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i23365> ;
+	dc:description	"Duplicate (#43)" .
 
 <i23362>	a	<Concept> ;
 	skos:definition	"cook on a griddle"@en ;
@@ -94221,7 +94352,10 @@
 
 <i23547>	a	<Concept> ;
 	skos:definition	"prevent completion"@en ;
-	dc:source	pwn30:00362348-v .
+	dc:source	pwn30:00362348-v ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i35062> ;
+	dc:description	"Duplicate (#1034)" .
 
 <i23548>	a	<Concept> ;
 	skos:definition	"stop and wait, as if awaiting further instructions or developments"@en ;
@@ -94965,7 +95099,10 @@
 
 <i23733>	a	<Concept> ;
 	skos:definition	"make too simple"@en ;
-	dc:source	pwn30:00400741-v .
+	dc:source	pwn30:00400741-v ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i34536> ;
+	dc:description	"duplicate (#235)" .
 
 <i23734>	a	<Concept> ;
 	skos:definition	"make more complex, intricate, or richer"@en ;
@@ -95457,7 +95594,10 @@
 
 <i23856>	a	<Concept> ;
 	skos:definition	"appear suddenly"@en ;
-	dc:source	pwn30:00426156-v .
+	dc:source	pwn30:00426156-v ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i32538> ;
+	dc:description	"Duplicate (#40)" .
 
 <i23857>	a	<Concept> ;
 	skos:definition	"appear again"@en ;
@@ -96457,7 +96597,10 @@
 
 <i24106>	a	<Concept> ;
 	skos:definition	"extinguish by crushing"@en ;
-	dc:source	pwn30:00478682-v .
+	dc:source	pwn30:00478682-v ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i27674> ;
+	dc:description	"Duplicate (#232)" .
 
 <i24107>	a	<Concept> ;
 	skos:definition	"mark for deletion, rub off, or erase"@en ;
@@ -96809,7 +96952,10 @@
 
 <i24194>	a	<Concept> ;
 	skos:definition	"increase or raise"@en ;
-	dc:source	pwn30:00497061-v .
+	dc:source	pwn30:00497061-v ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i22502> ;
+	dc:description	"Duplicate (#1134)" .
 
 <i24195>	a	<Concept> ;
 	skos:definition	"treat with ammonia; cause to undergo ammonification"@en ;
@@ -97997,7 +98143,10 @@
 
 <i24491>	a	<Concept> ;
 	skos:definition	"direct one's interest or attention towards; go into"@en ;
-	dc:source	pwn30:00549771-v .
+	dc:source	pwn30:00549771-v ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i31487> ;
+	dc:description	"duplicate (#214)" .
 
 <i24492>	a	<Concept> ;
 	skos:definition	"invigorate or heighten"@en ;
@@ -98457,7 +98606,10 @@
 
 <i24606>	a	<Concept> ;
 	skos:definition	"take away"@en ;
-	dc:source	pwn30:00571596-v .
+	dc:source	pwn30:00571596-v ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i22577> ;
+	dc:description	"Duplicate (#1134)" .
 
 <i24607>	a	<Concept> ;
 	skos:definition	"make pagan in character"@en ;
@@ -98989,11 +99141,17 @@
 
 <i24739>	a	<Concept> ;
 	skos:definition	"be ignorant of or in the dark about"@en ;
-	dc:source	pwn30:00595505-v .
+	dc:source	pwn30:00595505-v ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i7131> ;
+	dc:description	"Not attested (#1060)" .
 
 <i24740>	a	<Concept> ;
 	skos:definition	"be aware of the truth of something; have a belief or faith in something; regard as true beyond any doubt"@en ;
-	dc:source	pwn30:00595630-v .
+	dc:source	pwn30:00595630-v ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i24736> ;
+	dc:description	"Duplicate (#217)" .
 
 <i24741>	a	<Concept> ;
 	skos:definition	"know how to do or perform something"@en ;
@@ -101045,7 +101203,10 @@
 
 <i25253>	a	<Concept> ;
 	skos:definition	"plan something for a specific role or purpose or effect"@en ;
-	dc:source	pwn30:00709625-v .
+	dc:source	pwn30:00709625-v ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i29943> ;
+	dc:description	"Merged with 01644092-v as indistinct senses (#1293)" .
 
 <i25254>	a	<Concept> ;
 	skos:definition	"designate or schedule"@en ;
@@ -101265,7 +101426,10 @@
 
 <i25308>	a	<Concept> ;
 	skos:definition	"make a discovery"@en ;
-	dc:source	pwn30:00721437-v .
+	dc:source	pwn30:00721437-v ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i24755> ;
+	dc:description	"duplicate (#218)" .
 
 <i25309>	a	<Concept> ;
 	skos:definition	"bring to light"@en ;
@@ -104565,7 +104729,10 @@
 
 <i26133>	a	<Concept> ;
 	skos:definition	"make or express a wish"@en ;
-	dc:source	pwn30:00903212-v .
+	dc:source	pwn30:00903212-v ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i30849> ;
+	dc:description	"Merged with 01828678-v as indistinct senses (#1323)" .
 
 <i26134>	a	<Concept> ;
 	skos:definition	"stop blaming or grant forgiveness"@en ;
@@ -105081,7 +105248,10 @@
 
 <i26262>	a	<Concept> ;
 	skos:definition	"call to mind"@en ;
-	dc:source	pwn30:00930368-v .
+	dc:source	pwn30:00930368-v ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i21876> ;
+	dc:description	"Duplicate (#1134)" .
 
 <i26263>	a	<Concept> ;
 	skos:definition	"suggest as a logically necessary consequence; in logic"@en ;
@@ -108093,11 +108263,17 @@
 
 <i27015>	a	<Concept> ;
 	skos:definition	"score (a spare)"@en ;
-	dc:source	pwn30:01084588-v .
+	dc:source	pwn30:01084588-v ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i27017> ;
+	dc:description	"duplicate (#61)" .
 
 <i27016>	a	<Concept> ;
 	skos:definition	"complete successfully"@en ;
-	dc:source	pwn30:01084724-v .
+	dc:source	pwn30:01084724-v ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i27017> ;
+	dc:description	"duplicate (#61)" .
 
 <i27017>	a	<Concept> ;
 	skos:definition	"score an extra point or points after touchdown by kicking the ball through the uprights or advancing the ball into the end zone"@en ;
@@ -109517,7 +109693,10 @@
 
 <i27371>	a	<Concept> ;
 	skos:definition	"place troops or weapons in battle formation"@en ;
-	dc:source	pwn30:01149327-v .
+	dc:source	pwn30:01149327-v ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i28606> ;
+	dc:description	"merging with another synset (#580)" .
 
 <i27372>	a	<Concept> ;
 	skos:definition	"put (a card or piece) into play during a game, or act strategically as if in a card game"@en ;
@@ -110269,7 +110448,10 @@
 
 <i27559>	a	<Concept> ;
 	skos:definition	"be sated, have enough to eat"@en ;
-	dc:source	pwn30:01188342-v .
+	dc:source	pwn30:01188342-v ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i12736> ;
+	dc:description	"Not a verb, use adjective sense instead (#1039)" .
 
 <i27560>	a	<Concept> ;
 	skos:definition	"have a craving, appetite, or great desire for"@en ;
@@ -110701,7 +110883,10 @@
 
 <i27667>	a	<Concept> ;
 	skos:definition	"cover with grass"@en ;
-	dc:source	pwn30:01209025-v .
+	dc:source	pwn30:01209025-v ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i29761> ;
+	dc:description	"duplicate (#229)" .
 
 <i27668>	a	<Concept> ;
 	skos:definition	"affect or afflict suddenly, usually adversely"@en ;
@@ -115053,7 +115238,10 @@
 
 <i28755>	a	<Concept> ;
 	skos:definition	"hit onto the ground"@en ;
-	dc:source	pwn30:01406356-v .
+	dc:source	pwn30:01406356-v ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i28756> ;
+	dc:description	"merging with other synset (#12)" .
 
 <i28756>	a	<Concept> ;
 	skos:definition	"hit a groundball"@en ;
@@ -115073,7 +115261,10 @@
 
 <i28760>	a	<Concept> ;
 	skos:definition	"hit with great force"@en ;
-	dc:source	pwn30:01407235-v .
+	dc:source	pwn30:01407235-v ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i28761> ;
+	dc:description	"Duplicate (#1134)" .
 
 <i28761>	a	<Concept> ;
 	skos:definition	"hit with so much force as to make a return impossible, in racket games"@en ;
@@ -116477,7 +116668,10 @@
 
 <i29111>	a	<Concept> ;
 	skos:definition	"become obstructed or chocked up"@en ;
-	dc:source	pwn30:01479009-v .
+	dc:source	pwn30:01479009-v ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i29110> ;
+	dc:description	"Duplicate (#37)" .
 
 <i29112>	a	<Concept> ;
 	skos:definition	"become or cause to become unobstructed"@en ;
@@ -119117,7 +119311,10 @@
 
 <i29771>	a	<Concept> ;
 	skos:definition	"propel through the air"@en ;
-	dc:source	pwn30:01604442-v .
+	dc:source	pwn30:01604442-v ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i29265> ;
+	dc:description	"Duplicate (#1134)" .
 
 <i29772>	a	<Concept> ;
 	skos:definition	"fasten or join with a joggle"@en ;
@@ -121733,7 +121930,10 @@
 
 <i30425>	a	<Concept> ;
 	skos:definition	"create anew"@en ;
-	dc:source	pwn30:01737617-v .
+	dc:source	pwn30:01737617-v ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i29856> ;
+	dc:description	"Duplicate #233" .
 
 <i30426>	a	<Concept> ;
 	skos:definition	"create anew and make over"@en ;
@@ -121769,7 +121969,10 @@
 
 <i30434>	a	<Concept> ;
 	skos:definition	"make up"@en ;
-	dc:source	pwn30:01739545-v .
+	dc:source	pwn30:01739545-v ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i29918> ;
+	dc:description	"Duplicate (#1134)" .
 
 <i30435>	a	<Concept> ;
 	skos:definition	"produce shoddily, without much attention to detail"@en ;
@@ -121825,7 +122028,10 @@
 
 <i30448>	a	<Concept> ;
 	skos:definition	"foster the growth of"@en ;
-	dc:source	pwn30:01742726-v .
+	dc:source	pwn30:01742726-v ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i34465> ;
+	dc:description	"Duplicate (#950)" .
 
 <i30449>	a	<Concept> ;
 	skos:definition	"reproduce someone's behavior or looks"@en ;
@@ -122061,7 +122267,10 @@
 
 <i30507>	a	<Concept> ;
 	skos:definition	"create designs"@en ;
-	dc:source	pwn30:01753596-v .
+	dc:source	pwn30:01753596-v ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i29943> ;
+	dc:description	"Merged with 01644092-v as indistinct senses (#1293)" .
 
 <i30508>	a	<Concept> ;
 	skos:definition	"bring into existence"@en ;
@@ -122309,7 +122518,10 @@
 
 <i30569>	a	<Concept> ;
 	skos:definition	"cause to feel sure; give reassurance to"@en ;
-	dc:source	pwn30:01766407-v .
+	dc:source	pwn30:01766407-v ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i26676> ;
+	dc:description	"Duplicate (#193)" .
 
 <i30570>	a	<Concept> ;
 	skos:definition	"worry persistently"@en ;
@@ -122849,7 +123061,10 @@
 
 <i30704>	a	<Concept> ;
 	skos:definition	"experience (emotional) pain"@en ;
-	dc:source	pwn30:01794668-v .
+	dc:source	pwn30:01794668-v ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i22102> ;
+	dc:description	"Duplicate (#1043)" .
 
 <i30705>	a	<Concept> ;
 	skos:definition	"suffer great pains or distress"@en ;
@@ -123421,7 +123636,10 @@
 
 <i30847>	a	<Concept> ;
 	skos:definition	"hope for; have a wish"@en ;
-	dc:source	pwn30:01824339-v .
+	dc:source	pwn30:01824339-v ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i30849> ;
+	dc:description	"merging with other synset (#219)" .
 
 <i30848>	a	<Concept> ;
 	skos:definition	"feel or express a desire or hope concerning the future or fortune of"@en ;
@@ -125137,7 +125355,10 @@
 
 <i31276>	a	<Concept> ;
 	skos:definition	"cover or traverse by taking long steps"@en ;
-	dc:source	pwn30:01912709-v .
+	dc:source	pwn30:01912709-v ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i31313> ;
+	dc:description	"Duplicate meaning (#227)" .
 
 <i31277>	a	<Concept> ;
 	skos:definition	"traverse or cover by walking"@en ;
@@ -127417,7 +127638,10 @@
 
 <i31846>	a	<Concept> ;
 	skos:definition	"reach in time"@en ;
-	dc:source	pwn30:02021532-v .
+	dc:source	pwn30:02021532-v ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i31831> ;
+	dc:description	"Duplicate (#1134)" .
 
 <i31847>	a	<Concept> ;
 	skos:definition	"succeed in reaching; arrive at"@en ;
@@ -129205,7 +129429,10 @@
 
 <i32293>	a	<Concept> ;
 	skos:definition	"appear to be moving upward, as by means of tendrils"@en ;
-	dc:source	pwn30:02105657-v .
+	dc:source	pwn30:02105657-v ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i31325> ;
+	dc:description	"Duplicate (#1037)" .
 
 <i32294>	a	<Concept> ;
 	skos:definition	"be aware of"@en ;
@@ -129489,7 +129716,10 @@
 
 <i32364>	a	<Concept> ;
 	skos:definition	"feel physical pain"@en ;
-	dc:source	pwn30:02121511-v .
+	dc:source	pwn30:02121511-v ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i22102> ;
+	dc:description	"Duplicate (#1043)" .
 
 <i32365>	a	<Concept> ;
 	skos:definition	"feel a sudden sharp, local pain"@en ;
@@ -129621,7 +129851,10 @@
 
 <i32397>	a	<Concept> ;
 	skos:definition	"see for the first time; make a discovery"@en ;
-	dc:source	pwn30:02128066-v .
+	dc:source	pwn30:02128066-v ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i29932> ;
+	dc:description	"Merged with 01641524-v as indistinct senses (#1294)" .
 
 <i32398>	a	<Concept> ;
 	skos:definition	"be a witness to"@en ;
@@ -131021,7 +131254,10 @@
 
 <i32747>	a	<Concept> ;
 	skos:definition	"appear to one's own mind or opinion"@en ;
-	dc:source	pwn30:02198234-v .
+	dc:source	pwn30:02198234-v ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i32420> ;
+	dc:description	"duplicate (#224)" .
 
 <i32748>	a	<Concept> ;
 	skos:definition	"interrupt the normal function of by means of anesthesia"@en ;
@@ -131481,7 +131717,10 @@
 
 <i32862>	a	<Concept> ;
 	skos:definition	"get rid of"@en ;
-	dc:source	pwn30:02223479-v .
+	dc:source	pwn30:02223479-v ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i32865> ;
+	dc:description	"Duplicate (#1134)" .
 
 <i32863>	a	<Concept> ;
 	skos:definition	"remove unwanted elements"@en ;
@@ -132025,7 +132264,10 @@
 
 <i32998>	a	<Concept> ;
 	skos:definition	"pay one tenth of; pay tithes on, especially to the church"@en ;
-	dc:source	pwn30:02252755-v .
+	dc:source	pwn30:02252755-v ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i32997> ;
+	dc:description	"Duplicate (#201)" .
 
 <i32999>	a	<Concept> ;
 	skos:definition	"cancel or discharge a debt"@en ;
@@ -132889,7 +133131,10 @@
 
 <i33214>	a	<Concept> ;
 	skos:definition	"make available or accessible, provide or furnish"@en ;
-	dc:source	pwn30:02296726-v .
+	dc:source	pwn30:02296726-v ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i33372> ;
+	dc:description	"Not distinct from hypernym (#225)" .
 
 <i33215>	a	<Concept> ;
 	skos:definition	"provide with traffic signals"@en ;
@@ -134193,7 +134438,10 @@
 
 <i33540>	a	<Concept> ;
 	skos:definition	"afford access to"@en ;
-	dc:source	pwn30:02358034-v .
+	dc:source	pwn30:02358034-v ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i35396> ;
+	dc:description	"Duplicate/Incorrect usage (#1038)" .
 
 <i33541>	a	<Concept> ;
 	skos:definition	"obtain illegally or unscrupulously"@en ;
@@ -134365,7 +134613,10 @@
 
 <i33583>	a	<Concept> ;
 	skos:definition	"remove ions from"@en ;
-	dc:source	pwn30:02364767-v .
+	dc:source	pwn30:02364767-v ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i24320> ;
+	dc:description	"Duplicate (#59)" .
 
 <i33584>	a	<Concept> ;
 	skos:definition	"remove (a security) from listing at a stock exchange"@en ;
@@ -135353,7 +135604,10 @@
 
 <i33830>	a	<Concept> ;
 	skos:definition	"be engaged in an activity, often for no particular purpose other than pleasure"@en ;
-	dc:source	pwn30:02419073-v .
+	dc:source	pwn30:02419073-v ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i33603> ;
+	dc:description	"Duplicate (#949)" .
 
 <i33831>	a	<Concept> ;
 	skos:definition	"drive without any particular aim"@en ;
@@ -138561,7 +138815,10 @@
 
 <i34632>	a	<Concept> ;
 	skos:definition	"develop a habit"@en ;
-	dc:source	pwn30:02590253-v .
+	dc:source	pwn30:02590253-v ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i34693> ;
+	dc:description	"Duplicate (#935)" .
 
 <i34633>	a	<Concept> ;
 	skos:definition	"settle as a colony; of countries in the developing world"@en ;
@@ -140157,7 +140414,10 @@
 
 <i35031>	a	<Concept> ;
 	skos:definition	"be extremely bad in quality or in one's performance"@en ;
-	dc:source	pwn30:02674173-v .
+	dc:source	pwn30:02674173-v ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i35032> ;
+	dc:description	"Merging synonyms (#1041)" .
 
 <i35032>	a	<Concept> ;
 	skos:definition	"be inadequate or objectionable"@en ;
@@ -141645,7 +141905,10 @@
 
 <i35403>	a	<Concept> ;
 	skos:definition	"appear to exist"@en ;
-	dc:source	pwn30:02745882-v .
+	dc:source	pwn30:02745882-v ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i32425> ;
+	dc:description	"duplicate (#224)" .
 
 <i35404>	a	<Concept> ;
 	skos:definition	"be liable or accountable"@en ;
@@ -141737,7 +142000,10 @@
 
 <i35426>	a	<Concept> ;
 	skos:definition	"happen, occur, take place; this was during the visit to my parents' house\""@en ;
-	dc:source	pwn30:02749904-v .
+	dc:source	pwn30:02749904-v ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i34713> ;
+	dc:description	"Duplicate (#947)" .
 
 <i35427>	a	<Concept> ;
 	skos:definition	"be sustained or supported or borne"@en ;
@@ -142001,7 +142267,10 @@
 
 <i35492>	a	<Concept> ;
 	skos:definition	"obliterate or extinguish"@en ;
-	dc:source	pwn30:02762299-v .
+	dc:source	pwn30:02762299-v ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i24075> ;
+	dc:description	"Duplicate #51" .
 
 <i35493>	a	<Concept> ;
 	skos:definition	"cause to burn or combust"@en ;
@@ -146009,7 +146278,10 @@
 
 <i36494>	a	<Concept> ;
 	skos:definition	"the expulsion from a country of an undesirable alien"@en ;
-	dc:source	pwn30:00207306-n .
+	dc:source	pwn30:00207306-n ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i36497> ;
+	dc:description	"Merged with 00208610-n; senses are not distinct (#1207)" .
 
 <i36495>	a	<Concept> ;
 	skos:definition	"the act of excluding someone from society by general consent"@en ;
@@ -168737,7 +169009,10 @@
 
 <i42176>	a	<Instance> ;
 	skos:definition	"battle in World War I (1916)"@en ;
-	dc:source	pwn30:01295373-n .
+	dc:source	pwn30:01295373-n ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i40416> ;
+	dc:description	"Does not exist (#1172)" .
 
 <i42177>	a	<Instance> ;
 	skos:definition	"battle of World War II (1944)"@en ;
@@ -168789,7 +169064,10 @@
 
 <i42189>	a	<Instance> ;
 	skos:definition	"a battle in central Italy where Hannibal defeated the Romans under Flaminius in 217 BC"@en ;
-	dc:source	pwn30:01297978-n .
+	dc:source	pwn30:01297978-n ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i42122> ;
+	dc:description	"Duplicate (#1127)" .
 
 <i42190>	a	<Instance> ;
 	skos:definition	"a naval battle in the Russo-Japanese War (1905); the Japanese fleet defeated the Russian fleet in the Korean Strait"@en ;
@@ -170373,7 +170651,10 @@
 
 <i42585>	a	<Concept> ;
 	skos:definition	"a species of bacteria"@en ;
-	dc:source	pwn30:01381285-n .
+	dc:source	pwn30:01381285-n ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i42584> ;
+	dc:description	"Non-existant (#1134)" .
 
 <i42586>	a	<Concept> ;
 	skos:definition	"higher bacteria; slender spiral rodlike forms"@en ;
@@ -173793,7 +174074,10 @@
 
 <i43440>	a	<Concept> ;
 	skos:definition	"a genus of Tyrannidae"@en ;
-	dc:source	pwn30:01555172-n .
+	dc:source	pwn30:01555172-n ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i43397> ;
+	dc:description	"Non-existant (#1134)" .
 
 <i43441>	a	<Concept> ;
 	skos:definition	"grey flycatcher of the southwestern United States and Mexico and Central America having a long forked tail and white breast and salmon and scarlet markings"@en ;
@@ -177813,7 +178097,10 @@
 
 <i44445>	a	<Concept> ;
 	skos:definition	"ground snakes"@en ;
-	dc:source	pwn30:01736696-n .
+	dc:source	pwn30:01736696-n ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i44444> ;
+	dc:description	"Non-existant (#1134)" .
 
 <i44446>	a	<Concept> ;
 	skos:definition	"in some classifications placed in genus Haldea; small reddish-grey snake of eastern North America"@en ;
@@ -180289,7 +180576,10 @@
 
 <i45064>	a	<Concept> ;
 	skos:definition	"female sheldrake"@en ;
-	dc:source	pwn30:01849676-n .
+	dc:source	pwn30:01849676-n ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i45063> ;
+	dc:description	"Incorrect definition; shelduck is not female sheldrake (#1192)" .
 
 <i45065>	a	<Concept> ;
 	skos:definition	"ruddy duck"@en ;
@@ -184401,7 +184691,10 @@
 
 <i46092>	a	<Concept> ;
 	skos:definition	"a genus of Phalaropidae"@en ;
-	dc:source	pwn30:02038010-n .
+	dc:source	pwn30:02038010-n ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i46090> ;
+	dc:description	"Duplicate (#1134)" .
 
 <i46093>	a	<Concept> ;
 	skos:definition	"breeds in Arctic regions of Old and New Worlds; large flocks often seen far out at sea"@en ;
@@ -184409,7 +184702,10 @@
 
 <i46094>	a	<Concept> ;
 	skos:definition	"a genus of Phalaropidae"@en ;
-	dc:source	pwn30:02038329-n .
+	dc:source	pwn30:02038329-n ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i46090> ;
+	dc:description	"Duplicate (#1134)" .
 
 <i46095>	a	<Concept> ;
 	skos:definition	"breeds on the northern great plains of Canada"@en ;
@@ -190437,7 +190733,10 @@
 
 <i47601>	a	<Concept> ;
 	skos:definition	"larva of potato moth; mines in leaves and stems of e.g. potatoes and tobacco"@en ;
-	dc:source	pwn30:02294577-n .
+	dc:source	pwn30:02294577-n ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i47600> ;
+	dc:description	"Larva sense merged into moth synset 02297059-n (#1224)" .
 
 <i47602>	a	<Concept> ;
 	skos:definition	"cutworms; armyworms"@en ;
@@ -190501,7 +190800,10 @@
 
 <i47617>	a	<Concept> ;
 	skos:definition	"noctuid moth larvae that travel in multitudes destroying especially grass and grain"@en ;
-	dc:source	pwn30:02297442-n .
+	dc:source	pwn30:02297442-n ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i47616> ;
+	dc:description	"Larva sense merged into moth synset 02299946-n (#1224)" .
 
 <i47618>	a	<Concept> ;
 	skos:definition	"moths whose larvae are armyworms"@en ;
@@ -190513,7 +190815,10 @@
 
 <i47620>	a	<Concept> ;
 	skos:definition	"moth larva that eats foliage of beets and other vegetables"@en ;
-	dc:source	pwn30:02297938-n .
+	dc:source	pwn30:02297938-n ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i47619> ;
+	dc:description	"Larva sense merged into moth synset 02300471-n (#1224)" .
 
 <i47621>	a	<Concept> ;
 	skos:definition	"moth whose larvae are fall armyworms"@en ;
@@ -190521,7 +190826,10 @@
 
 <i47622>	a	<Concept> ;
 	skos:definition	"larva of a migratory American noctuid moth; destroys grasses and small grains"@en ;
-	dc:source	pwn30:02298218-n .
+	dc:source	pwn30:02298218-n ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i47621> ;
+	dc:description	"Larva sense merged into moth synset 02300747-n (#1224)" .
 
 <i47623>	a	<Concept> ;
 	skos:definition	"hawkmoths"@en ;
@@ -190541,7 +190849,10 @@
 
 <i47627>	a	<Concept> ;
 	skos:definition	"large green white-striped hawkmoth larva that feeds on tobacco and related plants; similar to tomato hornworm"@en ;
-	dc:source	pwn30:02299157-n .
+	dc:source	pwn30:02299157-n ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i47626> ;
+	dc:description	"Larva sense merged into moth synset 02301691-n (#1224)" .
 
 <i47628>	a	<Concept> ;
 	skos:definition	"moth whose larvae are tomato hornworms"@en ;
@@ -190549,7 +190860,10 @@
 
 <i47629>	a	<Concept> ;
 	skos:definition	"large green white-striped hawkmoth larva that feeds on tomato and potato plants; similar to tobacco hornworm"@en ;
-	dc:source	pwn30:02299505-n .
+	dc:source	pwn30:02299505-n ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i47628> ;
+	dc:description	"Larva sense merged into moth synset 02302030-n (#1224)" .
 
 <i47630>	a	<Concept> ;
 	skos:definition	"death's-head moth"@en ;
@@ -190637,7 +190951,10 @@
 
 <i47651>	a	<Concept> ;
 	skos:definition	"large green silkworm of the cynthia moth"@en ;
-	dc:source	pwn30:02303777-n .
+	dc:source	pwn30:02303777-n ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i47650> ;
+	dc:description	"Larva sense merged into moth synset 02306237-n (#1224)" .
 
 <i47652>	a	<Concept> ;
 	skos:definition	"io moth"@en ;
@@ -190725,7 +191042,10 @@
 
 <i47673>	a	<Concept> ;
 	skos:definition	"larvae of a gregarious North American moth that spins a web resembling a carpet rather than a tent; serious defoliator of deciduous trees"@en ;
-	dc:source	pwn30:02307681-n .
+	dc:source	pwn30:02307681-n ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i47672> ;
+	dc:description	"Larva sense merged into moth synset 02310167-n (#1224)" .
 
 <i47674>	a	<Concept> ;
 	skos:definition	"medium-sized hairy moths; larvae are lappet caterpillars"@en ;
@@ -190753,7 +191073,10 @@
 
 <i47680>	a	<Concept> ;
 	skos:definition	"a variety of webworm"@en ;
-	dc:source	pwn30:02308735-n .
+	dc:source	pwn30:02308735-n ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i47679> ;
+	dc:description	"Larva sense merged into moth synset 02311270-n (#1224)" .
 
 <i47681>	a	<Concept> ;
 	skos:definition	"garden webworms"@en ;
@@ -190793,7 +191116,10 @@
 
 <i47690>	a	<Concept> ;
 	skos:definition	"toxic green larva of a cabbage butterfly"@en ;
-	dc:source	pwn30:02310585-n .
+	dc:source	pwn30:02310585-n ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i47522> ;
+	dc:description	"Larva sense merged into moth synset 02283667-n (#1224)" .
 
 <i47691>	a	<Concept> ;
 	skos:definition	"caterpillar of numerous moths characterized by a dense coat of woolly hairs; feed on plants and some are destructive pests"@en ;
@@ -198277,7 +198603,10 @@
 
 <i49561>	a	<Concept> ;
 	skos:definition	"a genus of Stromateidae"@en ;
-	dc:source	pwn30:02633287-n .
+	dc:source	pwn30:02633287-n ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i49565> ;
+	dc:description	"Duplicate (#1134)" .
 
 <i49562>	a	<Concept> ;
 	skos:definition	"small food fish of Atlantic coast"@en ;
@@ -198285,7 +198614,10 @@
 
 <i49563>	a	<Concept> ;
 	skos:definition	"a genus of Stromateidae"@en ;
-	dc:source	pwn30:02633555-n .
+	dc:source	pwn30:02633555-n ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i49565> ;
+	dc:description	"Duplicate (#1134)" .
 
 <i49564>	a	<Concept> ;
 	skos:definition	"smaller than Florida pompano; common in West Indies"@en ;
@@ -221449,7 +221781,10 @@
 
 <i55354>	a	<Concept> ;
 	skos:definition	"nonsteroidal anti-inflammatory (trade name Torodal) that is given only orally"@en ;
-	dc:source	pwn30:03612378-n .
+	dc:source	pwn30:03612378-n ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i55355> ;
+	dc:description	"Duplicate (#1149)" .
 
 <i55355>	a	<Concept> ;
 	skos:definition	"nonsteroidal anti-inflammatory drug (trade names Acular and Toradol) that is administered only intramuscularly"@en ;
@@ -224421,7 +224756,10 @@
 
 <i56097>	a	<Concept> ;
 	skos:definition	"an instrumentality for accomplishing some end"@en ;
-	dc:source	pwn30:03733547-n .
+	dc:source	pwn30:03733547-n ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i55130> ;
+	dc:description	"merging with other synset (#220)" .
 
 <i56098>	a	<Concept> ;
 	skos:definition	"a container of some standard capacity that is used to obtain fixed amounts of a substance"@en ;
@@ -226553,7 +226891,10 @@
 
 <i56630>	a	<Concept> ;
 	skos:definition	"trade name for an oral contraceptive containing estradiol and norethindrone"@en ;
-	dc:source	pwn30:03830278-n .
+	dc:source	pwn30:03830278-n ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i55794> ;
+	dc:description	"Duplicate (#1134)" .
 
 <i56631>	a	<Concept> ;
 	skos:definition	"trade name for an oral contraceptive containing norethindrone"@en ;
@@ -231549,7 +231890,10 @@
 
 <i57879>	a	<Concept> ;
 	skos:definition	"framework for holding objects"@en ;
-	dc:source	pwn30:04038727-n .
+	dc:source	pwn30:04038727-n ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i57878> ;
+	dc:description	"merging with other synset (#507)" .
 
 <i57880>	a	<Concept> ;
 	skos:definition	"an instrument of torture that stretches or disjoints or mutilates victims"@en ;
@@ -236777,7 +237121,11 @@
 
 <i59186>	a	<Concept> ;
 	skos:definition	"ball used in playing softball"@en ;
-	dc:source	pwn30:04256891-n .
+	dc:source	pwn30:04256891-n ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i118387> ;
+	ili:supersededBy	<i118564> ;
+	dc:description	"Split of senses(#508)" .
 
 <i59187>	a	<Concept> ;
 	skos:definition	"a drug of abuse that is considered relatively mild and not likely to cause addiction"@en ;
@@ -240437,7 +240785,10 @@
 
 <i60101>	a	<Instance> ;
 	skos:definition	"a large temple at Ephesus that was said to be one of the seven wonders of the ancient world"@en ;
-	dc:source	pwn30:04408174-n .
+	dc:source	pwn30:04408174-n ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i50179> ;
+	dc:description	"Duplicate (#77)" .
 
 <i60102>	a	<Instance> ;
 	skos:definition	"any of three successive temples in Jerusalem that served as the primary center for Jewish worship; the first temple contained the Ark of the Covenant and was built by Solomon in the 10th century BC and destroyed by Nebuchadnezzar in 586 BC; the second was built in 515 BC and the third was an enlargement by Herod the Great in 20 BC that was destroyed by the Romans during a Jewish revolt in AD 70; all that remains is the Wailing Wall"@en ;
@@ -251409,7 +251760,10 @@
 
 <i62844>	a	<Concept> ;
 	skos:definition	"personal characteristics that are inherited at birth"@en ;
-	dc:source	pwn30:04921308-n .
+	dc:source	pwn30:04921308-n ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i62846> ;
+	dc:description	"Duplicate (#192)" .
 
 <i62845>	a	<Concept> ;
 	skos:definition	"a person's social heritage: previous experience or training"@en ;
@@ -267233,7 +267587,10 @@
 
 <i66800>	a	<Concept> ;
 	skos:definition	"a factor causing trouble in achieving a positive result or tending to produce a negative result"@en ;
-	dc:source	pwn30:05686955-n .
+	dc:source	pwn30:05686955-n ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i61801> ;
+	dc:description	"duplicate (#241)" .
 
 <i66801>	a	<Concept> ;
 	skos:definition	"a source of difficulty"@en ;
@@ -285053,7 +285410,10 @@
 
 <i71255>	a	<Concept> ;
 	skos:definition	"a social event involving a public performance or entertainment"@en ;
-	dc:source	pwn30:06619065-n .
+	dc:source	pwn30:06619065-n ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i38123> ;
+	dc:description	"duplicate (#484)" .
 
 <i71256>	a	<Concept> ;
 	skos:definition	"a radio or television show"@en ;
@@ -288233,7 +288593,10 @@
 
 <i72050>	a	<Instance> ;
 	skos:definition	"C. Northcote Parkinson's cynical observation that the number of subordinates in an organization will increase linearly regardless of the amount of work to be done"@en ;
-	dc:source	pwn30:06767287-n .
+	dc:source	pwn30:06767287-n ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i72051> ;
+	dc:description	"Duplicate (#1127)" .
 
 <i72051>	a	<Instance> ;
 	skos:definition	"C. Northcote Parkinson's cynical observation that work will expand so as to fill the time available for its completion"@en ;
@@ -291537,7 +291900,10 @@
 
 <i72876>	a	<Concept> ;
 	skos:definition	"a subfamily of Uto-Aztecan languages spoken mainly in the southwestern United States"@en ;
-	dc:source	pwn30:06915313-n .
+	dc:source	pwn30:06915313-n ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i72899> ;
+	dc:description	"Does not exist (#1202)" .
 
 <i72877>	a	<Concept> ;
 	skos:definition	"a family of North American Indian languages spoken widely in the Midwest by the Caddo"@en ;
@@ -291597,7 +291963,10 @@
 
 <i72891>	a	<Concept> ;
 	skos:definition	"the language spoken by the Maraco"@en ;
-	dc:source	pwn30:06917392-n .
+	dc:source	pwn30:06917392-n ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i72806> ;
+	dc:description	"Does not exist (#1202)" .
 
 <i72892>	a	<Concept> ;
 	skos:definition	"the language spoken by the Tupi of Brazil and Paraguay"@en ;
@@ -291721,7 +292090,10 @@
 
 <i72922>	a	<Concept> ;
 	skos:definition	"a group of languages of the Hokan family"@en ;
-	dc:source	pwn30:06921392-n .
+	dc:source	pwn30:06921392-n ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i72923> ;
+	dc:description	"Does not exist (#1202)" .
 
 <i72923>	a	<Concept> ;
 	skos:definition	"the Quoratean language of the Karok"@en ;
@@ -291761,7 +292133,10 @@
 
 <i72932>	a	<Concept> ;
 	skos:definition	"the Yuman language spoken by the Diegueno"@en ;
-	dc:source	pwn30:06922681-n .
+	dc:source	pwn30:06922681-n ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i72934> ;
+	dc:description	"Duplicate (#1202)" .
 
 <i72933>	a	<Concept> ;
 	skos:definition	"the Yuman language spoken by the Havasupai"@en ;
@@ -291797,7 +292172,10 @@
 
 <i72941>	a	<Concept> ;
 	skos:definition	"a language group of the Hokan family"@en ;
-	dc:source	pwn30:06923580-n .
+	dc:source	pwn30:06923580-n ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i72943> ;
+	dc:description	"Duplicate (#1202)" .
 
 <i72942>	a	<Concept> ;
 	skos:definition	"the Yanan language spoken by the Yahi"@en ;
@@ -292025,11 +292403,17 @@
 
 <i72998>	a	<Concept> ;
 	skos:definition	"the Tibeto-Burman language spoken in Tibet and Nepal and Bhutan and Sikkim"@en ;
-	dc:source	pwn30:06931724-n .
+	dc:source	pwn30:06931724-n ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i72995> ;
+	dc:description	"Does not exist (#1202)" .
 
 <i72999>	a	<Concept> ;
 	skos:definition	"the Tibeto-Burman language spoken in northeastern India and adjacent regions of western Burma"@en ;
-	dc:source	pwn30:06931891-n .
+	dc:source	pwn30:06931891-n ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i72995> ;
+	dc:description	"Does not exist (#1202)" .
 
 <i73000>	a	<Concept> ;
 	skos:definition	"the Tibeto-Burman language spoken in the Thailand and Burmese borderlands"@en ;
@@ -292081,7 +292465,9 @@
 
 <i73012>	a	<Concept> ;
 	skos:definition	"Kamarupan languages spoken in the states of Manipur and Assam in northeastern India"@en ;
-	dc:source	pwn30:06933546-n .
+	dc:source	pwn30:06933546-n ;
+	ili:status	ili:deprecated ;
+	dc:description	"Split into Mikir and Meitei (#1202)" .
 
 <i73013>	a	<Concept> ;
 	skos:definition	"Kamarupan languages spoken in the state of Assam in northeastern India"@en ;
@@ -292165,7 +292551,10 @@
 
 <i73033>	a	<Concept> ;
 	skos:definition	"a branch of the Tai languages"@en ;
-	dc:source	pwn30:06936070-n .
+	dc:source	pwn30:06936070-n ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i73031> ;
+	dc:description	"Duplicate (#1202)" .
 
 <i73034>	a	<Concept> ;
 	skos:definition	"a branch of the Tai languages"@en ;
@@ -292181,7 +292570,10 @@
 
 <i73037>	a	<Concept> ;
 	skos:definition	"a branch of the Tai languages"@en ;
-	dc:source	pwn30:06936461-n .
+	dc:source	pwn30:06936461-n ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i73035> ;
+	dc:description	"Not a distinct language (#1202)" .
 
 <i73038>	a	<Concept> ;
 	skos:definition	"a branch of the Tai languages"@en ;
@@ -292357,7 +292749,10 @@
 
 <i73081>	a	<Concept> ;
 	skos:definition	"an extinct branch of the Indo-European language family thought by some to be related to Armenian"@en ;
-	dc:source	pwn30:06943027-n .
+	dc:source	pwn30:06943027-n ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i73074> ;
+	dc:description	"Does not exist (#1202)" .
 
 <i73082>	a	<Concept> ;
 	skos:definition	"a Thraco-Phrygian language spoken by the ancient people of Thrace but extinct by the early Middle Ages"@en ;
@@ -292469,7 +292864,10 @@
 
 <i73109>	a	<Concept> ;
 	skos:definition	"English as spoken by educated persons in southern England"@en ;
-	dc:source	pwn30:06948260-n .
+	dc:source	pwn30:06948260-n ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i73110> ;
+	dc:description	"Duplicate (#1202)" .
 
 <i73110>	a	<Concept> ;
 	skos:definition	"the approved pronunciation of British English; originally based on the King's English as spoken at public schools and at Oxford and Cambridge Universities (and widely accepted elsewhere in Britain); until recently it was the pronunciation of English used in British broadcasting"@en ;
@@ -292521,7 +292919,10 @@
 
 <i73122>	a	<Concept> ;
 	skos:definition	"the dialect of English spoken at Oxford University and regarded by many as affected and pretentious"@en ;
-	dc:source	pwn30:06950049-n .
+	dc:source	pwn30:06950049-n ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i73110> ;
+	dc:description	"Duplicate (#1202)" .
 
 <i73123>	a	<Concept> ;
 	skos:definition	"the dialect of English used in Scotland"@en ;
@@ -292673,7 +293074,10 @@
 
 <i73160>	a	<Concept> ;
 	skos:definition	"a group of Finnic languages spoken around the Volga river"@en ;
-	dc:source	pwn30:06957140-n .
+	dc:source	pwn30:06957140-n ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i73156> ;
+	dc:description	"Does not exist (#1202)" .
 
 <i73161>	a	<Concept> ;
 	skos:definition	"the Finnic language spoken by the Cheremis"@en ;
@@ -292685,7 +293089,10 @@
 
 <i73163>	a	<Concept> ;
 	skos:definition	"a group of Finnic languages including Finnish and Estonian"@en ;
-	dc:source	pwn30:06957524-n .
+	dc:source	pwn30:06957524-n ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i73156> ;
+	dc:description	"Does not exist (#1202)" .
 
 <i73164>	a	<Concept> ;
 	skos:definition	"the Finnic language spoken by the people of Livonia in Estonia and Latvia"@en ;
@@ -292809,7 +293216,10 @@
 
 <i73194>	a	<Concept> ;
 	skos:definition	"a group of dead languages of ancient Italy; they were displace by Latin"@en ;
-	dc:source	pwn30:06962060-n .
+	dc:source	pwn30:06962060-n ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i73197> ;
+	dc:description	"Duplicate (#1202)" .
 
 <i73195>	a	<Concept> ;
 	skos:definition	"an extinct Italic language of ancient southern Italy"@en ;
@@ -292881,11 +293291,17 @@
 
 <i73212>	a	<Concept> ;
 	skos:definition	"medieval provincial dialects of French spoken in central and northern France"@en ;
-	dc:source	pwn30:06965249-n .
+	dc:source	pwn30:06965249-n ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i73214> ;
+	dc:description	"Duplicate (#1202)" .
 
 <i73213>	a	<Concept> ;
 	skos:definition	"medieval provincial dialects of French formerly spoken in the south of France"@en ;
-	dc:source	pwn30:06965406-n .
+	dc:source	pwn30:06965406-n ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i73219> ;
+	dc:description	"Duplicate (#1202)" .
 
 <i73214>	a	<Concept> ;
 	skos:definition	"the earliest form of the French language; 9th to 15th century"@en ;
@@ -293085,7 +293501,10 @@
 
 <i73263>	a	<Concept> ;
 	skos:definition	"any of the modern Indic languages"@en ;
-	dc:source	pwn30:06973505-n .
+	dc:source	pwn30:06973505-n ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i73261> ;
+	dc:description	"Duplicate (#1202)" .
 
 <i73264>	a	<Concept> ;
 	skos:definition	"the modern Persian language spoken in Iran"@en ;
@@ -293205,7 +293624,10 @@
 
 <i73293>	a	<Concept> ;
 	skos:definition	"the dialect of Ancient Greek spoken by Arcadians"@en ;
-	dc:source	pwn30:06977948-n .
+	dc:source	pwn30:06977948-n ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i73290> ;
+	dc:description	"Does not exist (#1202)" .
 
 <i73294>	a	<Concept> ;
 	skos:definition	"the dialect of Ancient Greek spoken in Doris"@en ;
@@ -293521,7 +293943,10 @@
 
 <i73372>	a	<Concept> ;
 	skos:definition	"the extinct language of the Semitic people who occupied Canaan before the Israelite conquest"@en ;
-	dc:source	pwn30:06989325-n .
+	dc:source	pwn30:06989325-n ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i73371> ;
+	dc:description	"Merged with Canaanitic language, indistinct senses (#1371)" .
 
 <i73373>	a	<Concept> ;
 	skos:definition	"the extinct language of an ancient Semitic people who dominated trade in the ancient world"@en ;
@@ -293597,7 +294022,10 @@
 
 <i73391>	a	<Concept> ;
 	skos:definition	"a Bantu language that is one of the two major languages of Zimbabwe"@en ;
-	dc:source	pwn30:06992807-n .
+	dc:source	pwn30:06992807-n ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i73413> ;
+	dc:description	"Duplicate (#1202)" .
 
 <i73392>	a	<Concept> ;
 	skos:definition	"a Bantu language spoken in Cameroon"@en ;
@@ -293629,7 +294057,10 @@
 
 <i73399>	a	<Concept> ;
 	skos:definition	"a Bantu language"@en ;
-	dc:source	pwn30:06993647-n .
+	dc:source	pwn30:06993647-n ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i73418> ;
+	dc:description	"Duplicate (#1202)" .
 
 <i73400>	a	<Concept> ;
 	skos:definition	"the Bantu language spoken by the Kongo living in the tropical forests of Zaire and Congo and Angola"@en ;
@@ -293697,7 +294128,10 @@
 
 <i73416>	a	<Concept> ;
 	skos:definition	"the dialect of Sotho spoken by the Basotho; an official language of Lesotho"@en ;
-	dc:source	pwn30:06995526-n .
+	dc:source	pwn30:06995526-n ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i73414> ;
+	dc:description	"Duplicate (#1202)" .
 
 <i73417>	a	<Concept> ;
 	skos:definition	"the dialect of Sotho spoken by the Tswana in Botswana"@en ;
@@ -298781,7 +299215,10 @@
 
 <i74687>	a	<Concept> ;
 	skos:definition	"a detailed statement giving facts and figures"@en ;
-	dc:source	pwn30:07234735-n .
+	dc:source	pwn30:07234735-n ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i74610> ;
+	dc:description	"duplicate (#306)" .
 
 <i74688>	a	<Concept> ;
 	skos:definition	"a public instance of reciting or repeating (from memory) something prepared in advance"@en ;
@@ -301737,7 +302174,10 @@
 
 <i75426>	a	<Concept> ;
 	skos:definition	"a movement downward"@en ;
-	dc:source	pwn30:07370270-n .
+	dc:source	pwn30:07370270-n ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i75387> ;
+	dc:description	"Duplicate (#1134)" .
 
 <i75427>	a	<Concept> ;
 	skos:definition	"an event that involves rising to a higher point (as in altitude or temperature or intensity etc.)"@en ;
@@ -322025,11 +322465,17 @@
 
 <i80498>	a	<Concept> ;
 	skos:definition	"a gathering for the purpose of promoting fellowship"@en ;
-	dc:source	pwn30:08252211-n .
+	dc:source	pwn30:08252211-n ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i75849> ;
+	dc:description	"Duplicate (#518)" .
 
 <i80499>	a	<Concept> ;
 	skos:definition	"a formal or official social gathering or ceremony"@en ;
-	dc:source	pwn30:08252467-n .
+	dc:source	pwn30:08252467-n ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i75849> ;
+	dc:description	"merge (#517)" .
 
 <i80500>	a	<Concept> ;
 	skos:definition	"a group of people gathered together for pleasure"@en ;
@@ -322081,7 +322527,10 @@
 
 <i80512>	a	<Concept> ;
 	skos:definition	"a reception or party at which tea is served"@en ;
-	dc:source	pwn30:08254741-n .
+	dc:source	pwn30:08254741-n ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i75868> ;
+	dc:description	"merging with other synset (#519)" .
 
 <i80513>	a	<Concept> ;
 	skos:definition	"a reception for wedding guests held after the wedding"@en ;
@@ -326185,7 +326634,10 @@
 
 <i81538>	a	<Concept> ;
 	skos:definition	"the place names of a region or a language considered collectively"@en ;
-	dc:source	pwn30:08464449-n .
+	dc:source	pwn30:08464449-n ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i69010> ;
+	dc:description	"Erroneous sense; troponymy/troponomy do not have this meaning (#1272)" .
 
 <i81539>	a	<Concept> ;
 	skos:definition	"a group of people with a common ideology who try together to achieve certain general goals"@en ;
@@ -327605,7 +328057,10 @@
 
 <i81893>	a	<Concept> ;
 	skos:definition	"the town or city that is the seat of government for a shire"@en ;
-	dc:source	pwn30:08547300-n .
+	dc:source	pwn30:08547300-n ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i81892> ;
+	dc:description	"Duplicate (#1134)" .
 
 <i81894>	a	<Concept> ;
 	skos:definition	"a pasture for cows"@en ;
@@ -329517,7 +329972,10 @@
 
 <i82371>	a	<Concept> ;
 	skos:definition	"(slang) a neighborhood"@en ;
-	dc:source	pwn30:08641944-n .
+	dc:source	pwn30:08641944-n ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i80334> ;
+	dc:description	"Duplicate synset (#133)" .
 
 <i82372>	a	<Concept> ;
 	skos:definition	"a general vicinity"@en ;
@@ -329601,7 +330059,10 @@
 
 <i82392>	a	<Concept> ;
 	skos:definition	"rural regions"@en ;
-	dc:source	pwn30:08645033-n .
+	dc:source	pwn30:08645033-n ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i82391> ;
+	dc:description	"Duplicate of country/rural area (#1386)" .
 
 <i82393>	a	<Concept> ;
 	skos:definition	"an uncultivated region covered with scrub vegetation"@en ;
@@ -333533,15 +333994,24 @@
 
 <i83375>	a	<Instance> ;
 	skos:definition	"archaic name for England or Great Britain; used poetically"@en ;
-	dc:source	pwn30:08872936-n .
+	dc:source	pwn30:08872936-n ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i83373> ;
+	dc:description	"Epithet (#1127)" .
 
 <i83376>	a	<Instance> ;
 	skos:definition	"the Latin name for England"@en ;
-	dc:source	pwn30:08873067-n .
+	dc:source	pwn30:08873067-n ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i83374> ;
+	dc:description	"Epithet (#1127)" .
 
 <i83377>	a	<Concept> ;
 	skos:definition	"a slang term for Great Britain used by British troops serving abroad"@en ;
-	dc:source	pwn30:08873147-n .
+	dc:source	pwn30:08873147-n ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i83373> ;
+	dc:description	"Merged with hypernym (#1044)" .
 
 <i83378>	a	<Instance> ;
 	skos:definition	"a city in northwestern England"@en ;
@@ -335893,7 +336363,10 @@
 
 <i83965>	a	<Instance> ;
 	skos:definition	"the capital of Singapore; one of the world's biggest ports"@en ;
-	dc:source	pwn30:08997801-n .
+	dc:source	pwn30:08997801-n ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i83964> ;
+	dc:description	"City is also the country (#1127)" .
 
 <i83966>	a	<Instance> ;
 	skos:definition	"the northernmost islands are part of Papua New Guinea; the remainder form an independent state within the British Commonwealth"@en ;
@@ -338697,7 +339170,10 @@
 
 <i84666>	a	<Instance> ;
 	skos:definition	"mountains in western South Dakota and northeastern Wyoming"@en ;
-	dc:source	pwn30:09139993-n .
+	dc:source	pwn30:09139993-n ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i85091> ;
+	dc:description	"Duplicate (#67)" .
 
 <i84667>	a	<Instance> ;
 	skos:definition	"a state in east central United States"@en ;
@@ -339549,7 +340025,10 @@
 
 <i84879>	a	<Concept> ;
 	skos:definition	"reason"@en ;
-	dc:source	pwn30:09179264-n .
+	dc:source	pwn30:09179264-n ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i84878> ;
+	dc:description	"Duplicate (#199)" .
 
 <i84880>	a	<Concept> ;
 	skos:definition	"grounds"@en ;
@@ -341469,7 +341948,10 @@
 
 <i85359>	a	<Instance> ;
 	skos:definition	"a mountain in the Andes in Argentina (22,047 feet high)"@en ;
-	dc:source	pwn30:09272773-n .
+	dc:source	pwn30:09272773-n ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i85134> ;
+	dc:description	"Duplicate (#2)" .
 
 <i85360>	a	<Instance> ;
 	skos:definition	"a mountain peak in the Andes on the border between Argentina and Chile (21,457 feet high)"@en ;
@@ -343021,7 +343503,10 @@
 
 <i85747>	a	<Concept> ;
 	skos:definition	"(our sea) the Mediterranean to the ancient Romans"@en ;
-	dc:source	pwn30:09347008-n .
+	dc:source	pwn30:09347008-n ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i85763> ;
+	dc:description	"Duplicate (#1044)" .
 
 <i85748>	a	<Concept> ;
 	skos:definition	"a long narrow flowing cirrus cloud"@en ;
@@ -346637,7 +347122,10 @@
 
 <i86651>	a	<Instance> ;
 	skos:definition	"a name under which Ninkhursag was worshipped"@en ;
-	dc:source	pwn30:09519192-n .
+	dc:source	pwn30:09519192-n ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i86663> ;
+	dc:description	"Duplicate (#1127)" .
 
 <i86652>	a	<Instance> ;
 	skos:definition	"the chief Babylonian god; his consort was Sarpanitu"@en ;
@@ -346677,7 +347165,10 @@
 
 <i86661>	a	<Instance> ;
 	skos:definition	"Babylonian god in older pantheon: god of war and agriculture"@en ;
-	dc:source	pwn30:09520617-n .
+	dc:source	pwn30:09520617-n ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i86665> ;
+	dc:description	"Duplicate (#72)" .
 
 <i86662>	a	<Instance> ;
 	skos:definition	"an underworld Babylonian deity; patron of medicine"@en ;
@@ -346741,7 +347232,10 @@
 
 <i86677>	a	<Instance> ;
 	skos:definition	"legendary Sumerian king and hero of Sumerian and Babylonian epics"@en ;
-	dc:source	pwn30:09522837-n .
+	dc:source	pwn30:09522837-n ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i95260> ;
+	dc:description	"Duplicate (#73)" .
 
 <i86678>	a	<Concept> ;
 	skos:definition	"a deity worshipped by the Hindus"@en ;
@@ -346829,7 +347323,10 @@
 
 <i86699>	a	<Instance> ;
 	skos:definition	"unknown god; an epithet of Prajapati and Brahma"@en ;
-	dc:source	pwn30:09526606-n .
+	dc:source	pwn30:09526606-n ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i86709> ;
+	dc:description	"Duplicate (#1127)" .
 
 <i86700>	a	<Instance> ;
 	skos:definition	"wife of Siva and malevolent form of Devi"@en ;
@@ -346913,7 +347410,10 @@
 
 <i86720>	a	<Instance> ;
 	skos:definition	"Hindu god of war"@en ;
-	dc:source	pwn30:09529013-n .
+	dc:source	pwn30:09529013-n ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i86703> ;
+	dc:description	"Duplicate (#74)" .
 
 <i86721>	a	<Concept> ;
 	skos:definition	"personification of a sacred intoxicating drink used in Vedic ritual"@en ;
@@ -347021,7 +347521,10 @@
 
 <i86747>	a	<Instance> ;
 	skos:definition	"a Buddhist who has attained nirvana"@en ;
-	dc:source	pwn30:09532837-n .
+	dc:source	pwn30:09532837-n ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i86748> ;
+	dc:description	"Duplicate (#1127)" .
 
 <i86748>	a	<Concept> ;
 	skos:definition	"one who has achieved a state of perfect enlightenment"@en ;
@@ -347637,7 +348140,10 @@
 
 <i86901>	a	<Instance> ;
 	skos:definition	"(Greek mythology) according to a Greek legend: when Pythias was sentenced to be executed Damon took his place to allow Pythias to get his affairs in order; when Pythias returned in time to save Damon the king was so impressed that he let them both live"@en ;
-	dc:source	pwn30:09560426-n .
+	dc:source	pwn30:09560426-n ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i94851> ;
+	dc:description	"Duplicate (#1127)" .
 
 <i86902>	a	<Instance> ;
 	skos:definition	"(Greek mythology) goddess of the earth and mother of Cronus and the Titans in ancient mythology"@en ;
@@ -348345,7 +348851,10 @@
 
 <i87078>	a	<Instance> ;
 	skos:definition	"(Roman mythology) Roman spelling for Odysseus"@en ;
-	dc:source	pwn30:09593044-n .
+	dc:source	pwn30:09593044-n ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i87077> ;
+	dc:description	"Duplicate (#1172)" .
 
 <i87079>	a	<Instance> ;
 	skos:definition	"(Greek mythology) the wife of Odysseus and a symbol of devotion and fidelity; for 10 years while Odysseus fought the Trojan War she resisted numerous suitors until Odysseus returned and killed them"@en ;
@@ -350433,7 +350942,10 @@
 
 <i87600>	a	<Concept> ;
 	skos:definition	"a member of the South American people living in Argentina and Bolivia and Paraguay"@en ;
-	dc:source	pwn30:09695379-n .
+	dc:source	pwn30:09695379-n ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i87841> ;
+	dc:description	"Does not exist (#1202)" .
 
 <i87601>	a	<Concept> ;
 	skos:definition	"a native or inhabitant of Brunei"@en ;
@@ -351389,7 +351901,10 @@
 
 <i87839>	a	<Concept> ;
 	skos:definition	"a native of Slovenia"@en ;
-	dc:source	pwn30:09731343-n .
+	dc:source	pwn30:09731343-n ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i87974> ;
+	dc:description	"Duplicate (#1199)" .
 
 <i87840>	a	<Concept> ;
 	skos:definition	"a native or inhabitant of South Africa"@en ;
@@ -355905,7 +356420,10 @@
 
 <i88968>	a	<Concept> ;
 	skos:definition	"a prodigy whose talents are recognized at an early age"@en ;
-	dc:source	pwn30:09918867-n .
+	dc:source	pwn30:09918867-n ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i90187> ;
+	dc:description	"Compositional (#1068)" .
 
 <i88969>	a	<Concept> ;
 	skos:definition	"someone who cleans soot from chimneys"@en ;
@@ -367293,7 +367811,10 @@
 
 <i91815>	a	<Concept> ;
 	skos:definition	"a collector of miscellaneous useless objects"@en ;
-	dc:source	pwn30:10390600-n .
+	dc:source	pwn30:10390600-n ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i91146> ;
+	dc:description	"Duplicate (#1150)" .
 
 <i91816>	a	<Concept> ;
 	skos:definition	"an employer who exploits Italian immigrants in the U.S."@en ;
@@ -375429,7 +375950,10 @@
 
 <i93849>	a	<Concept> ;
 	skos:definition	"a woman who is an unpleasant person"@en ;
-	dc:source	pwn30:10739636-n .
+	dc:source	pwn30:10739636-n ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i94168> ;
+	dc:description	"Compositional synset (#1032)" .
 
 <i93850>	a	<Concept> ;
 	skos:definition	"belongs to lowest social and ritual class in India"@en ;
@@ -376729,7 +377253,10 @@
 
 <i94174>	a	<Concept> ;
 	skos:definition	"a woman who can be a successful wife and have a professional career at the same time"@en ;
-	dc:source	pwn30:10789820-n .
+	dc:source	pwn30:10789820-n ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i90187> ;
+	dc:description	"Compositional; use 10146463-n instead (#1068)" .
 
 <i94175>	a	<Concept> ;
 	skos:definition	"makes decorative wooden panels"@en ;
@@ -383125,7 +383652,10 @@
 
 <i95773>	a	<Instance> ;
 	skos:definition	"Armenian composer who incorporated oriental folk music (1903-1978)"@en ;
-	dc:source	pwn30:11095587-n .
+	dc:source	pwn30:11095587-n ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i95816> ;
+	dc:description	"Duplicate (#66)" .
 
 <i95774>	a	<Instance> ;
 	skos:definition	"Czech novelist who wrote in German about a nightmarish world of isolated and troubled individuals (1883-1924)"@en ;
@@ -384205,7 +384735,10 @@
 
 <i96043>	a	<Instance> ;
 	skos:definition	"Roman general famous for giving lavish banquets (110-57 BC)"@en ;
-	dc:source	pwn30:11144291-n .
+	dc:source	pwn30:11144291-n ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i96039> ;
+	dc:description	"Misspelled duplicate (#76)" .
 
 <i96044>	a	<Instance> ;
 	skos:definition	"United States film actor (born in Hungary) noted for portraying monsters (1884-1956)"@en ;
@@ -388149,7 +388682,10 @@
 
 <i97029>	a	<Instance> ;
 	skos:definition	"United States jurist who served on the United States Supreme Court as chief justice (1872-1946)"@en ;
-	dc:source	pwn30:11319244-n .
+	dc:source	pwn30:11319244-n ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i97033> ;
+	dc:description	"Duplicate (#75)" .
 
 <i97030>	a	<Instance> ;
 	skos:definition	"United States journalist who advocated liberal causes (1907-1989)"@en ;
@@ -391421,7 +391957,10 @@
 
 <i97847>	a	<Concept> ;
 	skos:definition	"a period of unusually high temperatures"@en ;
-	dc:source	pwn30:11466701-n .
+	dc:source	pwn30:11466701-n ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i98170> ;
+	dc:description	"compositional (#103)" .
 
 <i97848>	a	<Concept> ;
 	skos:definition	"an extremely hot day"@en ;
@@ -394061,7 +394600,10 @@
 
 <i98507>	a	<Concept> ;
 	skos:definition	"any of several evergreen trees or shrubs of Australia and northern New Caledonia"@en ;
-	dc:source	pwn30:11633633-n .
+	dc:source	pwn30:11633633-n ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i118394> ;
+	dc:description	"Split sense (#78)" .
 
 <i98508>	a	<Concept> ;
 	skos:definition	"Australian cypress pine having globular cones"@en ;
@@ -394121,7 +394663,10 @@
 
 <i98522>	a	<Concept> ;
 	skos:definition	"coniferous shrub or small tree with berrylike cones"@en ;
-	dc:source	pwn30:11636566-n .
+	dc:source	pwn30:11636566-n ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i117985> ;
+	dc:description	"Split sense (#78)" .
 
 <i98523>	a	<Concept> ;
 	skos:definition	"berrylike fruit of a plant of the genus Juniperus especially the berrylike cone of the common juniper"@en ;
@@ -394201,7 +394746,10 @@
 
 <i98542>	a	<Concept> ;
 	skos:definition	"either of two huge coniferous California trees that reach a height of 300 feet; sometimes placed in the Taxodiaceae"@en ;
-	dc:source	pwn30:11640645-n .
+	dc:source	pwn30:11640645-n ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i118250> ;
+	dc:description	"Split sense (#78)" .
 
 <i98543>	a	<Concept> ;
 	skos:definition	"the soft reddish wood of either of two species of sequoia trees"@en ;
@@ -394225,15 +394773,24 @@
 
 <i98548>	a	<Concept> ;
 	skos:definition	"common cypress of southeastern United States having trunk expanded at base; found in coastal swamps and flooding river bottoms"@en ;
-	dc:source	pwn30:11641963-n .
+	dc:source	pwn30:11641963-n ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i118149> ;
+	dc:description	"Split sense (#78)" .
 
 <i98549>	a	<Concept> ;
 	skos:definition	"smaller than and often included in the closely related Taxodium distichum"@en ;
-	dc:source	pwn30:11642243-n .
+	dc:source	pwn30:11642243-n ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i117975> ;
+	dc:description	"Split sense (#78)" .
 
 <i98550>	a	<Concept> ;
 	skos:definition	"cypress of river valleys of Mexican highlands"@en ;
-	dc:source	pwn30:11642430-n .
+	dc:source	pwn30:11642430-n ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i118303> ;
+	dc:description	"Split sense (#78)" .
 
 <i98551>	a	<Concept> ;
 	skos:definition	"Mexico's most famous tree; a giant specimen of Montezuma cypress more than 2,000 years old with a girth of 165 feet at Santa Maria del Tule"@en ;
@@ -403481,7 +404038,10 @@
 
 <i100862>	a	<Concept> ;
 	skos:definition	"a grain of barley"@en ;
-	dc:source	pwn30:12123648-n .
+	dc:source	pwn30:12123648-n ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i78116> ;
+	dc:description	"Duplicate (#1134)" .
 
 <i100863>	a	<Concept> ;
 	skos:definition	"European annual grass often found as a weed in waste ground especially along roadsides and hedgerows"@en ;
@@ -415685,7 +416245,10 @@
 
 <i103913>	a	<Concept> ;
 	skos:definition	"small Brazilian evergreen resinous tree or shrub having dark green leaflets and white flowers followed by bright red fruit; used as a street tree and lawn specimen"@en ;
-	dc:source	pwn30:12765402-n .
+	dc:source	pwn30:12765402-n ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i103911> ;
+	dc:description	"merging with other synset (#583)" .
 
 <i103914>	a	<Concept> ;
 	skos:definition	"tropical trees having one-seeded fruit"@en ;
@@ -418661,7 +419224,10 @@
 
 <i104657>	a	<Concept> ;
 	skos:definition	"much-branched hirsute weed native to northeastern North America"@en ;
-	dc:source	pwn30:12920043-n .
+	dc:source	pwn30:12920043-n ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i104648> ;
+	dc:description	"Current sysnst is describing two different species of plant (#581)" .
 
 <i104658>	a	<Concept> ;
 	skos:definition	"tropical American plant having poisonous milk and showy tapering usually scarlet petallike leaves surrounding small yellow flowers"@en ;
@@ -421089,7 +421655,10 @@
 
 <i105264>	a	<Concept> ;
 	skos:definition	"an order of fungi belonging to the class Gasteromycetes"@en ;
-	dc:source	pwn30:13041548-n .
+	dc:source	pwn30:13041548-n ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i105253> ;
+	dc:description	"Non-existant (#1134)" .
 
 <i105265>	a	<Concept> ;
 	skos:definition	"a family of fungi belonging to the order Tulostomatales"@en ;
@@ -421205,7 +421774,10 @@
 
 <i105293>	a	<Concept> ;
 	skos:definition	"an order of fungi belonging to the class Gasteromycetes"@en ;
-	dc:source	pwn30:13047216-n .
+	dc:source	pwn30:13047216-n ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i105253> ;
+	dc:description	"Non-existant (#1134)" .
 
 <i105294>	a	<Concept> ;
 	skos:definition	"a family of fungi that have a stalk and cap and a wrinkled mass of tissue (the gleba) where spores are produced; are often dismissed as misshapen forms of other fungi"@en ;
@@ -440485,7 +441057,11 @@
 
 <i110113>	a	<Concept> ;
 	skos:definition	"the condition of being secured to a base"@en ;
-	dc:source	pwn30:13923582-n .
+	dc:source	pwn30:13923582-n ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i117935> ;
+	ili:supersededBy	<i118004> ;
+	dc:description	"(#307)" .
 
 <i110114>	a	<Concept> ;
 	skos:definition	"the general condition of body and mind"@en ;
@@ -449805,7 +450381,10 @@
 
 <i112443>	a	<Concept> ;
 	skos:definition	"inflammation of the gums"@en ;
-	dc:source	pwn30:14357693-n .
+	dc:source	pwn30:14357693-n ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i110927> ;
+	dc:description	"Duplicate (#1134)" .
 
 <i112444>	a	<Concept> ;
 	skos:definition	"inflammation of the ureter"@en ;
@@ -450929,7 +451508,10 @@
 
 <i112724>	a	<Concept> ;
 	skos:definition	"a condition or state of affairs almost beyond one's ability to deal with and requiring great effort to bear or overcome"@en ;
-	dc:source	pwn30:14408086-n .
+	dc:source	pwn30:14408086-n ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i61801> ;
+	dc:description	"duplicate (#241)" .
 
 <i112725>	a	<Concept> ;
 	skos:definition	"an unpleasant difficulty"@en ;
@@ -454957,7 +455539,10 @@
 
 <i113731>	a	<Concept> ;
 	skos:definition	"a material that has been or is capable of being taken up by another substance by either absorption or adsorption"@en ;
-	dc:source	pwn30:14596956-n .
+	dc:source	pwn30:14596956-n ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i113732> ;
+	dc:description	"Duplicate (#1149)" .
 
 <i113732>	a	<Concept> ;
 	skos:definition	"a material that sorbs another substance; i.e. that has the capacity or tendency to take it up by either absorption or adsorption"@en ;
@@ -462369,7 +462954,10 @@
 
 <i115584>	a	<Concept> ;
 	skos:definition	"dark greyish extrusive rock"@en ;
-	dc:source	pwn30:14932222-n .
+	dc:source	pwn30:14932222-n ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i114384> ;
+	dc:description	"Duplicate with wrong lemma (#1128)" .
 
 <i115585>	a	<Concept> ;
 	skos:definition	"large mass of intrusive igneous rock believed to have solidified deep within the earth"@en ;
@@ -462977,7 +463565,10 @@
 
 <i115736>	a	<Concept> ;
 	skos:definition	"a former name for hydrochloric acid"@en ;
-	dc:source	pwn30:14957057-n .
+	dc:source	pwn30:14957057-n ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i115455> ;
+	dc:description	"Duplicated (#130)" .
 
 <i115737>	a	<Concept> ;
 	skos:definition	"paper with lines appropriate for writing music"@en ;
