@@ -471687,291 +471687,286 @@
 	ili:status	ili:provisional .
 
 <i117863>	a	<Concept> ;
-	skos:definition	"the barrier preventing Blacks from participating in various activities with whites"@en ;
-	dc:source	<https://wordnet.princeton.edu/ewn-05698967-n> ;
-	ili:status	ili:provisional .
-
-<i117864>	a	<Concept> ;
 	skos:definition	"(plural) something that reminds you of someone or something; \"aren't there shades of 1948 here?\""@en ;
 	dc:source	<https://wordnet.princeton.edu/ewn-05822120-n> ;
 	ili:status	ili:provisional .
 
-<i117865>	a	<Concept> ;
+<i117864>	a	<Concept> ;
 	skos:definition	"a specific detail in a set of rules or terms belonging to a particular field; \"the resolution died on a technicality\"; \"the defendant was acquitted on a legal technicality\""@en ;
 	dc:source	<https://wordnet.princeton.edu/ewn-05828731-n> ;
 	ili:status	ili:provisional .
 
-<i117866>	a	<Concept> ;
+<i117865>	a	<Concept> ;
 	skos:definition	"an individual's idea as assessment of his or her own body; \"some teenagers are obsessed with their body image\""@en ;
 	dc:source	<https://wordnet.princeton.edu/ewn-05846299-n> ;
 	ili:status	ili:provisional .
 
-<i117867>	a	<Concept> ;
+<i117866>	a	<Concept> ;
 	skos:definition	"the concept of emptying one's own will and receive God's will, in Catholicism"@en ;
 	dc:source	<https://wordnet.princeton.edu/ewn-05951056-n> ;
 	ili:status	ili:provisional .
 
-<i117868>	a	<Concept> ;
+<i117867>	a	<Concept> ;
 	skos:definition	"(economics) the theory that a person or firm seeks to make money by manipulating the economic environment rather than by making a profit through production or trade"@en ;
 	dc:source	<https://wordnet.princeton.edu/ewn-06005013-n> ;
 	ili:status	ili:provisional .
 
-<i117869>	a	<Concept> ;
+<i117868>	a	<Concept> ;
 	skos:definition	"a subpopulation divided into a stratified sampling"@en ;
 	dc:source	<https://wordnet.princeton.edu/ewn-06036690-n> ;
 	ili:status	ili:provisional .
 
-<i117870>	a	<Concept> ;
+<i117869>	a	<Concept> ;
 	skos:definition	"the study of wooden plants"@en ;
 	dc:source	<https://wordnet.princeton.edu/ewn-06162890-n> ;
 	ili:status	ili:provisional .
 
-<i117871>	a	<Concept> ;
+<i117870>	a	<Concept> ;
 	skos:definition	"the strict adherence to the basic principles or doctrines of a religion, ideology, etc."@en ;
 	dc:source	<https://wordnet.princeton.edu/ewn-06226161-n> ;
 	ili:status	ili:provisional .
 
-<i117872>	a	<Concept> ;
+<i117871>	a	<Concept> ;
 	skos:definition	"the belief that God is in part of the universe and its phenomena and also transcends the universe and intervenes in its operations"@en ;
 	dc:source	<https://wordnet.princeton.edu/ewn-06234997-n> ;
 	ili:status	ili:provisional .
 
-<i117873>	a	<Concept> ;
+<i117872>	a	<Concept> ;
 	skos:definition	"the belief that God created the universe and its phenomena by becoming the universe, thereafter the sole manifestation of God"@en ;
 	dc:source	<https://wordnet.princeton.edu/ewn-06235186-n> ;
 	ili:status	ili:provisional .
 
-<i117874>	a	<Instance> ;
+<i117873>	a	<Instance> ;
 	skos:definition	"the strait between the Malay Peninsula and Sumatra; it connects the Pacific Ocean to the east with the Indian Ocean to the west and is an important shipping lane"@en ;
 	dc:source	<https://wordnet.princeton.edu/ewn-09470589-n> ;
 	ili:status	ili:provisional .
 
-<i117875>	a	<Concept> ;
+<i117874>	a	<Concept> ;
 	skos:definition	"a medium that usually, but not always, provides little involvement together with substantial stimulus; includes speech, television, cartoons"@en ;
 	dc:source	<https://wordnet.princeton.edu/ewn-06265081-n> ;
 	ili:status	ili:provisional .
 
-<i117876>	a	<Concept> ;
+<i117875>	a	<Concept> ;
 	skos:definition	"a medium that usually, but not always, provides complete involvement together without considerable stimulus; includes radio, film, photography"@en ;
 	dc:source	<https://wordnet.princeton.edu/ewn-06265293-n> ;
 	ili:status	ili:provisional .
 
-<i117877>	a	<Concept> ;
+<i117876>	a	<Concept> ;
 	skos:definition	"a word that strongly resembles another word in spelling"@en ;
 	dc:source	<https://wordnet.princeton.edu/ewn-06299021-n> ;
 	ili:status	ili:provisional .
 
-<i117878>	a	<Concept> ;
+<i117877>	a	<Concept> ;
 	skos:definition	"(law) a name or sign used on certain products which corresponds to a specific geographical location or origin"@en ;
 	dc:source	<https://wordnet.princeton.edu/ewn-06346843-n> ;
 	ili:status	ili:provisional .
 
-<i117879>	a	<Concept> ;
+<i117878>	a	<Concept> ;
 	skos:definition	"a geographical indication used to identify where the grapes for a wine are grown"@en ;
 	dc:source	<https://wordnet.princeton.edu/ewn-06347064-n> ;
 	ili:status	ili:provisional .
 
-<i117880>	a	<Concept> ;
+<i117879>	a	<Concept> ;
 	skos:definition	"graphic novel that originated in Japan, usually intended for adults and characterized by highly stylized art"@en ;
 	dc:source	<https://wordnet.princeton.edu/ewn-06379605-n> ;
 	ili:status	ili:provisional .
 
-<i117881>	a	<Concept> ;
+<i117880>	a	<Concept> ;
 	skos:definition	"the schedule of programs for a particular period; \"the network's fall lineup\""@en ;
 	dc:source	<https://wordnet.princeton.edu/ewn-06497868-n> ;
 	ili:status	ili:provisional .
 
-<i117882>	a	<Concept> ;
+<i117881>	a	<Concept> ;
 	skos:definition	"(usually plural) a listing of best-selling recorded music; \"number 2 on the charts\""@en ;
 	dc:source	<https://wordnet.princeton.edu/ewn-06500907-n> ;
 	ili:status	ili:provisional .
 
-<i117883>	a	<Concept> ;
+<i117882>	a	<Concept> ;
 	skos:definition	"a software module that extends or enhances the capabilities of an existing application"@en ;
 	dc:source	<https://wordnet.princeton.edu/ewn-06578832-n> ;
 	ili:status	ili:provisional .
 
-<i117884>	a	<Concept> ;
+<i117883>	a	<Concept> ;
 	skos:definition	"malicious software, designed to break into a system"@en ;
 	dc:source	<https://wordnet.princeton.edu/ewn-06600315-n> ;
 	ili:status	ili:provisional .
 
-<i117885>	a	<Concept> ;
+<i117884>	a	<Concept> ;
 	skos:definition	"a numbered item in a series; \"take the number 2 to the main square, then change to the number 5\""@en ;
 	dc:source	<https://wordnet.princeton.edu/ewn-06609408-n> ;
 	ili:status	ili:provisional .
 
-<i117886>	a	<Concept> ;
+<i117885>	a	<Concept> ;
 	skos:definition	"a style of animation developed in Japan, characterized by stylized colorful art and often adult themes"@en ;
 	dc:source	<https://wordnet.princeton.edu/ewn-06629056-n> ;
 	ili:status	ili:provisional .
 
-<i117887>	a	<Instance> ;
+<i117886>	a	<Instance> ;
 	skos:definition	"the latest publicly released version of WordNet"@en ;
 	dc:source	<https://wordnet.princeton.edu/ewn-06651972-n> ;
 	ili:status	ili:provisional .
 
-<i117888>	a	<Concept> ;
+<i117887>	a	<Concept> ;
 	skos:definition	"an honor awarded to someone in recognition of achievement or superiority; \"she graduated with the highest distinction\""@en ;
 	dc:source	<https://wordnet.princeton.edu/ewn-06719080-n> ;
 	ili:status	ili:provisional .
 
-<i117889>	a	<Concept> ;
+<i117888>	a	<Concept> ;
 	skos:definition	"a diacritical mark (two dots) placed over a vowel to indicate that it does not form a diphthong with an adjacent vowel"@en ;
 	dc:source	<https://wordnet.princeton.edu/ewn-06836790-n> ;
 	ili:status	ili:provisional .
 
-<i117890>	a	<Concept> ;
+<i117889>	a	<Concept> ;
 	skos:definition	"a hand-held device, usually of paper, cardboard, or plastic, for conducting simple calculations or looking up information"@en ;
 	dc:source	<https://wordnet.princeton.edu/ewn-07015100-n> ;
 	ili:status	ili:provisional .
 
-<i117891>	a	<Concept> ;
+<i117890>	a	<Concept> ;
 	skos:definition	"a circular slide chart having rotating parts"@en ;
 	dc:source	<https://wordnet.princeton.edu/ewn-07015315-n> ;
 	ili:status	ili:provisional .
 
-<i117892>	a	<Concept> ;
+<i117891>	a	<Concept> ;
 	skos:definition	"(music) a free instrumental composition in one extended movement; typically emotional or exuberant in character"@en ;
 	dc:source	<https://wordnet.princeton.edu/ewn-07038703-n> ;
 	ili:status	ili:provisional .
 
-<i117893>	a	<Concept> ;
+<i117892>	a	<Concept> ;
 	skos:definition	"a variety of plainsong named after Pope Gregory I"@en ;
 	dc:source	<https://wordnet.princeton.edu/ewn-07048857-n> ;
 	ili:status	ili:provisional .
 
-<i117894>	a	<Concept> ;
+<i117893>	a	<Concept> ;
 	skos:definition	"a musical composition or musical passage to be performed loudly"@en ;
 	dc:source	<https://wordnet.princeton.edu/ewn-07059027-n> ;
 	ili:status	ili:provisional .
 
-<i117895>	a	<Concept> ;
+<i117894>	a	<Concept> ;
 	skos:definition	"a musical composition or musical passage to be performed very loudly"@en ;
 	dc:source	<https://wordnet.princeton.edu/ewn-07059160-n> ;
 	ili:status	ili:provisional .
 
-<i117896>	a	<Concept> ;
+<i117895>	a	<Concept> ;
 	skos:definition	"an abbreviation formed from the initial letters of the several words in the name and pronounced separately; \"HTML is an initialism for HyperText Markup Language\""@en ;
 	dc:source	<https://wordnet.princeton.edu/ewn-07106112-n> ;
 	ili:status	ili:provisional .
 
-<i117897>	a	<Concept> ;
+<i117896>	a	<Concept> ;
 	skos:definition	"run or pass below"@en ;
 	dc:source	<https://wordnet.princeton.edu/ewn-02762433-v> ;
 	ili:status	ili:provisional .
 
-<i117898>	a	<Concept> ;
+<i117897>	a	<Concept> ;
 	skos:definition	"give a present that one has received to someone else; \"she regifted that ugly scarf she received from her aunt\"; \"when I regift I hope the person likes the gift better than I do\""@en ;
 	dc:source	<https://wordnet.princeton.edu/ewn-02205670-v> ;
 	ili:status	ili:provisional .
 
-<i117899>	a	<Concept> ;
+<i117898>	a	<Concept> ;
 	skos:definition	"a dosage of ionizing radiation equivalent to one thousandth (1/1000) of a rem"@en ;
 	dc:source	<https://wordnet.princeton.edu/ewn-13668036-n> ;
 	ili:status	ili:provisional .
 
-<i117900>	a	<Concept> ;
+<i117899>	a	<Concept> ;
 	skos:definition	"wind (up) again; \"the mechanical watch needs rewinding every day\""@en ;
 	dc:source	<https://wordnet.princeton.edu/ewn-01524927-v> ;
 	ili:status	ili:provisional .
 
-<i117901>	a	<Concept> ;
+<i117900>	a	<Concept> ;
 	skos:definition	"haul onto a boat; \"underrun the cable for repair\""@en ;
 	dc:source	<https://wordnet.princeton.edu/ewn-01620096-v> ;
 	ili:status	ili:provisional .
 
-<i117902>	a	<Concept> ;
+<i117901>	a	<Concept> ;
 	skos:definition	"used or abandoned materials for use in creating new products; \"Every Monday, we put our recycling out on the curb for pick-up\""@en ;
 	dc:source	<https://wordnet.princeton.edu/ewn-14606023-n> ;
 	ili:status	ili:provisional .
 
-<i117903>	a	<Concept> ;
+<i117902>	a	<Concept> ;
 	skos:definition	"(biochemistry) a linear polymer whose molecule is composed of many nucleotide units constituting a section of a nucleic acid molecule"@en ;
 	dc:source	<https://wordnet.princeton.edu/ewn-14990367-n> ;
 	ili:status	ili:provisional .
 
-<i117904>	a	<Concept> ;
+<i117903>	a	<Concept> ;
 	skos:definition	"(biochemistry) a polynucleotide whose molecules contain relatively few nucleotides"@en ;
 	dc:source	<https://wordnet.princeton.edu/ewn-14993642-n> ;
 	ili:status	ili:provisional .
 
-<i117905>	a	<Concept> ;
+<i117904>	a	<Concept> ;
 	skos:definition	"a person who resembles a Gypsy in leading an unconventional, nomadic way of life"@en ;
 	dc:source	<https://wordnet.princeton.edu/ewn-09642482-n> ;
 	ili:status	ili:provisional .
 
-<i117906>	a	<Concept> ;
+<i117905>	a	<Concept> ;
 	skos:definition	"a person who plays the concertina"@en ;
 	dc:source	<https://wordnet.princeton.edu/ewn-09780734-n> ;
 	ili:status	ili:provisional .
 
-<i117907>	a	<Concept> ;
+<i117906>	a	<Concept> ;
 	skos:definition	"someone who has sold out"@en ;
 	dc:source	<https://wordnet.princeton.edu/ewn-09851585-n> ;
 	ili:status	ili:provisional .
 
-<i117908>	a	<Concept> ;
+<i117907>	a	<Concept> ;
 	skos:definition	"a person who rejects religion"@en ;
 	dc:source	<https://wordnet.princeton.edu/ewn-10020122-n> ;
 	ili:status	ili:provisional .
 
-<i117909>	a	<Concept> ;
+<i117908>	a	<Concept> ;
 	skos:definition	"someone who advocates the rights of the common people over those of the elite"@en ;
 	dc:source	<https://wordnet.princeton.edu/ewn-10021663-n> ;
 	ili:status	ili:provisional .
 
-<i117910>	a	<Concept> ;
+<i117909>	a	<Concept> ;
 	skos:definition	"a specialist in the study of diet and nutrition"@en ;
 	dc:source	<https://wordnet.princeton.edu/ewn-10032289-n> ;
 	ili:status	ili:provisional .
 
-<i117911>	a	<Concept> ;
+<i117910>	a	<Concept> ;
 	skos:definition	"a native of Switzerland"@en ;
 	dc:source	<https://wordnet.princeton.edu/ewn-10190274-n> ;
 	ili:status	ili:provisional .
 
-<i117912>	a	<Concept> ;
+<i117911>	a	<Concept> ;
 	skos:definition	"a person who specializes in interior decoration"@en ;
 	dc:source	<https://wordnet.princeton.edu/ewn-10230422-n> ;
 	ili:status	ili:provisional .
 
-<i117913>	a	<Concept> ;
+<i117912>	a	<Concept> ;
 	skos:definition	"a worker who moves around and works temporarily in different places"@en ;
 	dc:source	<https://wordnet.princeton.edu/ewn-10719072-n> ;
 	ili:status	ili:provisional .
 
-<i117914>	a	<Instance> ;
+<i117913>	a	<Instance> ;
 	skos:definition	"44th President of the United States; first African-American President"@en ;
 	dc:source	<https://wordnet.princeton.edu/ewn-10895767-n> ;
 	ili:status	ili:provisional .
 
-<i117915>	a	<Instance> ;
+<i117914>	a	<Instance> ;
 	skos:definition	"French philosopher (born in Germany) famous as being one of the first self-described atheists in Europe"@en ;
 	dc:source	<https://wordnet.princeton.edu/ewn-10955318-n> ;
 	ili:status	ili:provisional .
 
-<i117916>	a	<Concept> ;
+<i117915>	a	<Concept> ;
 	skos:definition	"an adherent of fundamentalist principles"@en ;
 	dc:source	<https://wordnet.princeton.edu/ewn-11428554-n> ;
 	ili:status	ili:provisional .
 
-<i117917>	a	<Concept> ;
+<i117916>	a	<Concept> ;
 	skos:definition	"the portion of the loin from which porterhouse steaks are cut"@en ;
 	dc:source	<https://wordnet.princeton.edu/ewn-07674441-n> ;
 	ili:status	ili:provisional .
 
-<i117918>	a	<Concept> ;
+<i117917>	a	<Concept> ;
 	skos:definition	"seed of the mung bean plant used for food"@en ;
 	dc:source	<https://wordnet.princeton.edu/ewn-07741018-n> ;
 	ili:status	ili:provisional .
 
-<i117919>	a	<Concept> ;
+<i117918>	a	<Concept> ;
 	skos:definition	"one of two roots of the spinal nerves"@en ;
 	dc:source	<https://wordnet.princeton.edu/ewn-05256763-n> ;
 	ili:status	ili:provisional .
 
-<i117920>	a	<Concept> ;
+<i117919>	a	<Concept> ;
 	skos:definition	"either of two roots of the spinal nerves"@en ;
 	dc:source	<https://wordnet.princeton.edu/ewn-05598016-n> ;
 	ili:status	ili:provisional .
