@@ -1,0 +1,23 @@
+name: Check ILI IDs
+
+# Fails if the concept IDs in ili.ttl are not ascending and consecutive
+# (i1, i2, i3, ...), e.g. because an unwanted proposal was deleted
+# without running renumber-ili.py. See PROPOSING_ILIS.md.
+
+on:
+  pull_request:
+    paths:
+      - 'ili.ttl'
+  push:
+    branches: [master]
+    paths:
+      - 'ili.ttl'
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check IDs are ascending with no gaps
+        run: python3 renumber-ili.py --check ili.ttl

@@ -79,6 +79,33 @@ reviewable as an actual diff, which is the entire point of doing this
 through GitHub rather than offline. Oversized PRs will be sent back to be
 split up rather than reviewed as-is.
 
+### Removing unwanted candidates and renumbering
+
+Reviewers (or you, after review) will sometimes decide that a proposed
+concept should not be added: it duplicates an existing ILI, the wordnet
+should reuse an existing ILI instead, and so on. To remove it:
+
+1. Delete the concept's whole block (from its `<iNNNNN> a <Concept> ;`
+   line to the closing `.`) from `ili.ttl`. Do not edit anything else by
+   hand.
+2. Run the renumbering script, which closes the gap:
+
+   ```
+   python3 renumber-ili.py
+   ```
+
+   Every concept that is not on the base revision (`origin/master` by
+   default; use `--base REF` to change it) is treated as proposed and
+   renumbered consecutively, in file order, from the base's highest ID + 1.
+   References such as `ili:supersededBy <iNNNNN>` are updated to match.
+   Existing concepts are never renumbered, and the script refuses to run
+   if one has been deleted or if a reference points at a deleted concept.
+   `--dry-run` reports what would change without writing.
+3. Commit and push. The IDs of the remaining proposals have changed, so
+   update any wordnet file that already used them.
+
+`renumber-ili.py` needs only Python 3 and git (no extra packages).
+
 ### If your PR conflicts after another proposal merges
 
 IDs are allocated sequentially based on `ili.ttl` at the time you ran the
@@ -87,7 +114,9 @@ have been assigned IDs that now already exist — `git` won't necessarily
 flag this as a merge conflict, since both changes are pure appends. If a
 maintainer flags an ID collision, just rerun `propose-ili.py` against the
 latest `master` and push again; it always allocates from the current file,
-so this reallocates cleanly.
+so this reallocates cleanly. If you have already deleted concepts by hand
+(see above), instead merge the latest `master`, keep your proposed concepts
+after the new ones, and run `renumber-ili.py`.
 
 ## For maintainers
 
@@ -148,8 +177,15 @@ before and after the PR:
   appends new ones — flagged for a closer look, since a proposal PR
   should normally be a pure append.
 
-It's advisory, not blocking — there's no branch protection requiring it
-to pass. Treat the comment the same way as the PR description's QC
+A second, separate workflow,
+[`.github/workflows/check-ili-ids.yml`](.github/workflows/check-ili-ids.yml),
+runs `python3 renumber-ili.py --check` on PRs and pushes to `master` that
+touch `ili.ttl`. It fails if concept IDs are not ascending and consecutive
+from `i1` (for example because a proposal was deleted without
+renumbering); the fix is to run `renumber-ili.py`.
+
+The validation comment is advisory, not blocking — there's no branch
+protection requiring it to pass. Treat the comment the same way as the PR description's QC
 report: warnings are judgment calls, collisions and shape errors are
 worth resolving before merging.
 
@@ -163,6 +199,9 @@ worth resolving before merging.
   mistake to fix before merging.
 * If CI flags an ID collision, ask the contributor to rerun
   `propose-ili.py` against current `master` and push again.
+* To reject individual candidates, delete them from `ili.ttl` and run
+  `renumber-ili.py` (see "Removing unwanted candidates and renumbering");
+  the ID-sequence check will fail until the gaps are closed.
 
 ### Promoting provisional concepts
 
