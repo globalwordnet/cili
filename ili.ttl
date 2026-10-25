@@ -292460,6 +292460,8 @@
 	skos:definition	"Kamarupan languages spoken in the states of Manipur and Assam in northeastern India"@en ;
 	dc:source	pwn30:06933546-n ;
 	ili:status	ili:deprecated ;
+	ili:supersededBy	<i118388> ;
+	ili:supersededBy	<i118572> ;
 	dc:description	"Split into Mikir and Meitei (#1202)" .
 
 <i73013>	a	<Concept> ;
