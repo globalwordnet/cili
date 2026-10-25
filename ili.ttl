@@ -3861,7 +3861,10 @@
 
 <i957>	a	<Concept> ;
 	skos:definition	"presaging or likely to bring good luck"@en ;
-	dc:source	pwn30:00177547-s .
+	dc:source	pwn30:00177547-s ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i3358> ;
+	dc:description	"Merged in PWN 3.1 (00178829-s)" .
 
 <i958>	a	<Concept> ;
 	skos:definition	"disposed to bestow favors"@en ;
@@ -5437,7 +5440,10 @@
 
 <i1351>	a	<Concept> ;
 	skos:definition	"having skin rich in melanin pigments"@en ;
-	dc:source	pwn30:00242575-s .
+	dc:source	pwn30:00242575-s ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i1352> ;
+	dc:description	"Merged in PWN 3.1 (00244035-s)" .
 
 <i1352>	a	<Concept> ;
 	skos:definition	"relating to or characteristic of or being a member of the traditional racial division of mankind having brown to black pigmentation and tightly curled hair"@en ;
@@ -13893,7 +13899,10 @@
 
 <i3465>	a	<Concept> ;
 	skos:definition	"free of corruption or immorality"@en ;
-	dc:source	pwn30:00622581-a .
+	dc:source	pwn30:00622581-a ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i8508> ;
+	dc:description	"Merged in PWN 3.1 (00625237-a)" .
 
 <i3466>	a	<Concept> ;
 	skos:definition	"clean and honest"@en ;
@@ -14813,7 +14822,10 @@
 
 <i3695>	a	<Concept> ;
 	skos:definition	"eager to investigate and learn or learn more (sometimes about others' concerns)"@en ;
-	dc:source	pwn30:00664449-a .
+	dc:source	pwn30:00664449-a ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i7318> ;
+	dc:description	"Merged in PWN 3.1 (00667636-a)" .
 
 <i3696>	a	<Concept> ;
 	skos:definition	"showing curiosity"@en ;
@@ -18649,7 +18661,10 @@
 
 <i4654>	a	<Concept> ;
 	skos:definition	"not compulsory"@en ;
-	dc:source	pwn30:00847577-s .
+	dc:source	pwn30:00847577-s ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i4656> ;
+	dc:description	"Merged in PWN 3.1 (00851098-s)" .
 
 <i4655>	a	<Concept> ;
 	skos:definition	"as a favor; not compelled by legal right"@en ;
@@ -19777,7 +19792,10 @@
 
 <i4936>	a	<Concept> ;
 	skos:definition	"of primary importance"@en ;
-	dc:source	pwn30:00901060-s .
+	dc:source	pwn30:00901060-s ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i10196> ;
+	dc:description	"Merged in PWN 3.1 (01862151-s)" .
 
 <i4937>	a	<Concept> ;
 	skos:definition	"essential for maintaining the fundamental life processes"@en ;
@@ -19957,7 +19975,10 @@
 
 <i4981>	a	<Concept> ;
 	skos:definition	"having a flat bottom"@en ;
-	dc:source	pwn30:00910404-s .
+	dc:source	pwn30:00910404-s ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i13535> ;
+	dc:description	"Merged in PWN 3.1 (00913487-s)" .
 
 <i4982>	a	<Concept> ;
 	skos:definition	"of a surface exactly even with an adjoining one, forming the same plane"@en ;
@@ -23501,7 +23522,10 @@
 
 <i5867>	a	<Concept> ;
 	skos:definition	"not firm"@en ;
-	dc:source	pwn30:01070002-s .
+	dc:source	pwn30:01070002-s ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i13308> ;
+	dc:description	"Merged in PWN 3.1 (02412798-s)" .
 
 <i5868>	a	<Concept> ;
 	skos:definition	"covered with or smelling of mold"@en ;
@@ -25341,7 +25365,10 @@
 
 <i6327>	a	<Concept> ;
 	skos:definition	"having attained to kindliness or gentleness through age and experience"@en ;
-	dc:source	pwn30:01156302-s .
+	dc:source	pwn30:01156302-s ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i8183> ;
+	dc:description	"Merged in PWN 3.1 (01159816-s)" .
 
 <i6328>	a	<Concept> ;
 	skos:definition	"(of speech sounds); produced with the back of the tongue raised toward or touching the velum"@en ;
@@ -28097,7 +28124,10 @@
 
 <i7016>	a	<Concept> ;
 	skos:definition	"easily seen or detected"@en ;
-	dc:source	pwn30:01287282-s .
+	dc:source	pwn30:01287282-s ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i9421> ;
+	dc:description	"Merged in PWN 3.1 (01290284-s)" .
 
 <i7017>	a	<Concept> ;
 	skos:definition	"capable of being seen or noticed"@en ;
@@ -28109,7 +28139,10 @@
 
 <i7019>	a	<Concept> ;
 	skos:definition	"worthy of notice or attention"@en ;
-	dc:source	pwn30:01287972-s .
+	dc:source	pwn30:01287972-s ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i7494> ;
+	dc:description	"Merged in PWN 3.1 (01378757-s)" .
 
 <i7020>	a	<Concept> ;
 	skos:definition	"not noticeable; not drawing attention"@en ;
@@ -28117,7 +28150,10 @@
 
 <i7021>	a	<Concept> ;
 	skos:definition	"not worthy of notice"@en ;
-	dc:source	pwn30:01288298-s .
+	dc:source	pwn30:01288298-s ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i9181> ;
+	dc:description	"Merged in PWN 3.1 (01679481-s)" .
 
 <i7022>	a	<Concept> ;
 	skos:definition	"made more desirable or valuable or profitable; especially made ready for use or marketing"@en ;
@@ -30713,7 +30749,10 @@
 
 <i7670>	a	<Concept> ;
 	skos:definition	"of parents and children; related by blood"@en ;
-	dc:source	pwn30:01405904-a .
+	dc:source	pwn30:01405904-a ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i7672> ;
+	dc:description	"Merged in PWN 3.1 (01408930-a)" .
 
 <i7671>	a	<Concept> ;
 	skos:definition	"(of offspring) generated by procreation"@en ;
@@ -35261,7 +35300,10 @@
 
 <i8807>	a	<Concept> ;
 	skos:definition	"not observed"@en ;
-	dc:source	pwn30:01608997-s .
+	dc:source	pwn30:01608997-s ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i8815> ;
+	dc:description	"Merged in PWN 3.1 (01613579-s)" .
 
 <i8808>	a	<Concept> ;
 	skos:definition	"not perceived or commented on"@en ;
@@ -36561,11 +36603,17 @@
 
 <i9132>	a	<Concept> ;
 	skos:definition	"of or involving the mouth or mouth region or the surface on which the mouth is located"@en ;
-	dc:source	pwn30:01665184-a .
+	dc:source	pwn30:01665184-a ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i9134> ;
+	dc:description	"Merged in PWN 3.1 (01669663-a)" .
 
 <i9133>	a	<Concept> ;
 	skos:definition	"oriented toward the inside of the cheek"@en ;
-	dc:source	pwn30:01665457-s .
+	dc:source	pwn30:01665457-s ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i9134> ;
+	dc:description	"Merged in PWN 3.1 (01669663-a)" .
 
 <i9134>	a	<Concept> ;
 	skos:definition	"lying within the mouth"@en ;
@@ -38389,7 +38437,10 @@
 
 <i9589>	a	<Concept> ;
 	skos:definition	"capable of being detected"@en ;
-	dc:source	pwn30:01746995-s .
+	dc:source	pwn30:01746995-s ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i12868> ;
+	dc:description	"Merged in PWN 3.1 (01751468-s)" .
 
 <i9590>	a	<Concept> ;
 	skos:definition	"capable of being perceived clearly"@en ;
@@ -47581,7 +47632,10 @@
 
 <i11887>	a	<Concept> ;
 	skos:definition	"worthy of notice"@en ;
-	dc:source	pwn30:02163602-s .
+	dc:source	pwn30:02163602-s ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i14354> ;
+	dc:description	"Merged in PWN 3.1 (02171017-s)" .
 
 <i11888>	a	<Concept> ;
 	skos:definition	"tending to prove a particular proposition or to persuade you of the truth of an allegation"@en ;
@@ -65269,7 +65323,10 @@
 
 <i16309>	a	<Concept> ;
 	skos:definition	"of or relating to or resembling the eye"@en ;
-	dc:source	pwn30:02869823-a .
+	dc:source	pwn30:02869823-a ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i16438> ;
+	dc:description	"Merged in PWN 3.1 (02881105-a)" .
 
 <i16310>	a	<Concept> ;
 	skos:definition	"of or relating to the eye socket"@en ;
@@ -66109,7 +66166,10 @@
 
 <i16519>	a	<Concept> ;
 	skos:definition	"of or relating to micrometeorites"@en ;
-	dc:source	pwn30:02902883-a .
+	dc:source	pwn30:02902883-a ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i17010> ;
+	dc:description	"Merged in PWN 3.1 (02914135-a)" .
 
 <i16520>	a	<Concept> ;
 	skos:definition	"of or relating to a micropyle"@en ;
@@ -68953,7 +69013,10 @@
 
 <i17230>	a	<Concept> ;
 	skos:definition	"of or relating to the spinal cord"@en ;
-	dc:source	pwn30:03012707-a .
+	dc:source	pwn30:03012707-a ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i17233> ;
+	dc:description	"Merged in PWN 3.1 (03024459-a)" .
 
 <i17231>	a	<Concept> ;
 	skos:definition	"of or relating to the substance that forms a sheath around the axon of some nerve fibers"@en ;
@@ -72821,7 +72884,10 @@
 
 <i18197>	a	<Concept> ;
 	skos:definition	"to a complete degree or to the full or entire extent (`whole' is often used informally for `wholly')"@en ;
-	dc:source	pwn30:00008007-r .
+	dc:source	pwn30:00008007-r ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i19554> ;
+	dc:description	"Merged in PWN 3.1 (00008423-r)" .
 
 <i18198>	a	<Concept> ;
 	skos:definition	"without any others being included or involved"@en ;
@@ -74145,7 +74211,10 @@
 
 <i18528>	a	<Concept> ;
 	skos:definition	"at the proper time"@en ;
-	dc:source	pwn30:00064691-r .
+	dc:source	pwn30:00064691-r ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i19305> ;
+	dc:description	"Merged in PWN 3.1 (00172866-r)" .
 
 <i18529>	a	<Concept> ;
 	skos:definition	"with respect to mathematics"@en ;
@@ -74517,7 +74586,10 @@
 
 <i18621>	a	<Concept> ;
 	skos:definition	"at a later place"@en ;
-	dc:source	pwn30:00079866-r .
+	dc:source	pwn30:00079866-r ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i19938> ;
+	dc:description	"Merged in PWN 3.1 (00080132-r)" .
 
 <i18622>	a	<Concept> ;
 	skos:definition	"at an earlier place"@en ;
@@ -74689,7 +74761,10 @@
 
 <i18664>	a	<Concept> ;
 	skos:definition	"with rapid movements"@en ;
-	dc:source	pwn30:00085811-r .
+	dc:source	pwn30:00085811-r ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i19269> ;
+	dc:description	"Merged in PWN 3.1 (00086161-r)" .
 
 <i18665>	a	<Concept> ;
 	skos:definition	"quickly or rapidly (often used as a combining form)"@en ;
@@ -75437,7 +75512,10 @@
 
 <i18851>	a	<Concept> ;
 	skos:definition	"throughout the world"@en ;
-	dc:source	pwn30:00112279-r .
+	dc:source	pwn30:00112279-r ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i18976> ;
+	dc:description	"Merged in PWN 3.1 (00113022-r)" .
 
 <i18852>	a	<Concept> ;
 	skos:definition	"in such a manner as could not be otherwise"@en ;
@@ -78953,7 +79031,10 @@
 
 <i19730>	a	<Concept> ;
 	skos:definition	"in an adroit manner"@en ;
-	dc:source	pwn30:00230996-r .
+	dc:source	pwn30:00230996-r ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i20137> ;
+	dc:description	"Merged in PWN 3.1 (00232612-r)" .
 
 <i19731>	a	<Concept> ;
 	skos:definition	"with strength and soundness"@en ;
@@ -83157,7 +83238,10 @@
 
 <i20781>	a	<Concept> ;
 	skos:definition	"in a keen and discriminating manner"@en ;
-	dc:source	pwn30:00385081-r .
+	dc:source	pwn30:00385081-r ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i21654> ;
+	dc:description	"Merged in PWN 3.1 (00386914-r)" .
 
 <i20782>	a	<Concept> ;
 	skos:definition	"in a very humorous manner"@en ;
@@ -87809,7 +87893,10 @@
 
 <i21944>	a	<Concept> ;
 	skos:definition	"cleanse the entire body"@en ;
-	dc:source	pwn30:00035603-v .
+	dc:source	pwn30:00035603-v ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i21956> ;
+	dc:description	"Merged in PWN 3.1 (00035596-v)" .
 
 <i21945>	a	<Concept> ;
 	skos:definition	"clean one's body or parts thereof, as by washing"@en ;
@@ -102461,7 +102548,10 @@
 
 <i25607>	a	<Concept> ;
 	skos:definition	"inquire about"@en ;
-	dc:source	pwn30:00784342-v .
+	dc:source	pwn30:00784342-v ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i26103> ;
+	dc:description	"Merged in PWN 3.1 (00899241-v)" .
 
 <i25608>	a	<Concept> ;
 	skos:definition	"direct or put; seek an answer to"@en ;
@@ -106517,7 +106607,10 @@
 
 <i26621>	a	<Concept> ;
 	skos:definition	"communicate (with) in writing"@en ;
-	dc:source	pwn30:01007027-v .
+	dc:source	pwn30:01007027-v ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i26733> ;
+	dc:description	"Merged in PWN 3.1 (01009072-v)" .
 
 <i26622>	a	<Concept> ;
 	skos:definition	"send cables, wires, or telegrams"@en ;
@@ -110169,7 +110262,10 @@
 
 <i27534>	a	<Concept> ;
 	skos:definition	"fill or meet a want or need"@en ;
-	dc:source	pwn30:01183573-v .
+	dc:source	pwn30:01183573-v ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i35005> ;
+	dc:description	"Merged in PWN 3.1 (01185870-v)" .
 
 <i27535>	a	<Concept> ;
 	skos:definition	"be satisfactory for; meet the requirements of or serve the purpose of"@en ;
@@ -122553,7 +122649,10 @@
 
 <i30630>	a	<Concept> ;
 	skos:definition	"cause fear in"@en ;
-	dc:source	pwn30:01779165-v .
+	dc:source	pwn30:01779165-v ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i30634> ;
+	dc:description	"Merged in PWN 3.1 (01783082-v)" .
 
 <i30631>	a	<Concept> ;
 	skos:definition	"inspire awe in"@en ;
@@ -127181,7 +127280,10 @@
 
 <i31787>	a	<Concept> ;
 	skos:definition	"leave as fast as possible"@en ;
-	dc:source	pwn30:02010255-v .
+	dc:source	pwn30:02010255-v ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i32217> ;
+	dc:description	"Merged in PWN 3.1 (02097174-v)" .
 
 <i31788>	a	<Concept> ;
 	skos:definition	"leave abruptly, often in protest or anger"@en ;
@@ -151557,7 +151659,10 @@
 
 <i37881>	a	<Concept> ;
 	skos:definition	"a ball game played with a bat and ball between two teams of nine players; teams take turns at bat trying to score runs"@en ;
-	dc:source	pwn30:00471613-n .
+	dc:source	pwn30:00471613-n ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i37882> ;
+	dc:description	"Merged in PWN 3.1 (00472688-n)" .
 
 <i37882>	a	<Concept> ;
 	skos:definition	"the game of baseball"@en ;
@@ -203913,7 +204018,10 @@
 
 <i50970>	a	<Concept> ;
 	skos:definition	"British term for the luggage compartment in a car"@en ;
-	dc:source	pwn30:02873244-n .
+	dc:source	pwn30:02873244-n ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i55862> ;
+	dc:description	"Merged in PWN 3.1 (03701391-n)" .
 
 <i50971>	a	<Concept> ;
 	skos:definition	"an instrument of torture that is used to heat or crush the foot and leg"@en ;
@@ -214921,7 +215029,10 @@
 
 <i53722>	a	<Concept> ;
 	skos:definition	"the final coating of plaster applied to walls and ceilings"@en ;
-	dc:source	pwn30:03342657-n .
+	dc:source	pwn30:03342657-n ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i53723> ;
+	dc:description	"Merged in PWN 3.1 (03347602-n)" .
 
 <i53723>	a	<Concept> ;
 	skos:definition	"the final coat of paint"@en ;
@@ -247973,7 +248084,10 @@
 
 <i61985>	a	<Concept> ;
 	skos:definition	"a distinguishing difference"@en ;
-	dc:source	pwn30:04749572-n .
+	dc:source	pwn30:04749572-n ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i62264> ;
+	dc:description	"Merged in PWN 3.1 (04756794-n)" .
 
 <i61986>	a	<Concept> ;
 	skos:definition	"a difference between conflicting facts or claims or opinions"@en ;
@@ -273033,7 +273147,10 @@
 
 <i68250>	a	<Concept> ;
 	skos:definition	"a lack of belief in the existence of God or gods"@en ;
-	dc:source	pwn30:05980256-n .
+	dc:source	pwn30:05980256-n ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i69238> ;
+	dc:description	"Merged in PWN 3.1 (05989123-n)" .
 
 <i68251>	a	<Concept> ;
 	skos:definition	"a belief that rejects the orthodox tenets of a religion"@en ;
@@ -300125,7 +300242,10 @@
 
 <i75023>	a	<Concept> ;
 	skos:definition	"an outcome (good or bad) that is well deserved"@en ;
-	dc:source	pwn30:07294423-n .
+	dc:source	pwn30:07294423-n ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i75027> ;
+	dc:description	"Merged in PWN 3.1 (07309129-n)" .
 
 <i75024>	a	<Concept> ;
 	skos:definition	"the consequence of some effort or action"@en ;
@@ -316805,7 +316925,10 @@
 
 <i79193>	a	<Concept> ;
 	skos:definition	"an individual or group who are concerned with some particular part of the economy and who try to influence legislators or bureaucrats to act in their favor"@en ;
-	dc:source	pwn30:07968974-n .
+	dc:source	pwn30:07968974-n ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i81121> ;
+	dc:description	"Merged in PWN 3.1 (07985266-n)" .
 
 <i79194>	a	<Concept> ;
 	skos:definition	"groups that seek to control a social system or activity from which they derive private benefit"@en ;
@@ -318833,7 +318956,10 @@
 
 <i79700>	a	<Concept> ;
 	skos:definition	"(Roman Catholic Church) the body of cardinals who advise the Pope and elect new Popes"@en ;
-	dc:source	pwn30:08085824-n .
+	dc:source	pwn30:08085824-n ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i79998> ;
+	dc:description	"Merged in PWN 3.1 (08102739-n)" .
 
 <i79701>	a	<Concept> ;
 	skos:definition	"Catholic churches that broke away from the Roman Catholic Church in the 18th century"@en ;
@@ -334133,7 +334259,10 @@
 
 <i83525>	a	<Instance> ;
 	skos:definition	"the capital of India is a division of the old city of Delhi"@en ;
-	dc:source	pwn30:08903049-n .
+	dc:source	pwn30:08903049-n ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i83526> ;
+	dc:description	"Merged in PWN 3.1 (08923207-n)" .
 
 <i83526>	a	<Instance> ;
 	skos:definition	"a city in north central India"@en ;
@@ -334193,7 +334322,10 @@
 
 <i83540>	a	<Instance> ;
 	skos:definition	"an industrialized state in western India that includes parts of Bombay"@en ;
-	dc:source	pwn30:08905313-n .
+	dc:source	pwn30:08905313-n ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i83543> ;
+	dc:description	"Merged in PWN 3.1 (08925281-n)" .
 
 <i83541>	a	<Instance> ;
 	skos:definition	"a state in southeastern India on the Bay of Bengal (south of Andhra Pradesh); formerly Madras"@en ;
@@ -349081,7 +349213,10 @@
 
 <i87262>	a	<Concept> ;
 	skos:definition	"a person with dark skin who comes from Africa (or whose ancestors came from Africa)"@en ;
-	dc:source	pwn30:09636339-n .
+	dc:source	pwn30:09636339-n ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i87265> ;
+	dc:description	"Merged in PWN 3.1 (09659490-n)" .
 
 <i87263>	a	<Concept> ;
 	skos:definition	"a Black woman or girl"@en ;
@@ -361501,7 +361636,10 @@
 
 <i90367>	a	<Concept> ;
 	skos:definition	"an informal term for a youth or man"@en ;
-	dc:source	pwn30:10153414-n .
+	dc:source	pwn30:10153414-n ;
+	ili:status	ili:deprecated ;
+	ili:supersededBy	<i93129> ;
+	dc:description	"Merged in PWN 3.1 (10172934-n)" .
 
 <i90368>	a	<Concept> ;
 	skos:definition	"an athlete who is skilled in gymnastics"@en ;
