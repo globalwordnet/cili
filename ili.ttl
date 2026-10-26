@@ -471917,3 +471917,1323 @@
 	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-feature-FC> ;
 	ili:status	ili:provisional .
 
+<i117909>	a	<Concept> ;
+	skos:definition	"a parent of one's father (a grandparent)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Fa-Pr> ;
+	ili:status	ili:provisional .
+
+<i117910>	a	<Concept> ;
+	skos:definition	"a parent of one's mother (a grandparent)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Mo-Pr> ;
+	ili:status	ili:provisional .
+
+<i117911>	a	<Concept> ;
+	skos:definition	"a parent of a man's parent (a grandparent)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-x-Gr-Pr> ;
+	ili:status	ili:provisional .
+
+<i117912>	a	<Concept> ;
+	skos:definition	"the father of one's father (a grandparent)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Fa-Fa> ;
+	ili:status	ili:provisional .
+
+<i117913>	a	<Concept> ;
+	skos:definition	"the father of one's mother (a grandparent)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Mo-Fa> ;
+	ili:status	ili:provisional .
+
+<i117914>	a	<Concept> ;
+	skos:definition	"the mother of one's father (a grandparent)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Fa-Mo> ;
+	ili:status	ili:provisional .
+
+<i117915>	a	<Concept> ;
+	skos:definition	"the mother of one's mother (a grandparent)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Mo-Mo> ;
+	ili:status	ili:provisional .
+
+<i117916>	a	<Concept> ;
+	skos:definition	"the father of a man's parent (a grandparent)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-x-Gr-Fa> ;
+	ili:status	ili:provisional .
+
+<i117917>	a	<Concept> ;
+	skos:definition	"the mother of a man's parent (a grandparent)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-x-Gr-Mo> ;
+	ili:status	ili:provisional .
+
+<i117918>	a	<Concept> ;
+	skos:definition	"the father of a woman's father (a grandparent)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-o-Fa-Fa> ;
+	ili:status	ili:provisional .
+
+<i117919>	a	<Concept> ;
+	skos:definition	"the mother of a man's mother (a grandparent)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-x-Mo-Mo> ;
+	ili:status	ili:provisional .
+
+<i117920>	a	<Concept> ;
+	skos:definition	"the mother of a woman's mother (a grandparent)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-o-Mo-Mo> ;
+	ili:status	ili:provisional .
+
+<i117921>	a	<Concept> ;
+	skos:definition	"a child of a man's child (a grandchild)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-x-Gr-Ch> ;
+	ili:status	ili:provisional .
+
+<i117922>	a	<Concept> ;
+	skos:definition	"a child of a woman's child (a grandchild)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-o-Gr-Ch> ;
+	ili:status	ili:provisional .
+
+<i117923>	a	<Concept> ;
+	skos:definition	"a son of a man's child (a grandchild)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-x-Gr-So> ;
+	ili:status	ili:provisional .
+
+<i117924>	a	<Concept> ;
+	skos:definition	"a son of a woman's child (a grandchild)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-o-Gr-So> ;
+	ili:status	ili:provisional .
+
+<i117925>	a	<Concept> ;
+	skos:definition	"a daughter of a man's child (a grandchild)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-x-Gr-Da> ;
+	ili:status	ili:provisional .
+
+<i117926>	a	<Concept> ;
+	skos:definition	"a daughter of a woman's child (a grandchild)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-o-Gr-Da> ;
+	ili:status	ili:provisional .
+
+<i117927>	a	<Concept> ;
+	skos:definition	"a child of one's son (a grandchild)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-So-Ch> ;
+	ili:status	ili:provisional .
+
+<i117928>	a	<Concept> ;
+	skos:definition	"a child of one's daughter (a grandchild)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Da-Ch> ;
+	ili:status	ili:provisional .
+
+<i117929>	a	<Concept> ;
+	skos:definition	"a child of a man's son (a grandchild)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-x-So-Ch> ;
+	ili:status	ili:provisional .
+
+<i117930>	a	<Concept> ;
+	skos:definition	"a child of a woman's son (a grandchild)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-o-So-Ch> ;
+	ili:status	ili:provisional .
+
+<i117931>	a	<Concept> ;
+	skos:definition	"a child of a man's daughter (a grandchild)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-x-Da-Ch> ;
+	ili:status	ili:provisional .
+
+<i117932>	a	<Concept> ;
+	skos:definition	"a child of a woman's daughter (a grandchild)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-o-Da-Ch> ;
+	ili:status	ili:provisional .
+
+<i117933>	a	<Concept> ;
+	skos:definition	"a son of one's son (a grandchild)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-So-So> ;
+	ili:status	ili:provisional .
+
+<i117934>	a	<Concept> ;
+	skos:definition	"a daughter of one's son (a grandchild)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-So-Da> ;
+	ili:status	ili:provisional .
+
+<i117935>	a	<Concept> ;
+	skos:definition	"a son of one's daughter (a grandchild)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Da-So> ;
+	ili:status	ili:provisional .
+
+<i117936>	a	<Concept> ;
+	skos:definition	"a daughter of one's daughter (a grandchild)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Da-Da> ;
+	ili:status	ili:provisional .
+
+<i117937>	a	<Concept> ;
+	skos:definition	"a son of a man's son (a grandchild)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-x-So-So> ;
+	ili:status	ili:provisional .
+
+<i117938>	a	<Concept> ;
+	skos:definition	"a son of a woman's son (a grandchild)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-o-So-So> ;
+	ili:status	ili:provisional .
+
+<i117939>	a	<Concept> ;
+	skos:definition	"a daughter of a man's son (a grandchild)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-x-So-Da> ;
+	ili:status	ili:provisional .
+
+<i117940>	a	<Concept> ;
+	skos:definition	"a daughter of a woman's son (a grandchild)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-o-So-Da> ;
+	ili:status	ili:provisional .
+
+<i117941>	a	<Concept> ;
+	skos:definition	"a son of a man's daughter (a grandchild)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-x-Da-So> ;
+	ili:status	ili:provisional .
+
+<i117942>	a	<Concept> ;
+	skos:definition	"a son of a woman's daughter (a grandchild)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-o-Da-So> ;
+	ili:status	ili:provisional .
+
+<i117943>	a	<Concept> ;
+	skos:definition	"a daughter of a man's daughter (a grandchild)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-x-Da-Da> ;
+	ili:status	ili:provisional .
+
+<i117944>	a	<Concept> ;
+	skos:definition	"a daughter of a woman's daughter (a grandchild)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-o-Da-Da> ;
+	ili:status	ili:provisional .
+
+<i117945>	a	<Concept> ;
+	skos:definition	"a brother of a man (a sibling)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-x-Br> ;
+	ili:status	ili:provisional .
+
+<i117946>	a	<Concept> ;
+	skos:definition	"a brother of a woman (a sibling)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-o-Br> ;
+	ili:status	ili:provisional .
+
+<i117947>	a	<Concept> ;
+	skos:definition	"a sister of a man (a sibling)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-x-Ss> ;
+	ili:status	ili:provisional .
+
+<i117948>	a	<Concept> ;
+	skos:definition	"a sister of a woman (a sibling)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-o-Ss> ;
+	ili:status	ili:provisional .
+
+<i117949>	a	<Concept> ;
+	skos:definition	"an elder sibling of a person"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-El-Sb> ;
+	ili:status	ili:provisional .
+
+<i117950>	a	<Concept> ;
+	skos:definition	"a younger sibling of a person"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Yn-Sb> ;
+	ili:status	ili:provisional .
+
+<i117951>	a	<Concept> ;
+	skos:definition	"an elder brother of a man (a sibling)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-x-El-Br> ;
+	ili:status	ili:provisional .
+
+<i117952>	a	<Concept> ;
+	skos:definition	"an elder brother of a woman (a sibling)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-o-El-Br> ;
+	ili:status	ili:provisional .
+
+<i117953>	a	<Concept> ;
+	skos:definition	"an elder sister of a man (a sibling)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-x-El-Ss> ;
+	ili:status	ili:provisional .
+
+<i117954>	a	<Concept> ;
+	skos:definition	"an elder sister of a woman (a sibling)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-o-El-Ss> ;
+	ili:status	ili:provisional .
+
+<i117955>	a	<Concept> ;
+	skos:definition	"a younger brother of a man (a sibling)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-x-Yn-Br> ;
+	ili:status	ili:provisional .
+
+<i117956>	a	<Concept> ;
+	skos:definition	"a younger brother of a woman (a sibling)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-o-Yn-Br> ;
+	ili:status	ili:provisional .
+
+<i117957>	a	<Concept> ;
+	skos:definition	"a younger sister of a man (a sibling)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-x-Yn-Ss> ;
+	ili:status	ili:provisional .
+
+<i117958>	a	<Concept> ;
+	skos:definition	"a younger sister of a woman (a sibling)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-o-Yn-Ss> ;
+	ili:status	ili:provisional .
+
+<i117959>	a	<Concept> ;
+	skos:definition	"a sibling of one's parent (an uncle or aunt)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Pb> ;
+	ili:status	ili:provisional .
+
+<i117960>	a	<Concept> ;
+	skos:definition	"a brother of one's parent (an uncle or aunt)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Pa-Br> ;
+	ili:status	ili:provisional .
+
+<i117961>	a	<Concept> ;
+	skos:definition	"a sister of one's parent (an uncle or aunt)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Pa-Ss> ;
+	ili:status	ili:provisional .
+
+<i117962>	a	<Concept> ;
+	skos:definition	"a sibling of one's father (an uncle or aunt)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Fa-Sb> ;
+	ili:status	ili:provisional .
+
+<i117963>	a	<Concept> ;
+	skos:definition	"a sibling of one's mother (an uncle or aunt)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Mo-Sb> ;
+	ili:status	ili:provisional .
+
+<i117964>	a	<Concept> ;
+	skos:definition	"a brother of one's father (an uncle or aunt)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Fa-Br> ;
+	ili:status	ili:provisional .
+
+<i117965>	a	<Concept> ;
+	skos:definition	"a brother of one's mother (an uncle or aunt)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Mo-Br> ;
+	ili:status	ili:provisional .
+
+<i117966>	a	<Concept> ;
+	skos:definition	"a sister of one's father (an uncle or aunt)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Fa-Ss> ;
+	ili:status	ili:provisional .
+
+<i117967>	a	<Concept> ;
+	skos:definition	"a sister of one's mother (an uncle or aunt)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Mo-Ss> ;
+	ili:status	ili:provisional .
+
+<i117968>	a	<Concept> ;
+	skos:definition	"a sister of a man's parent (an uncle or aunt)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-x-Pa-Ss> ;
+	ili:status	ili:provisional .
+
+<i117969>	a	<Concept> ;
+	skos:definition	"a brother of a man's mother (an uncle or aunt)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-x-Mo-Br> ;
+	ili:status	ili:provisional .
+
+<i117970>	a	<Concept> ;
+	skos:definition	"a brother of a woman's mother (an uncle or aunt)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-o-Mo-Br> ;
+	ili:status	ili:provisional .
+
+<i117971>	a	<Concept> ;
+	skos:definition	"a sister of a man's father (an uncle or aunt)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-x-Fa-Ss> ;
+	ili:status	ili:provisional .
+
+<i117972>	a	<Concept> ;
+	skos:definition	"a sister of a woman's father (an uncle or aunt)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-o-Fa-Ss> ;
+	ili:status	ili:provisional .
+
+<i117973>	a	<Concept> ;
+	skos:definition	"an elder brother of one's parent (an uncle or aunt)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Pa-El-Br> ;
+	ili:status	ili:provisional .
+
+<i117974>	a	<Concept> ;
+	skos:definition	"an elder sister of one's parent (an uncle or aunt)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Pa-El-Ss> ;
+	ili:status	ili:provisional .
+
+<i117975>	a	<Concept> ;
+	skos:definition	"a younger brother of one's parent (an uncle or aunt)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Pa-Yn-Br> ;
+	ili:status	ili:provisional .
+
+<i117976>	a	<Concept> ;
+	skos:definition	"a younger sister of one's parent (an uncle or aunt)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Pa-Yn-Ss> ;
+	ili:status	ili:provisional .
+
+<i117977>	a	<Concept> ;
+	skos:definition	"a younger sibling of one's father (an uncle or aunt)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Fa-Yn-Sb> ;
+	ili:status	ili:provisional .
+
+<i117978>	a	<Concept> ;
+	skos:definition	"a younger sibling of one's mother (an uncle or aunt)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Mo-Yn-Sb> ;
+	ili:status	ili:provisional .
+
+<i117979>	a	<Concept> ;
+	skos:definition	"an elder brother of one's father (an uncle or aunt)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Fa-El-Br> ;
+	ili:status	ili:provisional .
+
+<i117980>	a	<Concept> ;
+	skos:definition	"a younger brother of one's father (an uncle or aunt)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Fa-Yn-Br> ;
+	ili:status	ili:provisional .
+
+<i117981>	a	<Concept> ;
+	skos:definition	"an elder sister of one's father (an uncle or aunt)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Fa-El-Ss> ;
+	ili:status	ili:provisional .
+
+<i117982>	a	<Concept> ;
+	skos:definition	"a younger sister of one's father (an uncle or aunt)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Fa-Yn-Ss> ;
+	ili:status	ili:provisional .
+
+<i117983>	a	<Concept> ;
+	skos:definition	"an elder brother of one's mother (an uncle or aunt)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Mo-El-Br> ;
+	ili:status	ili:provisional .
+
+<i117984>	a	<Concept> ;
+	skos:definition	"a younger brother of one's mother (an uncle or aunt)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Mo-Yn-Br> ;
+	ili:status	ili:provisional .
+
+<i117985>	a	<Concept> ;
+	skos:definition	"an elder sister of one's mother (an uncle or aunt)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Mo-El-Ss> ;
+	ili:status	ili:provisional .
+
+<i117986>	a	<Concept> ;
+	skos:definition	"a younger sister of one's mother (an uncle or aunt)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Mo-Yn-Ss> ;
+	ili:status	ili:provisional .
+
+<i117987>	a	<Concept> ;
+	skos:definition	"a child of one's sibling (a nephew or niece)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Sb-Ch> ;
+	ili:status	ili:provisional .
+
+<i117988>	a	<Concept> ;
+	skos:definition	"a child of one's brother (a nephew or niece)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Br-Ch> ;
+	ili:status	ili:provisional .
+
+<i117989>	a	<Concept> ;
+	skos:definition	"a child of one's sister (a nephew or niece)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Ss-Ch> ;
+	ili:status	ili:provisional .
+
+<i117990>	a	<Concept> ;
+	skos:definition	"a child of a woman's brother (a nephew or niece)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-o-Br-Ch> ;
+	ili:status	ili:provisional .
+
+<i117991>	a	<Concept> ;
+	skos:definition	"a child of a man's sister (a nephew or niece)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-x-Ss-Ch> ;
+	ili:status	ili:provisional .
+
+<i117992>	a	<Concept> ;
+	skos:definition	"a son of one's brother (a nephew or niece)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Br-So> ;
+	ili:status	ili:provisional .
+
+<i117993>	a	<Concept> ;
+	skos:definition	"a daughter of one's brother (a nephew or niece)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Br-Da> ;
+	ili:status	ili:provisional .
+
+<i117994>	a	<Concept> ;
+	skos:definition	"a son of one's sister (a nephew or niece)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Ss-So> ;
+	ili:status	ili:provisional .
+
+<i117995>	a	<Concept> ;
+	skos:definition	"a daughter of one's sister (a nephew or niece)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Ss-Da> ;
+	ili:status	ili:provisional .
+
+<i117996>	a	<Concept> ;
+	skos:definition	"a son of a man's brother (a nephew or niece)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-x-Br-So> ;
+	ili:status	ili:provisional .
+
+<i117997>	a	<Concept> ;
+	skos:definition	"a son of a woman's brother (a nephew or niece)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-o-Br-So> ;
+	ili:status	ili:provisional .
+
+<i117998>	a	<Concept> ;
+	skos:definition	"a daughter of a man's brother (a nephew or niece)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-x-Br-Da> ;
+	ili:status	ili:provisional .
+
+<i117999>	a	<Concept> ;
+	skos:definition	"a son of a man's sister (a nephew or niece)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-x-Ss-So> ;
+	ili:status	ili:provisional .
+
+<i118000>	a	<Concept> ;
+	skos:definition	"a son of a woman's sister (a nephew or niece)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-o-Ss-So> ;
+	ili:status	ili:provisional .
+
+<i118001>	a	<Concept> ;
+	skos:definition	"a daughter of a woman's sister (a nephew or niece)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-o-Ss-Da> ;
+	ili:status	ili:provisional .
+
+<i118002>	a	<Concept> ;
+	skos:definition	"a child of one's elder brother (a nephew or niece)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-El-Br-Ch> ;
+	ili:status	ili:provisional .
+
+<i118003>	a	<Concept> ;
+	skos:definition	"a child of one's younger brother (a nephew or niece)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Yn-Br-Ch> ;
+	ili:status	ili:provisional .
+
+<i118004>	a	<Concept> ;
+	skos:definition	"a child of one's elder sister (a nephew or niece)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-El-Ss-Ch> ;
+	ili:status	ili:provisional .
+
+<i118005>	a	<Concept> ;
+	skos:definition	"a child of one's younger sister (a nephew or niece)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Yn-Ss-Ch> ;
+	ili:status	ili:provisional .
+
+<i118006>	a	<Concept> ;
+	skos:definition	"a child of a man's elder brother (a nephew or niece)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-x-El-Br-Ch> ;
+	ili:status	ili:provisional .
+
+<i118007>	a	<Concept> ;
+	skos:definition	"a child of a man's younger brother (a nephew or niece)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-x-Yn-Br-Ch> ;
+	ili:status	ili:provisional .
+
+<i118008>	a	<Concept> ;
+	skos:definition	"a child of a woman's elder sister (a nephew or niece)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-o-El-Ss-Ch> ;
+	ili:status	ili:provisional .
+
+<i118009>	a	<Concept> ;
+	skos:definition	"a child of a woman's younger sister (a nephew or niece)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-o-Yn-Ss-Ch> ;
+	ili:status	ili:provisional .
+
+<i118010>	a	<Concept> ;
+	skos:definition	"a son of one's elder brother (a nephew or niece)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-El-Br-So> ;
+	ili:status	ili:provisional .
+
+<i118011>	a	<Concept> ;
+	skos:definition	"a daughter of one's elder brother (a nephew or niece)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-El-Br-Da> ;
+	ili:status	ili:provisional .
+
+<i118012>	a	<Concept> ;
+	skos:definition	"a son of one's younger brother (a nephew or niece)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Yn-Br-So> ;
+	ili:status	ili:provisional .
+
+<i118013>	a	<Concept> ;
+	skos:definition	"a daughter of one's younger brother (a nephew or niece)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Yn-Br-Da> ;
+	ili:status	ili:provisional .
+
+<i118014>	a	<Concept> ;
+	skos:definition	"a son of one's elder sister (a nephew or niece)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-El-Ss-So> ;
+	ili:status	ili:provisional .
+
+<i118015>	a	<Concept> ;
+	skos:definition	"a daughter of one's elder sister (a nephew or niece)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-El-Ss-Da> ;
+	ili:status	ili:provisional .
+
+<i118016>	a	<Concept> ;
+	skos:definition	"a son of one's younger sister (a nephew or niece)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Yn-Ss-So> ;
+	ili:status	ili:provisional .
+
+<i118017>	a	<Concept> ;
+	skos:definition	"a daughter of one's younger sister (a nephew or niece)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Yn-Ss-Da> ;
+	ili:status	ili:provisional .
+
+<i118018>	a	<Concept> ;
+	skos:definition	"a child of a woman's parent's sibling (a cousin)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-o-Pa-Sb-Ch> ;
+	ili:status	ili:provisional .
+
+<i118019>	a	<Concept> ;
+	skos:definition	"a son of one's parent's sibling (a cousin)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Pa-Sb-So> ;
+	ili:status	ili:provisional .
+
+<i118020>	a	<Concept> ;
+	skos:definition	"a daughter of one's parent's sibling (a cousin)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Pa-Sb-Da> ;
+	ili:status	ili:provisional .
+
+<i118021>	a	<Concept> ;
+	skos:definition	"a son of a man's parent's sibling (a cousin)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-x-Pa-Sb-So> ;
+	ili:status	ili:provisional .
+
+<i118022>	a	<Concept> ;
+	skos:definition	"a son of a woman's parent's sibling (a cousin)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-o-Pa-Sb-So> ;
+	ili:status	ili:provisional .
+
+<i118023>	a	<Concept> ;
+	skos:definition	"a daughter of a man's parent's sibling (a cousin)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-x-Pa-Sb-Da> ;
+	ili:status	ili:provisional .
+
+<i118024>	a	<Concept> ;
+	skos:definition	"a child of one's parent's sibling, who is older than oneself (a cousin)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-El-Pa-Sb-Ch> ;
+	ili:status	ili:provisional .
+
+<i118025>	a	<Concept> ;
+	skos:definition	"a child of one's parent's sibling, who is younger than oneself (a cousin)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Yn-Pa-Sb-Ch> ;
+	ili:status	ili:provisional .
+
+<i118026>	a	<Concept> ;
+	skos:definition	"a son of one's parent's sibling, who is older than oneself (a cousin)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-El-Pa-Sb-So> ;
+	ili:status	ili:provisional .
+
+<i118027>	a	<Concept> ;
+	skos:definition	"a daughter of one's parent's sibling, who is older than oneself (a cousin)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-El-Pa-Sb-Da> ;
+	ili:status	ili:provisional .
+
+<i118028>	a	<Concept> ;
+	skos:definition	"a son of one's parent's sibling, who is younger than oneself (a cousin)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Yn-Pa-Sb-So> ;
+	ili:status	ili:provisional .
+
+<i118029>	a	<Concept> ;
+	skos:definition	"a daughter of one's parent's sibling, who is younger than oneself (a cousin)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Yn-Pa-Sb-Da> ;
+	ili:status	ili:provisional .
+
+<i118030>	a	<Concept> ;
+	skos:definition	"a son of a man's parent's sibling, who is older than him (a cousin)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-x-El-Pa-Sb-So> ;
+	ili:status	ili:provisional .
+
+<i118031>	a	<Concept> ;
+	skos:definition	"a daughter of a woman's parent's sibling, who is older than her (a cousin)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-o-El-Pa-Sb-Da> ;
+	ili:status	ili:provisional .
+
+<i118032>	a	<Concept> ;
+	skos:definition	"a son of a man's parent's sibling, who is younger than him (a cousin)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-x-Yn-Pa-Sb-So> ;
+	ili:status	ili:provisional .
+
+<i118033>	a	<Concept> ;
+	skos:definition	"a daughter of a woman's parent's sibling, who is younger than her (a cousin)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-o-Yn-Pa-Sb-Da> ;
+	ili:status	ili:provisional .
+
+<i118034>	a	<Concept> ;
+	skos:definition	"a child of one's father's sibling (a cousin)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Fa-Sb-Ch> ;
+	ili:status	ili:provisional .
+
+<i118035>	a	<Concept> ;
+	skos:definition	"a child of one's mother's sibling (a cousin)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Mo-Sb-Ch> ;
+	ili:status	ili:provisional .
+
+<i118036>	a	<Concept> ;
+	skos:definition	"a child of one's parent's brother (a cousin)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Pa-Br-Ch> ;
+	ili:status	ili:provisional .
+
+<i118037>	a	<Concept> ;
+	skos:definition	"a child of one's parent's sister (a cousin)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Pa-Ss-Ch> ;
+	ili:status	ili:provisional .
+
+<i118038>	a	<Concept> ;
+	skos:definition	"a child of one's father's brother (a cousin)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Fa-Br-Ch> ;
+	ili:status	ili:provisional .
+
+<i118039>	a	<Concept> ;
+	skos:definition	"a child of one's father's sister (a cousin)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Fa-Ss-Ch> ;
+	ili:status	ili:provisional .
+
+<i118040>	a	<Concept> ;
+	skos:definition	"a child of one's mother's brother (a cousin)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Mo-Br-Ch> ;
+	ili:status	ili:provisional .
+
+<i118041>	a	<Concept> ;
+	skos:definition	"a child of one's mother's sister (a cousin)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Mo-Ss-Ch> ;
+	ili:status	ili:provisional .
+
+<i118042>	a	<Concept> ;
+	skos:definition	"a son of one's parent's brother (a cousin)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Pa-Br-So> ;
+	ili:status	ili:provisional .
+
+<i118043>	a	<Concept> ;
+	skos:definition	"a daughter of one's parent's brother (a cousin)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Pa-Br-Da> ;
+	ili:status	ili:provisional .
+
+<i118044>	a	<Concept> ;
+	skos:definition	"a son of one's parent's sister (a cousin)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Pa-Ss-So> ;
+	ili:status	ili:provisional .
+
+<i118045>	a	<Concept> ;
+	skos:definition	"a daughter of one's parent's sister (a cousin)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Pa-Ss-Da> ;
+	ili:status	ili:provisional .
+
+<i118046>	a	<Concept> ;
+	skos:definition	"a son of one's mother's sibling (a cousin)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Mo-Sb-So> ;
+	ili:status	ili:provisional .
+
+<i118047>	a	<Concept> ;
+	skos:definition	"a daughter of one's mother's sibling (a cousin)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Mo-Sb-Da> ;
+	ili:status	ili:provisional .
+
+<i118048>	a	<Concept> ;
+	skos:definition	"a son of one's father's brother (a cousin)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Fa-Br-So> ;
+	ili:status	ili:provisional .
+
+<i118049>	a	<Concept> ;
+	skos:definition	"a daughter of one's father's brother (a cousin)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Fa-Br-Da> ;
+	ili:status	ili:provisional .
+
+<i118050>	a	<Concept> ;
+	skos:definition	"a son of one's father's sister (a cousin)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Fa-Ss-So> ;
+	ili:status	ili:provisional .
+
+<i118051>	a	<Concept> ;
+	skos:definition	"a daughter of one's father's sister (a cousin)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Fa-Ss-Da> ;
+	ili:status	ili:provisional .
+
+<i118052>	a	<Concept> ;
+	skos:definition	"a son of one's mother's brother (a cousin)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Mo-Br-So> ;
+	ili:status	ili:provisional .
+
+<i118053>	a	<Concept> ;
+	skos:definition	"a daughter of one's mother's brother (a cousin)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Mo-Br-Da> ;
+	ili:status	ili:provisional .
+
+<i118054>	a	<Concept> ;
+	skos:definition	"a son of one's mother's sister (a cousin)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Mo-Ss-So> ;
+	ili:status	ili:provisional .
+
+<i118055>	a	<Concept> ;
+	skos:definition	"a daughter of one's mother's sister (a cousin)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Mo-Ss-Da> ;
+	ili:status	ili:provisional .
+
+<i118056>	a	<Concept> ;
+	skos:definition	"a son of a man's father's brother (a cousin)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-x-Fa-Br-So> ;
+	ili:status	ili:provisional .
+
+<i118057>	a	<Concept> ;
+	skos:definition	"a son of a woman's father's brother (a cousin)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-o-Fa-Br-So> ;
+	ili:status	ili:provisional .
+
+<i118058>	a	<Concept> ;
+	skos:definition	"a daughter of a man's father's brother (a cousin)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-x-Fa-Br-Da> ;
+	ili:status	ili:provisional .
+
+<i118059>	a	<Concept> ;
+	skos:definition	"a daughter of a woman's father's brother (a cousin)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-o-Fa-Br-Da> ;
+	ili:status	ili:provisional .
+
+<i118060>	a	<Concept> ;
+	skos:definition	"a son of a man's mother's sister (a cousin)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-x-Mo-Ss-So> ;
+	ili:status	ili:provisional .
+
+<i118061>	a	<Concept> ;
+	skos:definition	"a son of a woman's mother's sister (a cousin)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-o-Mo-Ss-So> ;
+	ili:status	ili:provisional .
+
+<i118062>	a	<Concept> ;
+	skos:definition	"a daughter of a man's mother's sister (a cousin)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-x-Mo-Ss-Da> ;
+	ili:status	ili:provisional .
+
+<i118063>	a	<Concept> ;
+	skos:definition	"a daughter of a woman's mother's sister (a cousin)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-o-Mo-Ss-Da> ;
+	ili:status	ili:provisional .
+
+<i118064>	a	<Concept> ;
+	skos:definition	"a son of one's father's brother, who is older than oneself (a cousin)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-El-Fa-Br-So> ;
+	ili:status	ili:provisional .
+
+<i118065>	a	<Concept> ;
+	skos:definition	"a son of one's father's brother, who is younger than oneself (a cousin)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Yn-Fa-Br-So> ;
+	ili:status	ili:provisional .
+
+<i118066>	a	<Concept> ;
+	skos:definition	"a daughter of one's father's brother, who is older than oneself (a cousin)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-El-Fa-Br-Da> ;
+	ili:status	ili:provisional .
+
+<i118067>	a	<Concept> ;
+	skos:definition	"a daughter of one's father's brother, who is younger than oneself (a cousin)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Yn-Fa-Br-Da> ;
+	ili:status	ili:provisional .
+
+<i118068>	a	<Concept> ;
+	skos:definition	"a son of one's father's sister, who is older than oneself (a cousin)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-El-Fa-Ss-So> ;
+	ili:status	ili:provisional .
+
+<i118069>	a	<Concept> ;
+	skos:definition	"a son of one's father's sister, who is younger than oneself (a cousin)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Yn-Fa-Ss-So> ;
+	ili:status	ili:provisional .
+
+<i118070>	a	<Concept> ;
+	skos:definition	"a daughter of one's father's sister, who is older than oneself (a cousin)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-El-Fa-Ss-Da> ;
+	ili:status	ili:provisional .
+
+<i118071>	a	<Concept> ;
+	skos:definition	"a daughter of one's father's sister, who is younger than oneself (a cousin)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Yn-Fa-Ss-Da> ;
+	ili:status	ili:provisional .
+
+<i118072>	a	<Concept> ;
+	skos:definition	"a son of one's mother's sibling, who is older than oneself (a cousin)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-El-Mo-Sb-So> ;
+	ili:status	ili:provisional .
+
+<i118073>	a	<Concept> ;
+	skos:definition	"a son of one's mother's sibling, who is younger than oneself (a cousin)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Yn-Mo-Sb-So> ;
+	ili:status	ili:provisional .
+
+<i118074>	a	<Concept> ;
+	skos:definition	"a daughter of one's mother's sibling, who is older than oneself (a cousin)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-El-Mo-Sb-Da> ;
+	ili:status	ili:provisional .
+
+<i118075>	a	<Concept> ;
+	skos:definition	"a daughter of one's mother's sibling, who is younger than oneself (a cousin)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Yn-Mo-Sb-Da> ;
+	ili:status	ili:provisional .
+
+<i118076>	a	<Concept> ;
+	skos:definition	"a son of one's mother's sister, who is older than oneself (a cousin)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-El-Mo-Ss-So> ;
+	ili:status	ili:provisional .
+
+<i118077>	a	<Concept> ;
+	skos:definition	"a son of one's mother's sister, who is younger than oneself (a cousin)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Yn-Mo-Ss-So> ;
+	ili:status	ili:provisional .
+
+<i118078>	a	<Concept> ;
+	skos:definition	"a daughter of one's mother's sister, who is older than oneself (a cousin)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-El-Mo-Ss-Da> ;
+	ili:status	ili:provisional .
+
+<i118079>	a	<Concept> ;
+	skos:definition	"a daughter of one's mother's sister, who is younger than oneself (a cousin)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Yn-Mo-Ss-Da> ;
+	ili:status	ili:provisional .
+
+<i118080>	a	<Concept> ;
+	skos:definition	"a son of one's mother's brother, who is older than oneself (a cousin)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-El-Mo-Br-So> ;
+	ili:status	ili:provisional .
+
+<i118081>	a	<Concept> ;
+	skos:definition	"a son of one's mother's brother, who is younger than oneself (a cousin)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Yn-Mo-Br-So> ;
+	ili:status	ili:provisional .
+
+<i118082>	a	<Concept> ;
+	skos:definition	"a daughter of one's mother's brother, who is older than oneself (a cousin)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-El-Mo-Br-Da> ;
+	ili:status	ili:provisional .
+
+<i118083>	a	<Concept> ;
+	skos:definition	"a daughter of one's mother's brother, who is younger than oneself (a cousin)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Yn-Mo-Br-Da> ;
+	ili:status	ili:provisional .
+
+<i118084>	a	<Concept> ;
+	skos:definition	"the husband of one's parent's sister (an uncle or aunt)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Pa-Ss-Hu> ;
+	ili:status	ili:provisional .
+
+<i118085>	a	<Concept> ;
+	skos:definition	"the husband of one's father's sister (an uncle or aunt)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Fa-Ss-Hu> ;
+	ili:status	ili:provisional .
+
+<i118086>	a	<Concept> ;
+	skos:definition	"the husband of one's mother's sister (an uncle or aunt)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Mo-Ss-Hu> ;
+	ili:status	ili:provisional .
+
+<i118087>	a	<Concept> ;
+	skos:definition	"the wife of one's parent's brother (an uncle or aunt)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Pa-Br-Wi> ;
+	ili:status	ili:provisional .
+
+<i118088>	a	<Concept> ;
+	skos:definition	"the wife of one's father's brother (an uncle or aunt)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Fa-Br-Wi> ;
+	ili:status	ili:provisional .
+
+<i118089>	a	<Concept> ;
+	skos:definition	"the wife of one's father's elder brother (an uncle or aunt)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Fa-El-Br-Wi> ;
+	ili:status	ili:provisional .
+
+<i118090>	a	<Concept> ;
+	skos:definition	"the wife of one's father's younger brother (an uncle or aunt)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Fa-Yn-Br-Wi> ;
+	ili:status	ili:provisional .
+
+<i118091>	a	<Concept> ;
+	skos:definition	"a parent of one's spouse (an in-law)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Sp-Pa> ;
+	ili:status	ili:provisional .
+
+<i118092>	a	<Concept> ;
+	skos:definition	"a spouse of one's child (an in-law)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Ch-Sp> ;
+	ili:status	ili:provisional .
+
+<i118093>	a	<Concept> ;
+	skos:definition	"a sister by marriage: a sister of one's spouse or the wife of one's brother"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-SsL> ;
+	ili:status	ili:provisional .
+
+<i118094>	a	<Concept> ;
+	skos:definition	"a brother of one's spouse (an in-law)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Sp-Br> ;
+	ili:status	ili:provisional .
+
+<i118095>	a	<Concept> ;
+	skos:definition	"the husband of one's sister (an in-law)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Ss-Hu> ;
+	ili:status	ili:provisional .
+
+<i118096>	a	<Concept> ;
+	skos:definition	"the wife of one's brother (an in-law)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Br-Wi> ;
+	ili:status	ili:provisional .
+
+<i118097>	a	<Concept> ;
+	skos:definition	"the father of a person or a brother of one's father"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Fa_Fa-Br> ;
+	ili:status	ili:provisional .
+
+<i118098>	a	<Concept> ;
+	skos:definition	"the mother of a person or a sister of one's mother"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Mo_Mo-Ss> ;
+	ili:status	ili:provisional .
+
+<i118099>	a	<Concept> ;
+	skos:definition	"a child of one's father's sister or a child of one's mother's brother"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Fa-Ss-Ch_Mo-Br-Ch> ;
+	ili:status	ili:provisional .
+
+<i118100>	a	<Concept> ;
+	skos:definition	"a daughter of a man's sister (a nephew or niece)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-x-Ss-Da> ;
+	ili:status	ili:provisional .
+
+<i118101>	a	<Concept> ;
+	skos:definition	"a child of one's child or a parent of one's parent"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Ch-Ch_Pa-Pa> ;
+	ili:status	ili:provisional .
+
+<i118102>	a	<Concept> ;
+	skos:definition	"the mother of a person or a sister of one's parent"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Mo_Pa-Ss> ;
+	ili:status	ili:provisional .
+
+<i118103>	a	<Concept> ;
+	skos:definition	"the mother of one's wife (an in-law)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Wi-Mo> ;
+	ili:status	ili:provisional .
+
+<i118104>	a	<Concept> ;
+	skos:definition	"the father of one's husband (an in-law)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Hu-Fa> ;
+	ili:status	ili:provisional .
+
+<i118105>	a	<Concept> ;
+	skos:definition	"a daughter of a man (a child)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-x-Da> ;
+	ili:status	ili:provisional .
+
+<i118106>	a	<Concept> ;
+	skos:definition	"a son of one's father's sister or a son of one's mother's brother"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Fa-Ss-So_Mo-Br-So> ;
+	ili:status	ili:provisional .
+
+<i118107>	a	<Concept> ;
+	skos:definition	"the mother of one's husband (an in-law)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Hu-Mo> ;
+	ili:status	ili:provisional .
+
+<i118108>	a	<Concept> ;
+	skos:definition	"a child of one's parent's sibling or a sibling of a person"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Pa-Sb-Ch_Sb> ;
+	ili:status	ili:provisional .
+
+<i118109>	a	<Concept> ;
+	skos:definition	"a son of one's brother or a son of a person"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Br-So_So> ;
+	ili:status	ili:provisional .
+
+<i118110>	a	<Concept> ;
+	skos:definition	"a daughter of one's father's sister or a daughter of one's mother's brother"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Fa-Ss-Da_Mo-Br-Da> ;
+	ili:status	ili:provisional .
+
+<i118111>	a	<Concept> ;
+	skos:definition	"a brother of a woman or a sister of a man"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-o-Br_x-Ss> ;
+	ili:status	ili:provisional .
+
+<i118112>	a	<Concept> ;
+	skos:definition	"the father of one's wife (an in-law)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Wi-Fa> ;
+	ili:status	ili:provisional .
+
+<i118113>	a	<Concept> ;
+	skos:definition	"a child of a person or a child of one's sibling"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Ch_Sb-Ch> ;
+	ili:status	ili:provisional .
+
+<i118114>	a	<Concept> ;
+	skos:definition	"a brother of one's mother or a son of one's mother's brother"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Mo-Br_Mo-Br-So> ;
+	ili:status	ili:provisional .
+
+<i118115>	a	<Concept> ;
+	skos:definition	"a daughter of one's brother or a daughter of a person"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Br-Da_Da> ;
+	ili:status	ili:provisional .
+
+<i118116>	a	<Concept> ;
+	skos:definition	"an elder brother of a person or a son of one's parent's sibling, who is older than oneself"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-El-Br_El-Pa-Sb-So> ;
+	ili:status	ili:provisional .
+
+<i118117>	a	<Concept> ;
+	skos:definition	"a son of a woman's brother or a son of a man's sister"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-o-Br-So_x-Ss-So> ;
+	ili:status	ili:provisional .
+
+<i118118>	a	<Concept> ;
+	skos:definition	"a son of a man (a child)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-x-So> ;
+	ili:status	ili:provisional .
+
+<i118119>	a	<Concept> ;
+	skos:definition	"a brother of one's mother or a child of one's sister"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Mo-Br_Ss-Ch> ;
+	ili:status	ili:provisional .
+
+<i118120>	a	<Concept> ;
+	skos:definition	"a younger sister of a woman or a younger brother of a man"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-o-Yn-Ss_x-Yn-Br> ;
+	ili:status	ili:provisional .
+
+<i118121>	a	<Concept> ;
+	skos:definition	"a son of one's child or the father of one's parent"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Ch-So_Pa-Fa> ;
+	ili:status	ili:provisional .
+
+<i118122>	a	<Concept> ;
+	skos:definition	"a son of a woman's father's sister or a son of a woman's mother's brother"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-o-Fa-Ss-So_o-Mo-Br-So> ;
+	ili:status	ili:provisional .
+
+<i118123>	a	<Concept> ;
+	skos:definition	"a brother of one's wife (an in-law)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Wi-Br> ;
+	ili:status	ili:provisional .
+
+<i118124>	a	<Concept> ;
+	skos:definition	"a sister of one's husband (an in-law)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Hu-Ss> ;
+	ili:status	ili:provisional .
+
+<i118125>	a	<Concept> ;
+	skos:definition	"a brother of a woman or a son of a woman's parent's sibling"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-o-Br_o-Pa-Sb-So> ;
+	ili:status	ili:provisional .
+
+<i118126>	a	<Concept> ;
+	skos:definition	"a daughter of a man's parent's sibling or a sister of a man"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-x-Pa-Sb-Da_x-Ss> ;
+	ili:status	ili:provisional .
+
+<i118127>	a	<Concept> ;
+	skos:definition	"a son of one's sibling or a son of a person"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Sb-So_So> ;
+	ili:status	ili:provisional .
+
+<i118128>	a	<Concept> ;
+	skos:definition	"a daughter of one's child or the mother of one's parent"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Ch-Da_Pa-Mo> ;
+	ili:status	ili:provisional .
+
+<i118129>	a	<Concept> ;
+	skos:definition	"a brother of one's mother or a child of a man's sister"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Mo-Br_x-Ss-Ch> ;
+	ili:status	ili:provisional .
+
+<i118130>	a	<Concept> ;
+	skos:definition	"the father of one's father or a child of a man's son"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Fa-Fa_x-So-Ch> ;
+	ili:status	ili:provisional .
+
+<i118131>	a	<Concept> ;
+	skos:definition	"a daughter of a woman's brother (a nephew or niece)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-o-Br-Da> ;
+	ili:status	ili:provisional .
+
+<i118132>	a	<Concept> ;
+	skos:definition	"an elder sister of a woman or an elder brother of a man"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-o-El-Ss_x-El-Br> ;
+	ili:status	ili:provisional .
+
+<i118133>	a	<Concept> ;
+	skos:definition	"a daughter of a person or a daughter of one's sibling"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Da_Sb-Da> ;
+	ili:status	ili:provisional .
+
+<i118134>	a	<Concept> ;
+	skos:definition	"a child of one's brother or a child of a person"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Br-Ch_Ch> ;
+	ili:status	ili:provisional .
+
+<i118135>	a	<Concept> ;
+	skos:definition	"a son or daughter of a woman"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-o-Ch> ;
+	ili:status	ili:provisional .
+
+<i118136>	a	<Concept> ;
+	skos:definition	"the father of one's mother or a child of a man's daughter"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Mo-Fa_x-Da-Ch> ;
+	ili:status	ili:provisional .
+
+<i118137>	a	<Concept> ;
+	skos:definition	"the mother of one's father or a child of a woman's son"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Fa-Mo_o-So-Ch> ;
+	ili:status	ili:provisional .
+
+<i118138>	a	<Concept> ;
+	skos:definition	"a son of a man's father's sister or a son of a man's mother's brother"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-x-Fa-Ss-So_x-Mo-Br-So> ;
+	ili:status	ili:provisional .
+
+<i118139>	a	<Concept> ;
+	skos:definition	"a daughter of a woman (a child)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-o-Da> ;
+	ili:status	ili:provisional .
+
+<i118140>	a	<Concept> ;
+	skos:definition	"a son of a man's father's sister (a cousin)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-x-Fa-Ss-So> ;
+	ili:status	ili:provisional .
+
+<i118141>	a	<Concept> ;
+	skos:definition	"a daughter of a man's father's sister or a daughter of a man's mother's brother"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-x-Fa-Ss-Da_x-Mo-Br-Da> ;
+	ili:status	ili:provisional .
+
+<i118142>	a	<Concept> ;
+	skos:definition	"a daughter of a woman's father's sister, who is older than her (a cousin)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-o-El-Fa-Ss-Da> ;
+	ili:status	ili:provisional .
+
+<i118143>	a	<Concept> ;
+	skos:definition	"a child of a woman's sister (a nephew or niece)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-o-Ss-Ch> ;
+	ili:status	ili:provisional .
+
+<i118144>	a	<Concept> ;
+	skos:definition	"a brother of a person or a son of one's parent's sibling"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Br_Pa-Sb-So> ;
+	ili:status	ili:provisional .
+
+<i118145>	a	<Concept> ;
+	skos:definition	"a daughter of one's parent's sibling or a sister of a person"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Pa-Sb-Da_Ss> ;
+	ili:status	ili:provisional .
+
+<i118146>	a	<Concept> ;
+	skos:definition	"a daughter of a woman's father's sister or a daughter of a woman's mother's brother"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-o-Fa-Ss-Da_o-Mo-Br-Da> ;
+	ili:status	ili:provisional .
+
+<i118147>	a	<Concept> ;
+	skos:definition	"a child of one's child or a child of one's sibling"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Ch-Ch_Sb-Ch> ;
+	ili:status	ili:provisional .
+
+<i118148>	a	<Concept> ;
+	skos:definition	"a daughter of a woman's mother's brother, who is older than her (a cousin)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-o-El-Mo-Br-Da> ;
+	ili:status	ili:provisional .
+
+<i118149>	a	<Concept> ;
+	skos:definition	"a son of a woman (a child)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-o-So> ;
+	ili:status	ili:provisional .
+
+<i118150>	a	<Concept> ;
+	skos:definition	"a son of a woman's mother's sister, who is younger than her (a cousin)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-o-Yn-Mo-Ss-So> ;
+	ili:status	ili:provisional .
+
+<i118151>	a	<Concept> ;
+	skos:definition	"a child of a man's brother (a nephew or niece)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-x-Br-Ch> ;
+	ili:status	ili:provisional .
+
+<i118152>	a	<Concept> ;
+	skos:definition	"a brother of one's husband (an in-law)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Hu-Br> ;
+	ili:status	ili:provisional .
+
+<i118153>	a	<Concept> ;
+	skos:definition	"a daughter of a man's father's sister (a cousin)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-x-Fa-Ss-Da> ;
+	ili:status	ili:provisional .
+
+<i118154>	a	<Concept> ;
+	skos:definition	"a daughter of a man's father's brother, who is younger than him (a cousin)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-x-Yn-Fa-Br-Da> ;
+	ili:status	ili:provisional .
+
+<i118155>	a	<Concept> ;
+	skos:definition	"a daughter of a woman's father's sister (a cousin)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-o-Fa-Ss-Da> ;
+	ili:status	ili:provisional .
+
+<i118156>	a	<Concept> ;
+	skos:definition	"a daughter of a man's mother's sister, who is older than him (a cousin)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-x-El-Mo-Ss-Da> ;
+	ili:status	ili:provisional .
+
+<i118157>	a	<Concept> ;
+	skos:definition	"a sibling of one's spouse (an in-law)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Sp-Sb> ;
+	ili:status	ili:provisional .
+
+<i118158>	a	<Concept> ;
+	skos:definition	"a daughter of a woman's mother's brother, who is younger than her (a cousin)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-o-Yn-Mo-Br-Da> ;
+	ili:status	ili:provisional .
+
+<i118159>	a	<Concept> ;
+	skos:definition	"a child of a woman's sibling (a nephew or niece)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-o-Sb-Ch> ;
+	ili:status	ili:provisional .
+
+<i118160>	a	<Concept> ;
+	skos:definition	"a daughter of a man's father's sister, who is older than him (a cousin)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-x-El-Fa-Ss-Da> ;
+	ili:status	ili:provisional .
+
+<i118161>	a	<Concept> ;
+	skos:definition	"the father of a man (a parent)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-x-Fa> ;
+	ili:status	ili:provisional .
+
+<i118162>	a	<Concept> ;
+	skos:definition	"the father of a woman (a parent)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-o-Fa> ;
+	ili:status	ili:provisional .
+
+<i118163>	a	<Concept> ;
+	skos:definition	"a sister of one's wife (an in-law)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Wi-Ss> ;
+	ili:status	ili:provisional .
+
+<i118164>	a	<Concept> ;
+	skos:definition	"a daughter of a woman's mother's sister, who is younger than her (a cousin)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-o-Yn-Mo-Ss-Da> ;
+	ili:status	ili:provisional .
+
+<i118165>	a	<Concept> ;
+	skos:definition	"a son or daughter of a man"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-x-Ch> ;
+	ili:status	ili:provisional .
+
+<i118166>	a	<Concept> ;
+	skos:definition	"a son of a woman's father's sister (a cousin)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-o-Fa-Ss-So> ;
+	ili:status	ili:provisional .
+
+<i118167>	a	<Concept> ;
+	skos:definition	"a son of a woman's father's sister, who is older than her (a cousin)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-o-El-Fa-Ss-So> ;
+	ili:status	ili:provisional .
+
+<i118168>	a	<Concept> ;
+	skos:definition	"a son of a woman's mother's sister, who is older than her (a cousin)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-o-El-Mo-Ss-So> ;
+	ili:status	ili:provisional .
+
+<i118169>	a	<Concept> ;
+	skos:definition	"a son of a woman's mother's brother (a cousin)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-o-Mo-Br-So> ;
+	ili:status	ili:provisional .
+
+<i118170>	a	<Concept> ;
+	skos:definition	"the mother of a man (a parent)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-x-Mo> ;
+	ili:status	ili:provisional .
+
+<i118171>	a	<Concept> ;
+	skos:definition	"a son of one's father's sibling (a cousin)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Fa-Sb-So> ;
+	ili:status	ili:provisional .
+
+<i118172>	a	<Concept> ;
+	skos:definition	"a daughter of one's father's sibling (a cousin)"@en ;
+	dc:source	<https://omwn.org/omw-kinship/#/search?id=omw-kin-Fa-Sb-Da> ;
+	ili:status	ili:provisional .
+
