@@ -470671,3 +470671,1249 @@
 	skos:definition	"the day in 2001 when Arab suicide bombers hijacked United States airliners and used them as bombs"@en ;
 	dc:source	pwn30:15300051-n .
 
+
+<i117660>	a	<Concept> ;
+	skos:definition	"a first person or second person plural pronoun"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-1_2-Pl> ;
+	ili:status	ili:provisional .
+
+<i117661>	a	<Concept> ;
+	skos:definition	"a first person or second person plural possessive determinative"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-1_2-Pl-Poss> ;
+	ili:status	ili:provisional .
+
+<i117662>	a	<Concept> ;
+	skos:definition	"a pronoun referring to the speaker, two in all"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-1-Du> ;
+	ili:status	ili:provisional .
+
+<i117663>	a	<Concept> ;
+	skos:definition	"a possessive determinative: of or belonging to the speaker, two possessors"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-1-Du-Poss> ;
+	ili:status	ili:provisional .
+
+<i117664>	a	<Concept> ;
+	skos:definition	"a pronoun referring to the speaker, more than two in all (where a dual contrasts)"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-1-Gpl> ;
+	ili:status	ili:provisional .
+
+<i117665>	a	<Concept> ;
+	skos:definition	"a possessive determinative: of or belonging to the speaker, more than two possessors (where a dual contrasts)"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-1-Gpl-Poss> ;
+	ili:status	ili:provisional .
+
+<i117666>	a	<Concept> ;
+	skos:definition	"a pronoun referring to the speaker, more than one in all"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-1-Pl> ;
+	ili:status	ili:provisional .
+
+<i117667>	a	<Concept> ;
+	skos:definition	"a pronoun referring to the speaker, more than one in all (formal)"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-1-Pl-Fml> ;
+	ili:status	ili:provisional .
+
+<i117668>	a	<Concept> ;
+	skos:definition	"a pronoun referring to the speaker, more than one in all (formal, polite)"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-1-Pl-Fml-Pol> ;
+	ili:status	ili:provisional .
+
+<i117669>	a	<Concept> ;
+	skos:definition	"a pronoun referring to the speaker, more than one in all (informal)"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-1-Pl-Infml> ;
+	ili:status	ili:provisional .
+
+<i117670>	a	<Concept> ;
+	skos:definition	"a pronoun referring to the speaker, more than one in all (masculine, informal, men's speech)"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-1-Pl-M-Infml-Men> ;
+	ili:status	ili:provisional .
+
+<i117671>	a	<Concept> ;
+	skos:definition	"a possessive determinative: of or belonging to the speaker, more than one possessor"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-1-Pl-Poss> ;
+	ili:status	ili:provisional .
+
+<i117672>	a	<Concept> ;
+	skos:definition	"a pronoun referring to the speaker, more than one in all (reflexive)"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-1-Pl-Refl> ;
+	ili:status	ili:provisional .
+
+<i117673>	a	<Concept> ;
+	skos:definition	"a pronoun referring to the speaker, one in all"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-1-Sg> ;
+	ili:status	ili:provisional .
+
+<i117674>	a	<Concept> ;
+	skos:definition	"a pronoun referring to the speaker, one in all (feminine, formal, polite, women's speech)"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-1-Sg-F-Fml-Pol-Wom> ;
+	ili:status	ili:provisional .
+
+<i117675>	a	<Concept> ;
+	skos:definition	"a pronoun referring to the speaker, one in all (feminine, polite, women's speech)"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-1-Sg-F-Pol-Wom> ;
+	ili:status	ili:provisional .
+
+<i117676>	a	<Concept> ;
+	skos:definition	"a pronoun referring to the speaker, one in all (formal)"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-1-Sg-Fml> ;
+	ili:status	ili:provisional .
+
+<i117677>	a	<Concept> ;
+	skos:definition	"a pronoun referring to the speaker, one in all (formal, honorific or polite)"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-1-Sg-Fml-Hon_Pol> ;
+	ili:status	ili:provisional .
+
+<i117678>	a	<Concept> ;
+	skos:definition	"a pronoun referring to the speaker, one in all (formal, polite)"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-1-Sg-Fml-Pol> ;
+	ili:status	ili:provisional .
+
+<i117679>	a	<Concept> ;
+	skos:definition	"a pronoun referring to the speaker, one in all (informal)"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-1-Sg-Infml> ;
+	ili:status	ili:provisional .
+
+<i117680>	a	<Concept> ;
+	skos:definition	"a pronoun referring to the speaker, one in all (masculine, informal, honorific, archaic or men's speech)"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-1-Sg-M-Infml-Hon-Arch_Men> ;
+	ili:status	ili:provisional .
+
+<i117681>	a	<Concept> ;
+	skos:definition	"a pronoun referring to the speaker, one in all (masculine, informal, men's speech)"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-1-Sg-M-Infml-Men> ;
+	ili:status	ili:provisional .
+
+<i117682>	a	<Concept> ;
+	skos:definition	"a pronoun referring to the speaker, one in all (masculine, polite, men's speech)"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-1-Sg-M-Pol-Men> ;
+	ili:status	ili:provisional .
+
+<i117683>	a	<Concept> ;
+	skos:definition	"a possessive determinative: of or belonging to the speaker, one possessor"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-1-Sg-Poss> ;
+	ili:status	ili:provisional .
+
+<i117684>	a	<Concept> ;
+	skos:definition	"a pronoun referring to the speaker, one in all (reflexive)"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-1-Sg-Refl> ;
+	ili:status	ili:provisional .
+
+<i117685>	a	<Concept> ;
+	skos:definition	"a pronoun referring to the speaker and others, not the addressee, two in all"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-1e-Du> ;
+	ili:status	ili:provisional .
+
+<i117686>	a	<Concept> ;
+	skos:definition	"a possessive determinative: of or belonging to the speaker and others, not the addressee, two possessors"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-1e-Du-Poss> ;
+	ili:status	ili:provisional .
+
+<i117687>	a	<Concept> ;
+	skos:definition	"a pronoun referring to the speaker and others, not the addressee, more than two in all (where a dual contrasts)"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-1e-Gpl> ;
+	ili:status	ili:provisional .
+
+<i117688>	a	<Concept> ;
+	skos:definition	"a possessive determinative: of or belonging to the speaker and others, not the addressee, more than two possessors (where a dual contrasts)"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-1e-Gpl-Poss> ;
+	ili:status	ili:provisional .
+
+<i117689>	a	<Concept> ;
+	skos:definition	"a pronoun referring to the speaker and others, not the addressee, more than one in all"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-1e-Pl> ;
+	ili:status	ili:provisional .
+
+<i117690>	a	<Concept> ;
+	skos:definition	"a possessive determinative: of or belonging to the speaker and others, not the addressee, more than one possessor"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-1e-Pl-Poss> ;
+	ili:status	ili:provisional .
+
+<i117691>	a	<Concept> ;
+	skos:definition	"a possessive determinative: of or belonging to the speaker and others, not the addressee"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-1e-Poss> ;
+	ili:status	ili:provisional .
+
+<i117692>	a	<Concept> ;
+	skos:definition	"a pronoun referring to the speaker and the addressee, two in all"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-1i-Du> ;
+	ili:status	ili:provisional .
+
+<i117693>	a	<Concept> ;
+	skos:definition	"a possessive determinative: of or belonging to the speaker and the addressee, two possessors"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-1i-Du-Poss> ;
+	ili:status	ili:provisional .
+
+<i117694>	a	<Concept> ;
+	skos:definition	"a pronoun referring to the speaker and the addressee, more than two in all (where a dual contrasts)"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-1i-Gpl> ;
+	ili:status	ili:provisional .
+
+<i117695>	a	<Concept> ;
+	skos:definition	"a possessive determinative: of or belonging to the speaker and the addressee, more than two possessors (where a dual contrasts)"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-1i-Gpl-Poss> ;
+	ili:status	ili:provisional .
+
+<i117696>	a	<Concept> ;
+	skos:definition	"a pronoun referring to the speaker and the addressee, more than one in all"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-1i-Pl> ;
+	ili:status	ili:provisional .
+
+<i117697>	a	<Concept> ;
+	skos:definition	"a possessive determinative: of or belonging to the speaker and the addressee, more than one possessor"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-1i-Pl-Poss> ;
+	ili:status	ili:provisional .
+
+<i117698>	a	<Concept> ;
+	skos:definition	"a pronoun referring to the addressee"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-2> ;
+	ili:status	ili:provisional .
+
+<i117699>	a	<Concept> ;
+	skos:definition	"a pronoun referring to the addressee, two in all"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-2-Du> ;
+	ili:status	ili:provisional .
+
+<i117700>	a	<Concept> ;
+	skos:definition	"a possessive determinative: of or belonging to the addressee, two possessors"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-2-Du-Poss> ;
+	ili:status	ili:provisional .
+
+<i117701>	a	<Concept> ;
+	skos:definition	"a pronoun referring to the addressee, more than two in all (where a dual contrasts)"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-2-Gpl> ;
+	ili:status	ili:provisional .
+
+<i117702>	a	<Concept> ;
+	skos:definition	"a possessive determinative: of or belonging to the addressee, more than two possessors (where a dual contrasts)"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-2-Gpl-Poss> ;
+	ili:status	ili:provisional .
+
+<i117703>	a	<Concept> ;
+	skos:definition	"a pronoun referring to the addressee, more than one in all"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-2-Pl> ;
+	ili:status	ili:provisional .
+
+<i117704>	a	<Concept> ;
+	skos:definition	"a pronoun referring to the addressee, more than one in all (formal, polite)"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-2-Pl-Fml-Pol> ;
+	ili:status	ili:provisional .
+
+<i117705>	a	<Concept> ;
+	skos:definition	"a possessive determinative: of or belonging to the addressee, more than one possessor"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-2-Pl-Poss> ;
+	ili:status	ili:provisional .
+
+<i117706>	a	<Concept> ;
+	skos:definition	"a pronoun referring to the addressee, more than one in all (reflexive)"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-2-Pl-Refl> ;
+	ili:status	ili:provisional .
+
+<i117707>	a	<Concept> ;
+	skos:definition	"a possessive determinative: of or belonging to the addressee"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-2-Poss> ;
+	ili:status	ili:provisional .
+
+<i117708>	a	<Concept> ;
+	skos:definition	"a pronoun referring to the addressee, one in all"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-2-Sg> ;
+	ili:status	ili:provisional .
+
+<i117709>	a	<Concept> ;
+	skos:definition	"a pronoun referring to the addressee, one in all (feminine)"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-2-Sg-F> ;
+	ili:status	ili:provisional .
+
+<i117710>	a	<Concept> ;
+	skos:definition	"a pronoun referring to the addressee, one in all (formal)"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-2-Sg-Fml> ;
+	ili:status	ili:provisional .
+
+<i117711>	a	<Concept> ;
+	skos:definition	"a pronoun referring to the addressee, one in all (formal, polite)"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-2-Sg-Fml-Pol> ;
+	ili:status	ili:provisional .
+
+<i117712>	a	<Concept> ;
+	skos:definition	"a pronoun referring to the addressee, one in all (informal)"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-2-Sg-Infml> ;
+	ili:status	ili:provisional .
+
+<i117713>	a	<Concept> ;
+	skos:definition	"a pronoun referring to the addressee, one in all (masculine)"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-2-Sg-M> ;
+	ili:status	ili:provisional .
+
+<i117714>	a	<Concept> ;
+	skos:definition	"a pronoun referring to the addressee, one in all (masculine, informal, men's speech)"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-2-Sg-M-Infml-Men> ;
+	ili:status	ili:provisional .
+
+<i117715>	a	<Concept> ;
+	skos:definition	"a pronoun referring to the addressee, one in all (polite, men's speech)"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-2-Sg-Pol-Men> ;
+	ili:status	ili:provisional .
+
+<i117716>	a	<Concept> ;
+	skos:definition	"a pronoun referring to the addressee, one in all (polite, women's speech)"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-2-Sg-Pol-Wom> ;
+	ili:status	ili:provisional .
+
+<i117717>	a	<Concept> ;
+	skos:definition	"a possessive determinative: of or belonging to the addressee, one possessor"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-2-Sg-Poss> ;
+	ili:status	ili:provisional .
+
+<i117718>	a	<Concept> ;
+	skos:definition	"a pronoun referring to the addressee, one in all (reflexive)"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-2-Sg-Refl> ;
+	ili:status	ili:provisional .
+
+<i117719>	a	<Concept> ;
+	skos:definition	"a pronoun referring to the addressee, one in all (reflexive, informal, non-honorific)"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-2-Sg-Refl-Infml-NHon> ;
+	ili:status	ili:provisional .
+
+<i117720>	a	<Concept> ;
+	skos:definition	"a pronoun referring to someone or something other than speaker and addressee"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-3> ;
+	ili:status	ili:provisional .
+
+<i117721>	a	<Concept> ;
+	skos:definition	"a pronoun referring to someone or something other than speaker and addressee, two in all"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-3-Du> ;
+	ili:status	ili:provisional .
+
+<i117722>	a	<Concept> ;
+	skos:definition	"a possessive determinative: of or belonging to someone or something other than speaker and addressee, two possessors"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-3-Du-Poss> ;
+	ili:status	ili:provisional .
+
+<i117723>	a	<Concept> ;
+	skos:definition	"a pronoun referring to someone or something other than speaker and addressee, more than two in all (where a dual contrasts)"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-3-Gpl> ;
+	ili:status	ili:provisional .
+
+<i117724>	a	<Concept> ;
+	skos:definition	"a possessive determinative: of or belonging to someone or something other than speaker and addressee, more than two possessors (where a dual contrasts)"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-3-Gpl-Poss> ;
+	ili:status	ili:provisional .
+
+<i117725>	a	<Concept> ;
+	skos:definition	"a pronoun referring to someone or something other than speaker and addressee (other)"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-3-Oth> ;
+	ili:status	ili:provisional .
+
+<i117726>	a	<Concept> ;
+	skos:definition	"a pronoun referring to someone or something other than speaker and addressee, more than one in all"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-3-Pl> ;
+	ili:status	ili:provisional .
+
+<i117727>	a	<Concept> ;
+	skos:definition	"a pronoun referring to someone or something other than speaker and addressee, more than one in all (feminine)"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-3-Pl-F> ;
+	ili:status	ili:provisional .
+
+<i117728>	a	<Concept> ;
+	skos:definition	"a pronoun referring to someone or something other than speaker and addressee, more than one in all (masculine)"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-3-Pl-M> ;
+	ili:status	ili:provisional .
+
+<i117729>	a	<Concept> ;
+	skos:definition	"a pronoun referring to someone or something other than speaker and addressee, more than one in all (neuter)"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-3-Pl-N> ;
+	ili:status	ili:provisional .
+
+<i117730>	a	<Concept> ;
+	skos:definition	"a possessive determinative: of or belonging to someone or something other than speaker and addressee, more than one possessor"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-3-Pl-Poss> ;
+	ili:status	ili:provisional .
+
+<i117731>	a	<Concept> ;
+	skos:definition	"a pronoun referring to someone or something other than speaker and addressee, more than one in all (reciprocal)"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-3-Pl-Recp> ;
+	ili:status	ili:provisional .
+
+<i117732>	a	<Concept> ;
+	skos:definition	"a pronoun referring to someone or something other than speaker and addressee, more than one in all (reflexive)"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-3-Pl-Refl> ;
+	ili:status	ili:provisional .
+
+<i117733>	a	<Concept> ;
+	skos:definition	"a possessive determinative: of or belonging to someone or something other than speaker and addressee"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-3-Poss> ;
+	ili:status	ili:provisional .
+
+<i117734>	a	<Concept> ;
+	skos:definition	"a pronoun referring to someone or something other than speaker and addressee, one in all"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-3-Sg> ;
+	ili:status	ili:provisional .
+
+<i117735>	a	<Concept> ;
+	skos:definition	"a pronoun referring to someone or something other than speaker and addressee, one in all (feminine)"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-3-Sg-F> ;
+	ili:status	ili:provisional .
+
+<i117736>	a	<Concept> ;
+	skos:definition	"a possessive determinative: of or belonging to someone or something other than speaker and addressee, one possessor (feminine or neuter)"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-3-Sg-F_N-Poss> ;
+	ili:status	ili:provisional .
+
+<i117737>	a	<Concept> ;
+	skos:definition	"a possessive determinative: of or belonging to someone or something other than speaker and addressee, one possessor (feminine)"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-3-Sg-F-Poss> ;
+	ili:status	ili:provisional .
+
+<i117738>	a	<Concept> ;
+	skos:definition	"a pronoun referring to someone or something other than speaker and addressee, one in all (feminine, reflexive)"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-3-Sg-F-Refl> ;
+	ili:status	ili:provisional .
+
+<i117739>	a	<Concept> ;
+	skos:definition	"a pronoun referring to someone or something other than speaker and addressee, one in all (informal, non-honorific)"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-3-Sg-Infml-NHon> ;
+	ili:status	ili:provisional .
+
+<i117740>	a	<Concept> ;
+	skos:definition	"a pronoun referring to someone or something other than speaker and addressee, one in all (masculine)"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-3-Sg-M> ;
+	ili:status	ili:provisional .
+
+<i117741>	a	<Concept> ;
+	skos:definition	"a pronoun referring to someone or something other than speaker and addressee, one in all (masculine or neuter)"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-3-Sg-M_N> ;
+	ili:status	ili:provisional .
+
+<i117742>	a	<Concept> ;
+	skos:definition	"a possessive determinative: of or belonging to someone or something other than speaker and addressee, one possessor (masculine or neuter)"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-3-Sg-M_N-Poss> ;
+	ili:status	ili:provisional .
+
+<i117743>	a	<Concept> ;
+	skos:definition	"a pronoun referring to someone or something other than speaker and addressee, one in all (masculine, informal, remote, men's speech)"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-3-Sg-M-Infml-Rem-Men> ;
+	ili:status	ili:provisional .
+
+<i117744>	a	<Concept> ;
+	skos:definition	"a possessive determinative: of or belonging to someone or something other than speaker and addressee, one possessor (masculine)"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-3-Sg-M-Poss> ;
+	ili:status	ili:provisional .
+
+<i117745>	a	<Concept> ;
+	skos:definition	"a pronoun referring to someone or something other than speaker and addressee, one in all (masculine, reflexive)"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-3-Sg-M-Refl> ;
+	ili:status	ili:provisional .
+
+<i117746>	a	<Concept> ;
+	skos:definition	"a pronoun referring to someone or something other than speaker and addressee, one in all (neuter)"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-3-Sg-N> ;
+	ili:status	ili:provisional .
+
+<i117747>	a	<Concept> ;
+	skos:definition	"a possessive determinative: of or belonging to someone or something other than speaker and addressee, one possessor (neuter)"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-3-Sg-N-Poss> ;
+	ili:status	ili:provisional .
+
+<i117748>	a	<Concept> ;
+	skos:definition	"a pronoun referring to someone or something other than speaker and addressee, one in all (neuter, reflexive)"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-3-Sg-N-Refl> ;
+	ili:status	ili:provisional .
+
+<i117749>	a	<Concept> ;
+	skos:definition	"a pronoun referring to someone or something other than speaker and addressee, one in all (other)"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-3-Sg-Oth> ;
+	ili:status	ili:provisional .
+
+<i117750>	a	<Concept> ;
+	skos:definition	"a pronoun referring to someone or something other than speaker and addressee, one in all (polite)"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-3-Sg-Pol> ;
+	ili:status	ili:provisional .
+
+<i117751>	a	<Concept> ;
+	skos:definition	"a possessive determinative: of or belonging to someone or something other than speaker and addressee, one possessor"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-3-Sg-Poss> ;
+	ili:status	ili:provisional .
+
+<i117752>	a	<Concept> ;
+	skos:definition	"an assertive existential determinative"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Asrt> ;
+	ili:status	ili:provisional .
+
+<i117753>	a	<Concept> ;
+	skos:definition	"an indefinite pronoun series used for: direct negation (Haspelmath's functions)"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-DNEG> ;
+	ili:status	ili:provisional .
+
+<i117754>	a	<Concept> ;
+	skos:definition	"a distal determinative"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Dist> ;
+	ili:status	ili:provisional .
+
+<i117755>	a	<Concept> ;
+	skos:definition	"a duration or time interrogative adverb"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Dur_Tim-Int> ;
+	ili:status	ili:provisional .
+
+<i117756>	a	<Concept> ;
+	skos:definition	"an elective existential determinative"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Elec> ;
+	ili:status	ili:provisional .
+
+<i117757>	a	<Concept> ;
+	skos:definition	"a possessive pronoun: someone or something belonging to the speaker, more than one possessor"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Ent-1-Pl-Poss> ;
+	ili:status	ili:provisional .
+
+<i117758>	a	<Concept> ;
+	skos:definition	"a possessive pronoun: someone or something belonging to the speaker, one possessor"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Ent-1-Sg-Poss> ;
+	ili:status	ili:provisional .
+
+<i117759>	a	<Concept> ;
+	skos:definition	"a possessive pronoun: someone or something belonging to the addressee"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Ent-2-Poss> ;
+	ili:status	ili:provisional .
+
+<i117760>	a	<Concept> ;
+	skos:definition	"a possessive pronoun: someone or something belonging to the addressee, one possessor"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Ent-2-Sg-Poss> ;
+	ili:status	ili:provisional .
+
+<i117761>	a	<Concept> ;
+	skos:definition	"a possessive pronoun: someone or something belonging to someone or something other than speaker and addressee, more than one possessor"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Ent-3-Pl-Poss> ;
+	ili:status	ili:provisional .
+
+<i117762>	a	<Concept> ;
+	skos:definition	"a possessive pronoun: someone or something belonging to someone or something other than speaker and addressee, one possessor (feminine)"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Ent-3-Sg-F-Poss> ;
+	ili:status	ili:provisional .
+
+<i117763>	a	<Concept> ;
+	skos:definition	"a possessive pronoun: someone or something belonging to someone or something other than speaker and addressee, one possessor (masculine)"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Ent-3-Sg-M-Poss> ;
+	ili:status	ili:provisional .
+
+<i117764>	a	<Concept> ;
+	skos:definition	"a possessive pronoun: someone or something belonging to someone or something other than speaker and addressee, one possessor (neuter)"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Ent-3-Sg-N-Poss> ;
+	ili:status	ili:provisional .
+
+<i117765>	a	<Concept> ;
+	skos:definition	"an entity assertive existential pronoun"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Ent-Asrt> ;
+	ili:status	ili:provisional .
+
+<i117766>	a	<Concept> ;
+	skos:definition	"an entity distal pronoun"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Ent-Dist> ;
+	ili:status	ili:provisional .
+
+<i117767>	a	<Concept> ;
+	skos:definition	"an entity elective existential pronoun"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Ent-Elec> ;
+	ili:status	ili:provisional .
+
+<i117768>	a	<Concept> ;
+	skos:definition	"an entity interrogative pronoun"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Ent-Int> ;
+	ili:status	ili:provisional .
+
+<i117769>	a	<Concept> ;
+	skos:definition	"an entity plural distal pronoun"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Ent-Pl-Dist> ;
+	ili:status	ili:provisional .
+
+<i117770>	a	<Concept> ;
+	skos:definition	"an entity plural medial pronoun"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Ent-Pl-Med> ;
+	ili:status	ili:provisional .
+
+<i117771>	a	<Concept> ;
+	skos:definition	"an entity plural other pronoun"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Ent-Pl-Oth> ;
+	ili:status	ili:provisional .
+
+<i117772>	a	<Concept> ;
+	skos:definition	"an entity plural proximal pronoun"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Ent-Pl-Prox> ;
+	ili:status	ili:provisional .
+
+<i117773>	a	<Concept> ;
+	skos:definition	"an entity proximal pronoun"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Ent-Prox> ;
+	ili:status	ili:provisional .
+
+<i117774>	a	<Concept> ;
+	skos:definition	"an entity singular distal pronoun"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Ent-Sg-Dist> ;
+	ili:status	ili:provisional .
+
+<i117775>	a	<Concept> ;
+	skos:definition	"an entity singular medial pronoun"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Ent-Sg-Med> ;
+	ili:status	ili:provisional .
+
+<i117776>	a	<Concept> ;
+	skos:definition	"an entity singular negative pronoun"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Ent-Sg-Neg> ;
+	ili:status	ili:provisional .
+
+<i117777>	a	<Concept> ;
+	skos:definition	"an entity singular other pronoun"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Ent-Sg-Oth> ;
+	ili:status	ili:provisional .
+
+<i117778>	a	<Concept> ;
+	skos:definition	"an entity singular proximal pronoun"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Ent-Sg-Prox> ;
+	ili:status	ili:provisional .
+
+<i117779>	a	<Concept> ;
+	skos:definition	"an entity singular proximal or distal pronoun"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Ent-Sg-Prox_Dist> ;
+	ili:status	ili:provisional .
+
+<i117780>	a	<Concept> ;
+	skos:definition	"an entity singular remote pronoun"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Ent-Sg-Rem> ;
+	ili:status	ili:provisional .
+
+<i117781>	a	<Concept> ;
+	skos:definition	"an entity singular elective existential pronoun of two"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Ent-Sg-Two-Elec> ;
+	ili:status	ili:provisional .
+
+<i117782>	a	<Concept> ;
+	skos:definition	"an entity singular negative pronoun of two"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Ent-Sg-Two-Neg> ;
+	ili:status	ili:provisional .
+
+<i117783>	a	<Concept> ;
+	skos:definition	"an entity singular universal pronoun"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Ent-Sg-Univ> ;
+	ili:status	ili:provisional .
+
+<i117784>	a	<Concept> ;
+	skos:definition	"an entity formal medial pronoun of two"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Ent-Two-Fml-Med> ;
+	ili:status	ili:provisional .
+
+<i117785>	a	<Concept> ;
+	skos:definition	"an entity formal proximal pronoun of two"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Ent-Two-Fml-Prox> ;
+	ili:status	ili:provisional .
+
+<i117786>	a	<Concept> ;
+	skos:definition	"an entity formal remote pronoun of two"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Ent-Two-Fml-Rem> ;
+	ili:status	ili:provisional .
+
+<i117787>	a	<Concept> ;
+	skos:definition	"an entity informal medial pronoun of two"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Ent-Two-Infml-Med> ;
+	ili:status	ili:provisional .
+
+<i117788>	a	<Concept> ;
+	skos:definition	"an entity informal proximal pronoun of two"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Ent-Two-Infml-Prox> ;
+	ili:status	ili:provisional .
+
+<i117789>	a	<Concept> ;
+	skos:definition	"an entity informal remote pronoun of two"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Ent-Two-Infml-Rem> ;
+	ili:status	ili:provisional .
+
+<i117790>	a	<Concept> ;
+	skos:definition	"an entity interrogative formal pronoun of two"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Ent-Two-Int-Fml> ;
+	ili:status	ili:provisional .
+
+<i117791>	a	<Concept> ;
+	skos:definition	"an entity interrogative informal pronoun of two"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Ent-Two-Int-Infml> ;
+	ili:status	ili:provisional .
+
+<i117792>	a	<Concept> ;
+	skos:definition	"an entity universal pronoun of two"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Ent-Two-Univ> ;
+	ili:status	ili:provisional .
+
+<i117793>	a	<Concept> ;
+	skos:definition	"an entity universal pronoun"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Ent-Univ> ;
+	ili:status	ili:provisional .
+
+<i117794>	a	<Concept> ;
+	skos:definition	"an indefinite pronoun series used for: free choice (Haspelmath's functions)"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-FC> ;
+	ili:status	ili:provisional .
+
+<i117795>	a	<Concept> ;
+	skos:definition	"an interrogative determinative"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Int> ;
+	ili:status	ili:provisional .
+
+<i117796>	a	<Concept> ;
+	skos:definition	"a kind distal determinative"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Knd-Dist> ;
+	ili:status	ili:provisional .
+
+<i117797>	a	<Concept> ;
+	skos:definition	"a kind interrogative determinative"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Knd-Int> ;
+	ili:status	ili:provisional .
+
+<i117798>	a	<Concept> ;
+	skos:definition	"a kind medial determinative"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Knd-Med> ;
+	ili:status	ili:provisional .
+
+<i117799>	a	<Concept> ;
+	skos:definition	"a kind proximal determinative"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Knd-Prox> ;
+	ili:status	ili:provisional .
+
+<i117800>	a	<Concept> ;
+	skos:definition	"a kind proximal or distal determinative"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Knd-Prox_Dist> ;
+	ili:status	ili:provisional .
+
+<i117801>	a	<Concept> ;
+	skos:definition	"a kind remote determinative"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Knd-Rem> ;
+	ili:status	ili:provisional .
+
+<i117802>	a	<Concept> ;
+	skos:definition	"a medial determinative"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Med> ;
+	ili:status	ili:provisional .
+
+<i117803>	a	<Concept> ;
+	skos:definition	"a manner distal adverb"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Mnr-Dist> ;
+	ili:status	ili:provisional .
+
+<i117804>	a	<Concept> ;
+	skos:definition	"a manner elective existential adverb"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Mnr-Elec> ;
+	ili:status	ili:provisional .
+
+<i117805>	a	<Concept> ;
+	skos:definition	"a manner interrogative adverb"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Mnr-Int> ;
+	ili:status	ili:provisional .
+
+<i117806>	a	<Concept> ;
+	skos:definition	"a manner medial adverb"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Mnr-Med> ;
+	ili:status	ili:provisional .
+
+<i117807>	a	<Concept> ;
+	skos:definition	"a manner proximal adverb"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Mnr-Prox> ;
+	ili:status	ili:provisional .
+
+<i117808>	a	<Concept> ;
+	skos:definition	"a manner remote adverb"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Mnr-Rem> ;
+	ili:status	ili:provisional .
+
+<i117809>	a	<Concept> ;
+	skos:definition	"an other pronoun"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Oth> ;
+	ili:status	ili:provisional .
+
+<i117810>	a	<Concept> ;
+	skos:definition	"a person interrogative pronoun"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Pers-Int> ;
+	ili:status	ili:provisional .
+
+<i117811>	a	<Concept> ;
+	skos:definition	"a person interrogative polite pronoun"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Pers-Int-Pol> ;
+	ili:status	ili:provisional .
+
+<i117812>	a	<Concept> ;
+	skos:definition	"a person plural informal medial men's speech pronoun"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Pers-Pl-Infml-Med-Men> ;
+	ili:status	ili:provisional .
+
+<i117813>	a	<Concept> ;
+	skos:definition	"a person plural informal proximal men's speech pronoun"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Pers-Pl-Infml-Prox-Men> ;
+	ili:status	ili:provisional .
+
+<i117814>	a	<Concept> ;
+	skos:definition	"a person plural informal remote men's speech pronoun"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Pers-Pl-Infml-Rem-Men> ;
+	ili:status	ili:provisional .
+
+<i117815>	a	<Concept> ;
+	skos:definition	"a person reflexive pronoun"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Pers-Refl> ;
+	ili:status	ili:provisional .
+
+<i117816>	a	<Concept> ;
+	skos:definition	"a person singular assertive existential pronoun"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Pers-Sg-Asrt> ;
+	ili:status	ili:provisional .
+
+<i117817>	a	<Concept> ;
+	skos:definition	"a person singular elective existential pronoun"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Pers-Sg-Elec> ;
+	ili:status	ili:provisional .
+
+<i117818>	a	<Concept> ;
+	skos:definition	"a person singular informal medial men's speech pronoun"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Pers-Sg-Infml-Med-Men> ;
+	ili:status	ili:provisional .
+
+<i117819>	a	<Concept> ;
+	skos:definition	"a person singular informal proximal men's speech pronoun"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Pers-Sg-Infml-Prox-Men> ;
+	ili:status	ili:provisional .
+
+<i117820>	a	<Concept> ;
+	skos:definition	"a person singular negative pronoun"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Pers-Sg-Neg> ;
+	ili:status	ili:provisional .
+
+<i117821>	a	<Concept> ;
+	skos:definition	"a person universal pronoun"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Pers-Univ> ;
+	ili:status	ili:provisional .
+
+<i117822>	a	<Concept> ;
+	skos:definition	"a person universal polite pronoun"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Pers-Univ-Pol> ;
+	ili:status	ili:provisional .
+
+<i117823>	a	<Concept> ;
+	skos:definition	"a plural distal determinative"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Pl-Dist> ;
+	ili:status	ili:provisional .
+
+<i117824>	a	<Concept> ;
+	skos:definition	"a plural proximal determinative"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Pl-Prox> ;
+	ili:status	ili:provisional .
+
+<i117825>	a	<Concept> ;
+	skos:definition	"an adposition: at, to or from a place (distal)"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Plc-Dist-Dir> ;
+	ili:status	ili:provisional .
+
+<i117826>	a	<Concept> ;
+	skos:definition	"an adposition: at or to a place (distal)"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Plc-Dist-Loc_Goal> ;
+	ili:status	ili:provisional .
+
+<i117827>	a	<Concept> ;
+	skos:definition	"a place formal medial pronoun"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Plc-Fml-Med> ;
+	ili:status	ili:provisional .
+
+<i117828>	a	<Concept> ;
+	skos:definition	"a place formal proximal pronoun"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Plc-Fml-Prox> ;
+	ili:status	ili:provisional .
+
+<i117829>	a	<Concept> ;
+	skos:definition	"a place formal remote pronoun"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Plc-Fml-Rem> ;
+	ili:status	ili:provisional .
+
+<i117830>	a	<Concept> ;
+	skos:definition	"a place informal medial pronoun"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Plc-Infml-Med> ;
+	ili:status	ili:provisional .
+
+<i117831>	a	<Concept> ;
+	skos:definition	"a place informal proximal pronoun"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Plc-Infml-Prox> ;
+	ili:status	ili:provisional .
+
+<i117832>	a	<Concept> ;
+	skos:definition	"a place informal remote pronoun"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Plc-Infml-Rem> ;
+	ili:status	ili:provisional .
+
+<i117833>	a	<Concept> ;
+	skos:definition	"a place interrogative pronoun"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Plc-Int> ;
+	ili:status	ili:provisional .
+
+<i117834>	a	<Concept> ;
+	skos:definition	"an adposition: at, to or from a place (interrogative)"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Plc-Int-Dir> ;
+	ili:status	ili:provisional .
+
+<i117835>	a	<Concept> ;
+	skos:definition	"an adposition: at or to a place (interrogative)"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Plc-Int-Loc_Goal> ;
+	ili:status	ili:provisional .
+
+<i117836>	a	<Concept> ;
+	skos:definition	"a place interrogative formal pronoun"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Plc-Int-Fml> ;
+	ili:status	ili:provisional .
+
+<i117837>	a	<Concept> ;
+	skos:definition	"an adposition: to a place (interrogative)"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Plc-Int-Goal> ;
+	ili:status	ili:provisional .
+
+<i117838>	a	<Concept> ;
+	skos:definition	"a place interrogative informal pronoun"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Plc-Int-Infml> ;
+	ili:status	ili:provisional .
+
+<i117839>	a	<Concept> ;
+	skos:definition	"an adposition: at a place (interrogative)"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Plc-Int-Loc> ;
+	ili:status	ili:provisional .
+
+<i117840>	a	<Concept> ;
+	skos:definition	"an adposition: from a place (interrogative)"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Plc-Int-Src> ;
+	ili:status	ili:provisional .
+
+<i117841>	a	<Concept> ;
+	skos:definition	"a place medial pronoun"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Plc-Med> ;
+	ili:status	ili:provisional .
+
+<i117842>	a	<Concept> ;
+	skos:definition	"an adposition: at, to or from a place (medial)"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Plc-Med-Dir> ;
+	ili:status	ili:provisional .
+
+<i117843>	a	<Concept> ;
+	skos:definition	"an adposition: at or to a place (medial)"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Plc-Med-Loc_Goal> ;
+	ili:status	ili:provisional .
+
+<i117844>	a	<Concept> ;
+	skos:definition	"an adposition: at, to or from a place (proximal)"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Plc-Prox-Dir> ;
+	ili:status	ili:provisional .
+
+<i117845>	a	<Concept> ;
+	skos:definition	"an adposition: at or to a place (proximal)"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Plc-Prox-Loc_Goal> ;
+	ili:status	ili:provisional .
+
+<i117846>	a	<Concept> ;
+	skos:definition	"an adposition: at, to or from a place (proximal or distal)"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Plc-Prox_Dist-Dir> ;
+	ili:status	ili:provisional .
+
+<i117847>	a	<Concept> ;
+	skos:definition	"an adposition: at or to a place (proximal or distal)"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Plc-Prox_Dist-Loc_Goal> ;
+	ili:status	ili:provisional .
+
+<i117848>	a	<Concept> ;
+	skos:definition	"a place remote pronoun"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Plc-Rem> ;
+	ili:status	ili:provisional .
+
+<i117849>	a	<Concept> ;
+	skos:definition	"an adposition: at, to or from a place (remote)"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Plc-Rem-Dir> ;
+	ili:status	ili:provisional .
+
+<i117850>	a	<Concept> ;
+	skos:definition	"an adposition: at or to a place (remote)"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Plc-Rem-Loc_Goal> ;
+	ili:status	ili:provisional .
+
+<i117851>	a	<Concept> ;
+	skos:definition	"a place singular assertive existential pronoun"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Plc-Sg-Asrt> ;
+	ili:status	ili:provisional .
+
+<i117852>	a	<Concept> ;
+	skos:definition	"an adposition: at, to or from a place (singular, elective existential)"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Plc-Sg-Elec-Dir> ;
+	ili:status	ili:provisional .
+
+<i117853>	a	<Concept> ;
+	skos:definition	"a place singular other pronoun"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Plc-Sg-Oth> ;
+	ili:status	ili:provisional .
+
+<i117854>	a	<Concept> ;
+	skos:definition	"an adposition: at, to or from a place (universal)"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Plc-Univ-Dir> ;
+	ili:status	ili:provisional .
+
+<i117855>	a	<Concept> ;
+	skos:definition	"a possessive interrogative determinative"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Poss-Int> ;
+	ili:status	ili:provisional .
+
+<i117856>	a	<Concept> ;
+	skos:definition	"a proximal determinative"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Prox> ;
+	ili:status	ili:provisional .
+
+<i117857>	a	<Concept> ;
+	skos:definition	"a proximal or distal determinative"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Prox_Dist> ;
+	ili:status	ili:provisional .
+
+<i117858>	a	<Concept> ;
+	skos:definition	"a quantity interrogative pronoun"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Qnt-Int> ;
+	ili:status	ili:provisional .
+
+<i117859>	a	<Concept> ;
+	skos:definition	"a quantity proximal pronoun"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Qnt-Prox> ;
+	ili:status	ili:provisional .
+
+<i117860>	a	<Concept> ;
+	skos:definition	"a remote determinative"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Rem> ;
+	ili:status	ili:provisional .
+
+<i117861>	a	<Concept> ;
+	skos:definition	"a reason interrogative adverb"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Rsn-Int> ;
+	ili:status	ili:provisional .
+
+<i117862>	a	<Concept> ;
+	skos:definition	"an indefinite pronoun series used for: specific known, specific unknown (Haspelmath's functions)"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-SK_SU> ;
+	ili:status	ili:provisional .
+
+<i117863>	a	<Concept> ;
+	skos:definition	"an indefinite pronoun series used for: specific known, specific unknown, irrealis non-specific, question, conditional, indirect negation (Haspelmath's functions)"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-SK_SU_IRR_Q_COND_INEG> ;
+	ili:status	ili:provisional .
+
+<i117864>	a	<Concept> ;
+	skos:definition	"a singular distal determinative"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Sg-Dist> ;
+	ili:status	ili:provisional .
+
+<i117865>	a	<Concept> ;
+	skos:definition	"a singular other determinative"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Sg-Oth> ;
+	ili:status	ili:provisional .
+
+<i117866>	a	<Concept> ;
+	skos:definition	"a singular proximal determinative"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Sg-Prox> ;
+	ili:status	ili:provisional .
+
+<i117867>	a	<Concept> ;
+	skos:definition	"a singular elective existential determinative of two"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Sg-Two-Elec> ;
+	ili:status	ili:provisional .
+
+<i117868>	a	<Concept> ;
+	skos:definition	"a singular negative determinative of two"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Sg-Two-Neg> ;
+	ili:status	ili:provisional .
+
+<i117869>	a	<Concept> ;
+	skos:definition	"a singular universal determinative of two"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Sg-Two-Univ> ;
+	ili:status	ili:provisional .
+
+<i117870>	a	<Concept> ;
+	skos:definition	"a singular universal determinative"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Sg-Univ> ;
+	ili:status	ili:provisional .
+
+<i117871>	a	<Concept> ;
+	skos:definition	"a thing interrogative pronoun"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Thng-Int> ;
+	ili:status	ili:provisional .
+
+<i117872>	a	<Concept> ;
+	skos:definition	"a thing singular assertive existential pronoun"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Thng-Sg-Asrt> ;
+	ili:status	ili:provisional .
+
+<i117873>	a	<Concept> ;
+	skos:definition	"a thing singular elective existential pronoun"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Thng-Sg-Elec> ;
+	ili:status	ili:provisional .
+
+<i117874>	a	<Concept> ;
+	skos:definition	"a thing singular universal pronoun"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Thng-Sg-Univ> ;
+	ili:status	ili:provisional .
+
+<i117875>	a	<Concept> ;
+	skos:definition	"an adposition: at, until or since a time (distal)"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Tim-Dist-Dir> ;
+	ili:status	ili:provisional .
+
+<i117876>	a	<Concept> ;
+	skos:definition	"a time interrogative pronoun"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Tim-Int> ;
+	ili:status	ili:provisional .
+
+<i117877>	a	<Concept> ;
+	skos:definition	"an adposition: at, until or since a time (interrogative)"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Tim-Int-Dir> ;
+	ili:status	ili:provisional .
+
+<i117878>	a	<Concept> ;
+	skos:definition	"an adposition: at a time (interrogative)"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Tim-Int-Loc> ;
+	ili:status	ili:provisional .
+
+<i117879>	a	<Concept> ;
+	skos:definition	"an adposition: at, until or since a time (proximal)"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Tim-Prox-Dir> ;
+	ili:status	ili:provisional .
+
+<i117880>	a	<Concept> ;
+	skos:definition	"an adposition: at, until or since a time (singular, assertive existential)"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Tim-Sg-Asrt-Dir> ;
+	ili:status	ili:provisional .
+
+<i117881>	a	<Concept> ;
+	skos:definition	"an adposition: at, until or since a time (singular, elective existential)"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Tim-Sg-Elec-Dir> ;
+	ili:status	ili:provisional .
+
+<i117882>	a	<Concept> ;
+	skos:definition	"a universal determinative"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-Univ> ;
+	ili:status	ili:provisional .
+
+<i117883>	a	<Concept> ;
+	skos:definition	"used of a word that refers to a group that includes the hearer"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-feature-1i> ;
+	ili:status	ili:provisional .
+
+<i117884>	a	<Concept> ;
+	skos:definition	"used of a word that refers to a group that excludes the hearer"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-feature-1e> ;
+	ili:status	ili:provisional .
+
+<i117885>	a	<Concept> ;
+	skos:definition	"chosen from a set of two: either, neither, which of the two"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-feature-Two> ;
+	ili:status	ili:provisional .
+
+<i117886>	a	<Concept> ;
+	skos:definition	"a grammatical number category referring to more than two (or three) items, in a language where plural contrasts with dual (or trial)"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-feature-Gpl> ;
+	ili:status	ili:provisional .
+
+<i117887>	a	<Concept> ;
+	skos:definition	"of a pronoun or quantifier that asserts the existence of a referent without identifying it, as English some- (someone, something)"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-feature-Asrt> ;
+	ili:status	ili:provisional .
+
+<i117888>	a	<Concept> ;
+	skos:definition	"of a pronoun or quantifier that leaves the choice of referent free, as English any- (anyone, anything)"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-feature-Elec> ;
+	ili:status	ili:provisional .
+
+<i117889>	a	<Concept> ;
+	skos:definition	"of a pronoun or quantifier that denies the existence of a referent, as English no- (nobody, nothing)"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-feature-Neg> ;
+	ili:status	ili:provisional .
+
+<i117890>	a	<Concept> ;
+	skos:definition	"of a pronoun or quantifier that refers to every member of a set, as English every- (everyone, everything)"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-feature-Univ> ;
+	ili:status	ili:provisional .
+
+<i117891>	a	<Concept> ;
+	skos:definition	"of a pronoun or quantifier that refers to a referent other than one already mentioned, as English other, another"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-feature-Oth> ;
+	ili:status	ili:provisional .
+
+<i117892>	a	<Concept> ;
+	skos:definition	"not conferring or showing honor or respect"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-feature-NHon> ;
+	ili:status	ili:provisional .
+
+<i117893>	a	<Concept> ;
+	skos:definition	"relating to or characteristic of a word referring to something at a proximal distance"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-feature-Prox> ;
+	ili:status	ili:provisional .
+
+<i117894>	a	<Concept> ;
+	skos:definition	"relating to or characteristic of a word referring to something at a medium distance"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-feature-Med> ;
+	ili:status	ili:provisional .
+
+<i117895>	a	<Concept> ;
+	skos:definition	"relating to or characteristic of a word referring to something not near the speaker; where a language distinguishes medial and remote, it covers both"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-feature-Dist> ;
+	ili:status	ili:provisional .
+
+<i117896>	a	<Concept> ;
+	skos:definition	"relating to or characteristic of a word referring to something at a distal remote distance"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-feature-Rem> ;
+	ili:status	ili:provisional .
+
+<i117897>	a	<Concept> ;
+	skos:definition	"the semantic role of a place or time to which a state or event is related, without specifying the relation (at, to or from)"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-feature-Dir> ;
+	ili:status	ili:provisional .
+
+<i117898>	a	<Concept> ;
+	skos:definition	"speech used predominately by men"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-feature-Men> ;
+	ili:status	ili:provisional .
+
+<i117899>	a	<Concept> ;
+	skos:definition	"speech used predominately by women"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-feature-Wom> ;
+	ili:status	ili:provisional .
+
+<i117900>	a	<Concept> ;
+	skos:definition	"of a word or form: no longer in everyday use, kept for an old-fashioned or formal effect"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-feature-Arch> ;
+	ili:status	ili:provisional .
+
+<i117901>	a	<Concept> ;
+	skos:definition	"an indefinite pronoun function (Haspelmath 1997): the referent is specific and known to the speaker"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-feature-SK> ;
+	ili:status	ili:provisional .
+
+<i117902>	a	<Concept> ;
+	skos:definition	"an indefinite pronoun function (Haspelmath 1997): the referent is specific but not known to the speaker"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-feature-SU> ;
+	ili:status	ili:provisional .
+
+<i117903>	a	<Concept> ;
+	skos:definition	"an indefinite pronoun function (Haspelmath 1997): the referent is non-specific, occurring only in some imagined mental space"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-feature-IRR> ;
+	ili:status	ili:provisional .
+
+<i117904>	a	<Concept> ;
+	skos:definition	"an indefinite pronoun function (Haspelmath 1997): the indefinite pronoun occurs in a question"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-feature-Q> ;
+	ili:status	ili:provisional .
+
+<i117905>	a	<Concept> ;
+	skos:definition	"an indefinite pronoun function (Haspelmath 1997): the indefinite pronoun occurs in a subordinate conditional clause"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-feature-COND> ;
+	ili:status	ili:provisional .
+
+<i117906>	a	<Concept> ;
+	skos:definition	"an indefinite pronoun function (Haspelmath 1997): the indefinite pronoun is in the scope of negation, but not of the same clause"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-feature-INEG> ;
+	ili:status	ili:provisional .
+
+<i117907>	a	<Concept> ;
+	skos:definition	"an indefinite pronoun function (Haspelmath 1997): the indefinite pronoun is in the scope of negation within the same clause"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-feature-DNEG> ;
+	ili:status	ili:provisional .
+
+<i117908>	a	<Concept> ;
+	skos:definition	"an indefinite pronoun function (Haspelmath 1997): the indefinite pronoun indicates free choice"@en ;
+	dc:source	<https://omwn.org/omw-pronoun/#/search?id=omw-pronoun-feature-FC> ;
+	ili:status	ili:provisional .
+
